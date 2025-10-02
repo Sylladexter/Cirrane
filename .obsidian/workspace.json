@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Resources/Guides & Resources/Github Pages.md",
+                "file": "05 - Resources/Templates/character.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Github Pages"
+              "title": "character"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "05 - Resources/Templates/character.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Index"
+              "title": "File properties for character"
             }
           },
           {
@@ -269,8 +269,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2a7ad9746499cdf",
+  "active": "20df2d7c98fad9c1",
   "lastOpenFiles": [
+    "05 - Resources/Templates/character.md",
     "Index.md",
     "docs/site-lib/styles/other-plugins.css",
     "05 - Resources/Testing/archive/character-v2.md",

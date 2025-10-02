@@ -3,7 +3,9 @@
   "accentColor": "#84bbf5",
   "enabledCssSnippets": [
     "tweaks",
-    "Colored Sidebar Items Modified"
+    "Colored Sidebar Items Modified",
+    "extended-colorschemes",
+    "infobox-callouts"
   ],
   "theme": "system",
   "nativeMenus": true,
