@@ -2,12 +2,8 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "#84bbf5",
   "enabledCssSnippets": [
-    "infobox-callouts",
-    "Table Styles",
     "tweaks",
-    "Colored Sidebar Items Modified",
-    "extended-colorschemes",
-    "custom-fonts"
+    "Colored Sidebar Items Modified"
   ],
   "theme": "system",
   "nativeMenus": true,

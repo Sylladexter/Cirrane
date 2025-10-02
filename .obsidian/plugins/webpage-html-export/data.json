@@ -161,7 +161,7 @@
       "hideSettingsButton": false,
       "allowResizing": true,
       "allowCollapsing": true,
-      "rightDefaultWidth": "20em",
+      "rightDefaultWidth": "0",
       "leftDefaultWidth": "20em"
     },
     "customHeadOptions": {
@@ -222,21 +222,20 @@
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [
-      "markdown-timeline",
-      "system3-relay",
-      "dataview",
-      "pexels-banner",
-      "obsidian-image-gallery",
-      "tabs",
-      "obsidian-columns",
-      "home-tab",
       "anp-stylesheet",
-      "svelte-1gxdage",
-      "svelte-11adhly",
       "svelte-1siabfk",
       "svelte-1yjwmjb",
       "svelte-1v6c0q",
-      "svelte-1ljf67u"
+      "svelte-1ljf67u",
+      "svelte-1gxdage",
+      "svelte-11adhly",
+      "markdown-timeline",
+      "dataview",
+      "pexels-banner",
+      "obsidian-columns",
+      "home-tab",
+      "tabs",
+      "obsidian-image-gallery"
     ],
     "includeStyleCssIds": [
       "markdown-timeline",
