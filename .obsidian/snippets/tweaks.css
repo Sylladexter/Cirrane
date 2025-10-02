@@ -12,12 +12,12 @@
   justify-content:space-evenly;
  }
  
- .home .callout[data-callout-metadata="cc-nav"] .callout-content li {
+.home .callout[data-callout-metadata="cc-nav"] .callout-content li {
   margin:0;
   text-align: center;
  }
 
- .home .callout[data-callout-metadata="cc-nav"] a {
+.home .callout[data-callout-metadata="cc-nav"] a {
   display:flex;
   flex-flow: column;
   margin:auto;
@@ -28,11 +28,11 @@
   font-weight: 300;
  }
  
- .home .callout[data-callout-metadata="cc-nav"]  .list-bullet {
+.home .callout[data-callout-metadata="cc-nav"]  .list-bullet {
   display:none;
- }
+}
  
- .home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon {
+.home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon {
  background: var(--link-color);
  width: 80px;
  height: 80px;
@@ -41,14 +41,15 @@
  margin: 1.5em auto;
  }
  
- .home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon svg  {
+.home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon svg  {
   width: 25px;
   height: 25px;
   color: var(--text-normal);
   margin:auto;
  }
 
- /********************
+ 
+/********************
   Blocks
 *********************/ 
 
@@ -199,7 +200,8 @@ p > .l + .dataview {
 .bases-embed[alt~="no-toolbar"] > .bases-header,
 .bases-embed[alt~="no-toolbar"] .bases-thead,
 .chara .callout[data-callout="r-img"] .callout-title,
-.chara .callout[data-callout="r-desc"] .callout-title
+.chara .callout[data-callout="r-desc"] .callout-title,
+.home .callout[data-callout-metadata="cc-nav"] .callout-title
  {
     display:none;
 }

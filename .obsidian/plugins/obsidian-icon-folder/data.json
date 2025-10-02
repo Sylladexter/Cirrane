@@ -59,6 +59,5 @@
   "00 - Wiki/Locations": "LiMapPin",
   "05 - Resources/Guides & Resources": "LiHelp",
   "01 - Stories/The Journalist": "LiNotebookPen",
-  "01 - Stories/The Curse": "LiSkull",
-  "Index.md": "LiStar"
+  "01 - Stories/The Curse": "LiSkull"
 }

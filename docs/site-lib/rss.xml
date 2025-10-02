@@ -1,16 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cirrane]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Cirrane</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 Oct 2025 18:25:09 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 Oct 2025 18:25:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Github Pages]]></title><description><![CDATA[
-Export as HTML
-Online Website
-Warning
-No files over 100mb!! Create repo
-Command line:
-- init
-- git remote add origin
-- git add --all
-- git push Go to Settings
-Go to Pages Source: Deploy from branch
-Branch: Main -&gt; docs/ Save
-]]></description><link>05-resources/guides-&amp;-resources/github-pages.html</link><guid isPermaLink="false">05 - Resources/Guides &amp; Resources/Github Pages.md</guid><pubDate>Thu, 02 Oct 2025 18:08:13 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ Col <a data-tooltip-position="top" aria-label="Characters" data-href="Characters" href="00-wiki/characters.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="cm-iconize-icon" aria-label="LiIdCard" data-icon="LiIdCard" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-id-card"><path d="M16 10h2"></path><path d="M16 14h2"></path><path d="M6.17 15a3 3 0 0 1 5.66 0"></path><circle cx="9" cy="11" r="2"></circle><rect x="2" y="5" width="20" height="14" rx="2"></rect></svg></span> Characters</a>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cirrane]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Cirrane</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 Oct 2025 19:16:11 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 Oct 2025 19:16:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Index]]></title><description><![CDATA[ Col <a data-tooltip-position="top" aria-label="Characters" data-href="Characters" href="00-wiki/characters.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="cm-iconize-icon" aria-label="LiIdCard" data-icon="LiIdCard" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-id-card"><path d="M16 10h2"></path><path d="M16 14h2"></path><path d="M6.17 15a3 3 0 0 1 5.66 0"></path><circle cx="9" cy="11" r="2"></circle><rect x="2" y="5" width="20" height="14" rx="2"></rect></svg></span> Characters</a>
 <br><a data-tooltip-position="top" aria-label="Timeline" data-href="Timeline" href=".html" class="internal-link" target="_self" rel="noopener nofollow"><span class="cm-iconize-icon" aria-label="LiClock" data-icon="LiClock" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg></span> Timeline</a>
 <br><a data-tooltip-position="top" aria-label="Stories" data-href="Stories" href=".html" class="internal-link" target="_self" rel="noopener nofollow"><span class="cm-iconize-icon" aria-label="LiBook" data-icon="LiBook" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-book"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"></path></svg></span> Stories</a>
 <br><a data-tooltip-position="top" aria-label="Locations" data-href="Locations" href="00-wiki/locations/locations.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="cm-iconize-icon" aria-label="LiMapPin" data-icon="LiMapPin" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-map-pin"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg></span> Locations</a> To DoTo Do Outlines The Journalist (In Progress)
@@ -25,7 +13,113 @@ Region
 Districts
 Gauntlets
 Gods
-Lake at the bottom of Esterra ]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Thu, 02 Oct 2025 18:25:06 GMT</pubDate></item><item><title><![CDATA[Cirrane]]></title><description><![CDATA[From highest to lowest
+Lake at the bottom of Esterra ]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Thu, 02 Oct 2025 19:16:08 GMT</pubDate></item><item><title><![CDATA[character (old)]]></title><link>05-resources/testing/archive/character-(old).html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character (old).md</guid><pubDate>Wed, 01 Oct 2025 21:00:23 GMT</pubDate></item><item><title><![CDATA[character-v4]]></title><description><![CDATA[Infobox
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self">
+0 • ♀/♂/⚲ (pro/noun) • 0'0" Blockquote
+"Something your funny guy would say" Age 0
+Birthday Month 00th
+Height 0'0"
+Affinity Affinity
+Nationality Nationality
+Creator Creator <br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a> <br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>
+Blockquote
+adjective • adjective • adjective
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. pos trait
+pos trait
+pos trait neg trait
+neg trait
+neg trait
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
+<br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
+<br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
+Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v4.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v4.md</guid><pubDate>Tue, 30 Sep 2025 00:41:06 GMT</pubDate><enclosure url="docs/05-resources/images/icons/cafelogobig.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="docs/05-resources/images/icons/cafelogobig.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[testzone...2!]]></title><description><![CDATA[Infobox <img alt="cover hsmall" src="05-resources/images/icons/celeste.png" target="_self"> <br>This is a simple footnote<a data-footref="1" href="#fn-1-81f7f0ab9132ce55" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a>.<br>
+chara <a data-footref="eee" href="#fn-2-81f7f0ab9132ce55" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a><br><a data-tooltip-position="top" aria-label="How to Use > ^test" data-href="How to Use#^test" href="05-resources/guides-&amp;-resources/how-to-use.html#^test" class="internal-link" target="_self" rel="noopener nofollow">Test</a>= this.test <br>This is the referenced text.<a href="#fnref-1-81f7f0ab9132ce55" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+Add 2 spaces at the start of each new line.<br>
+This lets you write footnotes that span multiple lines.<a href="#fnref-2-81f7f0ab9132ce55" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>05-resources/testing/testzone...2!.html</link><guid isPermaLink="false">05 - Resources/Testing/testzone...2!.md</guid><pubDate>Fri, 26 Sep 2025 00:34:37 GMT</pubDate></item><item><title><![CDATA[Test Zone]]></title><description><![CDATA[WOW
+dont die
+Infobox <img alt="cover hsmall" src="05-resources/images/icons/celeste.png" target="_self"> Main paragraph contentBlank container <br>list 1 <a href=".?query=tag:mcl/list-column" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#mcl/list-column">#mcl/list-column</a>
+list 2
+list 3
+list 4 Next paragraph contentInfo
+Addition note to the main article
+Page Types
+character affiliations timeline
+templates
+outline
+notes
+scripts
+Categories<br><a data-href="How to Use#^story" href="05-resources/guides-&amp;-resources/how-to-use.html#^story" class="internal-link" target="_self" rel="noopener nofollow">How to Use &gt; ^story</a>Dataview: No results to show for table query.“Untitled.base” is not created yet. Click to create.]]></description><link>05-resources/testing/test-zone.html</link><guid isPermaLink="false">05 - Resources/Testing/Test Zone.md</guid><pubDate>Thu, 21 Aug 2025 21:25:52 GMT</pubDate></item><item><title><![CDATA[character-v3]]></title><description><![CDATA[Chara Multi column
+Img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> Desc
+Blockquote
+❝ Something your funny guy would say ❞ PersonalityTriviaMannerismsBlockquote
+adjective • adjective • adjective Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Random
+Facts About
+Them
+Multi column
+Speech Patterns Habit
+Habit
+Habit Examples Ex
+Ex
+Ex Body Language Thing
+Thing
+Thing No-Nos
+Things they would never do Thing
+Thing Thing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a>Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v3.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v3.md</guid><pubDate>Sat, 26 Jul 2025 16:42:57 GMT</pubDate></item><item><title><![CDATA[character-v2]]></title><description><![CDATA[Chara Multi column
+Img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> Desc
+Blockquote
+❝ Something your funny guy would say ❞ PersonalityTriviaMannerismsBlockquote
+adjective • adjective • adjective Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Random
+Facts About
+Them
+Multi column
+Speech Patterns Habit
+Habit
+Habit Examples Ex
+Ex
+Ex Body Language Thing
+Thing
+Thing No-Nos
+Things they would never do Thing
+Thing Thing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
+R img
+<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
+<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
+<br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a>Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v2.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v2.md</guid><pubDate>Sat, 26 Jul 2025 16:42:57 GMT</pubDate><enclosure url="docs/05-resources/images/icons/cafelogobig.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="docs/05-resources/images/icons/cafelogobig.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Github Pages]]></title><description><![CDATA[
+Export as HTML
+Online Website
+Warning
+No files over 100mb!! Create repo
+Command line:
+- init
+- git remote add origin
+- git add --all
+- git push Go to Settings
+Go to Pages Source: Deploy from branch
+Branch: Main -&gt; docs/ Save
+]]></description><link>05-resources/guides-&amp;-resources/github-pages.html</link><guid isPermaLink="false">05 - Resources/Guides &amp; Resources/Github Pages.md</guid><pubDate>Thu, 02 Oct 2025 18:08:13 GMT</pubDate></item><item><title><![CDATA[Cirrane]]></title><description><![CDATA[From highest to lowest
 Horizon District
 - Politicians
 - Rich and Famous
@@ -296,7 +390,7 @@ if he's trained correctly, he should have no qualms about killing people he know
 Morelle wants Kiwi to quit
 Kiwi puts in his two weeks notice upon returning to work
 Tequila saids thats a shame because his clearance was almost ready It wasnt but she gets Martini to accelerate the process Kiwi can't resist knowledge, he stays His clearance comes through in two weeks
-Morelle is worried....... ]]></description><link>01-stories/the-journalist/outlines-&amp;-notes/outline.html</link><guid isPermaLink="false">01 - Stories/The Journalist/Outlines &amp; Notes/Outline.md</guid><pubDate>Thu, 02 Oct 2025 00:05:44 GMT</pubDate></item><item><title><![CDATA[character (old)]]></title><link>05-resources/testing/archive/character-(old).html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character (old).md</guid><pubDate>Wed, 01 Oct 2025 21:00:23 GMT</pubDate></item><item><title><![CDATA[location]]></title><description><![CDATA[A blurb about the location. This will be listed in <a rel="noopener nofollow" class="internal-link" href=".html" data-href="List of locations" target="_self">List of locations</a>. Use the &lt;br&gt; tag if the blurb has a line break.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Morelle is worried....... ]]></description><link>01-stories/the-journalist/outlines-&amp;-notes/outline.html</link><guid isPermaLink="false">01 - Stories/The Journalist/Outlines &amp; Notes/Outline.md</guid><pubDate>Thu, 02 Oct 2025 00:05:44 GMT</pubDate></item><item><title><![CDATA[location]]></title><description><![CDATA[A blurb about the location. This will be listed in <a rel="noopener nofollow" class="internal-link" href=".html" data-href="List of locations" target="_self">List of locations</a>. Use the &lt;br&gt; tag if the blurb has a line break.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 characters1 resultSort0Filter1PropertiesNewFjFjFjFj
 ]]></description><link>05-resources/templates/location.html</link><guid isPermaLink="false">05 - Resources/Templates/location.md</guid><pubDate>Wed, 01 Oct 2025 19:31:58 GMT</pubDate></item><item><title><![CDATA[How to Use]]></title><description><![CDATA[
 Use source view to edit.
@@ -346,32 +440,7 @@ Tucked away in an alley down the concrete stairs sits Kerplunk. Wayward souls an
 <br>
 <a data-href="Esterra" href="03-notes/locations/esterra.html" class="internal-link" target="_self" rel="noopener nofollow">Esterra</a> is a city located inside a deep canyon. Esterra and Cirrane have a history rife with fighting over resources. As resources began to diminish within the small nation, however, Esterra decided to enter into a tentative treaty with Cirrane and end all disputes. The treaty turned a formerly closed border nation into one open to tourism.
 Blue Ridge Summit
-]]></description><link>00-wiki/locations/locations.html</link><guid isPermaLink="false">00 - Wiki/Locations/Locations.md</guid><pubDate>Tue, 30 Sep 2025 14:17:31 GMT</pubDate></item><item><title><![CDATA[Untitled 1]]></title><description><![CDATA[A blurb about the group. This will be listed in <a rel="noopener nofollow" class="internal-link" href=".html" data-href="List of Groups" target="_self">List of Groups</a>. Use the &lt;br&gt; tag if the blurb has a line break.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Dataview: No results to show for table query.]]></description><link>00-wiki/groups/untitled-1.html</link><guid isPermaLink="false">00 - Wiki/Groups/Untitled 1.md</guid><pubDate>Tue, 30 Sep 2025 01:54:18 GMT</pubDate></item><item><title><![CDATA[character-v4]]></title><description><![CDATA[Infobox
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self">
-0 • ♀/♂/⚲ (pro/noun) • 0'0" Blockquote
-"Something your funny guy would say" Age 0
-Birthday Month 00th
-Height 0'0"
-Affinity Affinity
-Nationality Nationality
-Creator Creator <br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a> <br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/character.md" data-href="05 - Resources/Templates/character.md" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>
-Blockquote
-adjective • adjective • adjective
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. pos trait
-pos trait
-pos trait neg trait
-neg trait
-neg trait
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
-<br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
-<br><a data-href="character" href="05-resources/templates/character.html" class="internal-link" target="_self" rel="noopener nofollow">character</a>: Relation
-Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v4.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v4.md</guid><pubDate>Tue, 30 Sep 2025 00:41:06 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Magic]]></title><description><![CDATA[
+]]></description><link>00-wiki/locations/locations.html</link><guid isPermaLink="false">00 - Wiki/Locations/Locations.md</guid><pubDate>Tue, 30 Sep 2025 14:17:31 GMT</pubDate></item><item><title><![CDATA[Untitled 1]]></title><description><![CDATA[A blurb about the group. This will be listed in <a rel="noopener nofollow" class="internal-link" href=".html" data-href="List of Groups" target="_self">List of Groups</a>. Use the &lt;br&gt; tag if the blurb has a line break.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Dataview: No results to show for table query.]]></description><link>00-wiki/groups/untitled-1.html</link><guid isPermaLink="false">00 - Wiki/Groups/Untitled 1.md</guid><pubDate>Tue, 30 Sep 2025 01:54:18 GMT</pubDate></item><item><title><![CDATA[Magic]]></title><description><![CDATA[
 YOU CANNOT REVIVE THE DEAD.
 YOU CANNOT SEEK IMMORTALITY.
 YOU CANNOT CONTROL OR ALTER ANOTHER'S SOUL. Water Fire Air &amp; Earth
@@ -383,76 +452,7 @@ Refers to spiritual magic.
 This magic manifests through one's aura and spiritual energy.
 ]]></description><link>00-wiki/magic/magic.html</link><guid isPermaLink="false">00 - Wiki/Magic/Magic.md</guid><pubDate>Sun, 28 Sep 2025 18:53:12 GMT</pubDate></item><item><title><![CDATA[mountainwater]]></title><description><![CDATA[<img src="05-resources/images/galleries/cirrane/mountainwater.png" target="_self">]]></description><link>05-resources/images/galleries/cirrane/mountainwater.html</link><guid isPermaLink="false">05 - Resources/Images/Galleries/Cirrane/mountainwater.png</guid><pubDate>Sat, 27 Sep 2025 20:12:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes]]></title><link>01-stories/the-journalist/outlines-&amp;-notes/notes.html</link><guid isPermaLink="false">01 - Stories/The Journalist/Outlines &amp; Notes/Notes.md</guid><pubDate>Fri, 26 Sep 2025 20:06:36 GMT</pubDate></item><item><title><![CDATA[Script]]></title><link>01-stories/the-journalist/script-&amp;-scenes/script.html</link><guid isPermaLink="false">01 - Stories/The Journalist/Script &amp; Scenes/Script.md</guid><pubDate>Fri, 26 Sep 2025 20:06:15 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[A blurb about the group. This will be listed in <a rel="noopener nofollow" class="internal-link" href=".html" data-href="List of Groups" target="_self">List of Groups</a>. Use the &lt;br&gt; tag if the blurb has a line break.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Dataview: No results to show for table query.]]></description><link>00-wiki/groups/untitled.html</link><guid isPermaLink="false">00 - Wiki/Groups/Untitled.md</guid><pubDate>Fri, 26 Sep 2025 20:04:01 GMT</pubDate></item><item><title><![CDATA[cirrane]]></title><description><![CDATA[<img src="05-resources/images/galleries/cirrane/cirrane.png" target="_self">]]></description><link>05-resources/images/galleries/cirrane/cirrane.html</link><guid isPermaLink="false">05 - Resources/Images/Galleries/Cirrane/cirrane.png</guid><pubDate>Fri, 26 Sep 2025 19:39:50 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[00 - Example Timeline]]></title><description><![CDATA[Mar 2023Content
 “some other notes” is not created yet. Click to create.Jan 2024More content hereMar 2024Content
-“some other notes” is not created yet. Click to create.]]></description><link>02-timelines/00-example-timeline.html</link><guid isPermaLink="false">02 - Timelines/00 - Example Timeline.md</guid><pubDate>Fri, 26 Sep 2025 12:35:45 GMT</pubDate></item><item><title><![CDATA[testzone...2!]]></title><description><![CDATA[Infobox <img alt="cover hsmall" src="05-resources/images/icons/celeste.png" target="_self"> <br>This is a simple footnote<a data-footref="1" href="#fn-1-41eec81ef4481901" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a>.<br>
-chara <a data-footref="eee" href="#fn-2-41eec81ef4481901" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a><br><a data-tooltip-position="top" aria-label="How to Use > ^test" data-href="How to Use#^test" href="05-resources/guides-&amp;-resources/how-to-use.html#^test" class="internal-link" target="_self" rel="noopener nofollow">Test</a>= this.test <br>This is the referenced text.<a href="#fnref-1-41eec81ef4481901" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-Add 2 spaces at the start of each new line.<br>
-This lets you write footnotes that span multiple lines.<a href="#fnref-2-41eec81ef4481901" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-]]></description><link>05-resources/testing/testzone...2!.html</link><guid isPermaLink="false">05 - Resources/Testing/testzone...2!.md</guid><pubDate>Fri, 26 Sep 2025 00:34:37 GMT</pubDate></item><item><title><![CDATA[Test Zone]]></title><description><![CDATA[WOW
-dont die
-Infobox <img alt="cover hsmall" src="05-resources/images/icons/celeste.png" target="_self"> Main paragraph contentBlank container <br>list 1 <a href=".?query=tag:mcl/list-column" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#mcl/list-column">#mcl/list-column</a>
-list 2
-list 3
-list 4 Next paragraph contentInfo
-Addition note to the main article
-Page Types
-character affiliations timeline
-templates
-outline
-notes
-scripts
-Categories<br><a data-href="How to Use#^story" href="05-resources/guides-&amp;-resources/how-to-use.html#^story" class="internal-link" target="_self" rel="noopener nofollow">How to Use &gt; ^story</a>Dataview: No results to show for table query.“Untitled.base” is not created yet. Click to create.]]></description><link>05-resources/testing/test-zone.html</link><guid isPermaLink="false">05 - Resources/Testing/Test Zone.md</guid><pubDate>Thu, 21 Aug 2025 21:25:52 GMT</pubDate></item><item><title><![CDATA[character-v3]]></title><description><![CDATA[Chara Multi column
-Img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> Desc
-Blockquote
-❝ Something your funny guy would say ❞ PersonalityTriviaMannerismsBlockquote
-adjective • adjective • adjective Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Random
-Facts About
-Them
-Multi column
-Speech Patterns Habit
-Habit
-Habit Examples Ex
-Ex
-Ex Body Language Thing
-Thing
-Thing No-Nos
-Things they would never do Thing
-Thing Thing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a>Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v3.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v3.md</guid><pubDate>Sat, 26 Jul 2025 16:42:57 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[character-v2]]></title><description><![CDATA[Chara Multi column
-Img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> Desc
-Blockquote
-❝ Something your funny guy would say ❞ PersonalityTriviaMannerismsBlockquote
-adjective • adjective • adjective Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Pos Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Neg Trait: Lorem ipsum dolor sit amet Random
-Facts About
-Them
-Multi column
-Speech Patterns Habit
-Habit
-Habit Examples Ex
-Ex
-Ex Body Language Thing
-Thing
-Thing No-Nos
-Things they would never do Thing
-Thing Thing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Col
-R img
-<img alt="cafelogobig.png" src="05-resources/images/icons/cafelogobig.png" target="_self"> R desc
-<a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a> [Relation] - Quote Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-href="character-v3" href="05-resources/testing/archive/character-v3.html" class="internal-link" target="_self" rel="noopener nofollow">character-v3</a>: Relation
-<br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a><br><a data-tooltip-position="top" aria-label="05 - Resources/Templates/group.md" data-href="05 - Resources/Templates/group.md" href="05-resources/templates/group.html" class="internal-link" target="_self" rel="noopener nofollow">group</a>Dataview: No results to show for list query.]]></description><link>05-resources/testing/archive/character-v2.html</link><guid isPermaLink="false">05 - Resources/Testing/archive/character-v2.md</guid><pubDate>Sat, 26 Jul 2025 16:42:57 GMT</pubDate></item><item><title><![CDATA[Notes]]></title><description><![CDATA[
+“some other notes” is not created yet. Click to create.]]></description><link>02-timelines/00-example-timeline.html</link><guid isPermaLink="false">02 - Timelines/00 - Example Timeline.md</guid><pubDate>Fri, 26 Sep 2025 12:35:45 GMT</pubDate></item><item><title><![CDATA[Notes]]></title><description><![CDATA[
 The teams gear up for the upcoming tournament.
 Showcases the relationship between Mystic Hues and Ethereal Shadows
 Stew becomes angry enough that he crafts a plan to rig one of the traps.
