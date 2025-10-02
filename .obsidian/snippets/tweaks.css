@@ -8,6 +8,7 @@
 *********************/ 
 .home .callout[data-callout-metadata="cc-nav"] .callout-content ul {
   display:flex; 
+  flex-flow: row;
   width: 100%!important;
   justify-content:space-evenly;
  }
