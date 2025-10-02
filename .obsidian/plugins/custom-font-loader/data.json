@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "Montserrat-VariableFont_wght.ttf",
+  "force_mode": false,
+  "custom_css_mode": false,
+  "custom_css": "/* Example CSS for your font: montserrat-variablefont_wght */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'montserrat-variablefont_wght';\n\t--default-font: 'montserrat-variablefont_wght';\n\t--font-family-editor: 'montserrat-variablefont_wght';\n\t--font-interface-override: 'montserrat-variablefont_wght';\n\t--font-text-override: 'montserrat-variablefont_wght';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'montserrat-variablefont_wght' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'montserrat-variablefont_wght' !important;\n}"
+}

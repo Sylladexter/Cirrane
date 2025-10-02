@@ -1,0 +1,18 @@
+{
+  "obsidian-columns:insert-column-wrapper": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-columns:insert-column": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ]
+}

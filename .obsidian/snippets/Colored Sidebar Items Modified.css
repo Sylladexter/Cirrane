@@ -1,0 +1,241 @@
+:root {
+    /* ================================ Color Setup ================================ */
+    --base-hue: 40; /* Starting hue for the rainbow (adjust this value) */
+    --hue-step: -25; /* Step size for each color in the rainbow */
+    --base-saturation: 80%;
+    --base-lightness: 65%;
+    
+    /* ================================ Rainbow Colors ================================ */
+    --rainbow-start: hsl(var(--base-hue), var(--base-saturation), var(--base-lightness));  /* Starting color */
+    --rainbow-01: hsl(calc(var(--base-hue) + var(--hue-step)), var(--base-saturation), var(--base-lightness)); /* 01 color */
+    --rainbow-02: hsl(calc(var(--base-hue) + var(--hue-step) * 2), var(--base-saturation), var(--base-lightness)); /* 02 color */
+    --rainbow-03: hsl(calc(var(--base-hue) + var(--hue-step) * 3), var(--base-saturation), var(--base-lightness)); /* 03 color */
+    --rainbow-04: hsl(calc(var(--base-hue) + var(--hue-step) * 4), var(--base-saturation), var(--base-lightness)); /* 04 color */
+    --rainbow-05: hsl(calc(var(--base-hue) + var(--hue-step) * 5), var(--base-saturation), var(--base-lightness)); /* 05 color */
+    --rainbow-06: hsl(calc(var(--base-hue) + var(--hue-step) * 6), var(--base-saturation), var(--base-lightness)); /* 06 color */
+    --rainbow-07: hsl(calc(var(--base-hue) + var(--hue-step) * 7), var(--base-saturation), var(--base-lightness)); /* 07 color */
+    --rainbow-08: hsl(calc(var(--base-hue) + var(--hue-step) * 8), var(--base-saturation), var(--base-lightness)); /* 08 color */
+    --rainbow-09: hsl(calc(var(--base-hue) + var(--hue-step) * 9), var(--base-saturation), var(--base-lightness)); /* 09 color */
+
+  
+    /* ================================ Named Colors ================================ */
+    --red: #e22c3c;                
+    --red-orange: #e9404b;         
+    --orange: #ee6748;             
+    --amber: #fa9f50;              
+    --yellow: #ffd85e;             
+    --lime: #97e768;               
+    --mint: #52eea3;              
+    --cyan: #51e1e9;               
+    --cool-cyan: #43cfea;          
+    --light-blue: #54b6f8;         
+    --blue: #437cf3;               
+    --blue-violet: #6f51f4;        
+    --violet: #9446f8;             
+    --purple: #c952ed;             
+    --magenta: #e54f9b;            
+    --hot-red: #e3365e;            
+    --cool-gray: #515768;          
+  
+    --default-folder-color: var(--cool-gray);
+
+    --default-text-color: #d0d0d0;
+    --highlight: #fff;
+    --shadow: #0b0c2c;
+  
+    --nav-item-weight-hover: bold;
+}
+
+/* Light Theme Specific Properties */
+.theme-light {
+    /* Adjust the rainbow colors for the light theme as needed */
+    --base-hue: 40; /* Starting hue for the rainbow (adjust this value) */
+    --base-saturation: 60%;
+    --base-lightness: 45%;
+
+
+    --contrast-color: var(--shadow);
+    --default-text-color: var(--shadow);
+    --bg-contrast-amount: 70%;
+    --fg-contrast-amount: 30%;
+    --medium-contrast-amount: 60%;
+    --active-contrast-amount: 30%;
+
+    /* Darker Versions of Bright Colors for Light Theme */
+    --yellow: color-mix(in srgb, #ffd85e 90%, var(--shadow));
+    --lime: color-mix(in srgb, #97e768 90%, var(--shadow));
+    --mint: color-mix(in srgb, #52eea3 85%, var(--shadow));
+    --cyan: color-mix(in srgb, #51e1e9 85%, var(--shadow));
+    --cool-cyan: color-mix(in srgb, #43cfea 85%, var(--shadow));
+    --light-blue: color-mix(in srgb, #54b6f8 90%, var(--shadow));
+}
+
+/* Dark Theme Specific Properties */
+.theme-dark {
+    --contrast-color: var(--highlight);
+    --bg-contrast-amount: 15%;
+    --fg-contrast-amount: 40%;
+    --medium-contrast-amount: 20%;
+    --active-contrast-amount: 10%;
+}
+
+/* All Folder Titles */
+.nav-folder-title {
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Narrower Padding on Desktop*/
+@media only screen and (min-width: 768px) {
+    .nav-file-title,
+    .nav-folder-title {
+        padding-top: 3px !important;
+        padding-right: 5px !important;
+        padding-bottom: 2px !important;
+        padding-left: 15px;
+    }
+}
+
+/*
+============================ Folder Title Prefixes =============================
+The following groups of prefixes are divided by the numbering prefix that they
+target. For example, prefix '00' targets any folder titles beginning with '00',
+such as '00 - Maps of Content'. The only other piece of information that changes
+between the prefix groups are the color variables. Change or expand on any of
+these to suit your own folder structure and vault theme!
+*/
+
+/* Common styles for all prefixes */
+.nav-folder-title[data-path^="0"], .nav-folder-title[data-path^="1"] {
+    --nav-item-color-hover: color-mix(in srgb, var(--default-folder-color) var(--fg-contrast-amount), var(--contrast-color));
+    --nav-item-background-hover: color-mix(in srgb, var(--default-folder-color) var(--bg-contrast-amount), transparent);
+    --background-modifier-border-focus: color-mix(in srgb, var(--default-folder-color) 40%, transparent);
+    --nav-collapse-icon-color: color-mix(in srgb, var(--default-folder-color) 60%, transparent);
+}
+
+.nav-folder-title[data-path^="00"] {
+    --default-folder-color: var(--rainbow-start);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="01"] {
+    --default-folder-color: var(--rainbow-01);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="02"] {
+    --default-folder-color: var(--rainbow-02);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="03"] {
+    --default-folder-color: var(--rainbow-03);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="04"] {
+    --default-folder-color: var(--rainbow-04);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="05"] {
+    --default-folder-color: var(--rainbow-05);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="06"] {
+    --default-folder-color: var(--rainbow-06);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="07"] {
+    --default-folder-color: var(--rainbow-07);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="08"] {
+    --default-folder-color: var(--rainbow-08);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="09"] {
+    --default-folder-color: var(--rainbow-09);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="99"] {
+    --default-folder-color: var(--cool-gray);
+    color: var(--default-folder-color);
+}
+
+/* ================================ Override Specific Folder Names ================================ */
+/* Folder name contains "Project Name" */
+.nav-folder-title[data-path*="Project Name"] {
+    --default-folder-color: var(--blue);
+    color: var(--default-folder-color);
+}
+
+/* Folder path exactly matches "03 - Projects/Project Name" */
+.nav-folder-title[data-path^="03 - Projects/Project Name"] {
+    --default-folder-color: var(--hot-red);
+    color: var(--default-folder-color);
+}
+
+/* Hover effects */
+.nav-folder-title[data-path^="00"]:hover,
+.nav-folder-title[data-path^="01"]:hover,
+.nav-folder-title[data-path^="02"]:hover,
+.nav-folder-title[data-path^="03"]:hover,
+.nav-folder-title[data-path^="04"]:hover,
+.nav-folder-title[data-path^="05"]:hover,
+.nav-folder-title[data-path^="06"]:hover,
+.nav-folder-title[data-path^="07"]:hover,
+.nav-folder-title[data-path^="08"]:hover,
+.nav-folder-title[data-path^="09"]:hover,
+.nav-folder-title[data-path^="10"]:hover,
+.nav-folder-title[data-path^="11"]:hover,
+.nav-folder-title[data-path^="12"]:hover,
+.nav-folder-title[data-path^="13"]:hover,
+.nav-folder-title[data-path^="99"]:hover {
+    --nav-collapse-icon-color: color-mix(in srgb, var(--default-folder-color) 60%, var(--contrast-color));
+}
+
+/* Child folder styles */
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="00"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="01"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="02"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="03"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="04"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="05"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="06"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="07"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="08"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="09"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="10"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="11"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="12"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="13"]),
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="99"]) {
+    --nav-indentation-guide-color: color-mix(in srgb, var(--default-folder-color) var(--medium-contrast-amount), transparent);
+}
+
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="00"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="01"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="02"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="03"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="04"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="05"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="06"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="07"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="08"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="09"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="10"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="11"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="12"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="13"]) .nav-file-title,
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="99"]) .nav-file-title {
+    color: color-mix(in srgb, var(--default-folder-color) var(--medium-contrast-amount), var(--default-text-color));
+    --nav-item-background-hover: color-mix(in srgb, color-mix(in srgb, var(--default-folder-color) 50%, var(--highlight)) var(--bg-contrast-amount), transparent);
+    --background-modifier-border-focus: color-mix(in srgb, var(--default-folder-color) 40%, transparent);
+    --nav-item-background-active: color-mix(in srgb, var(--default-folder-color) var(--active-contrast-amount), transparent);
+}

@@ -1,0 +1,108 @@
+{
+  "release": {
+    "channel": "stable",
+    "automaticUpdates": false
+  },
+  "sharedFolders": [
+    {
+      "guid": "87e9a4d1-8a76-4fa6-bcc4-f9702fc36a23",
+      "path": "00 - Wiki",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    },
+    {
+      "guid": "cf6f65c5-6049-4490-934b-37e31a717a39",
+      "path": "01 - Stories",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    },
+    {
+      "guid": "91a7cee8-832b-4970-b73b-5db98efffb4f",
+      "path": "02 - Timelines",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    },
+    {
+      "guid": "13ddcd7c-df9d-47d8-ad99-e8a87cbb863b",
+      "path": "03 - Notes",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    },
+    {
+      "guid": "714e5308-0208-4a26-ba9e-baba4aed99e1",
+      "path": "04 - Roleplay",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    },
+    {
+      "guid": "1827147b-15df-4caa-b280-591a0e35a6b7",
+      "path": "05 - Resources",
+      "relay": "4086778c-d3be-4b90-8111-be05ed45953f",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableOIDCLogin": false,
+  "enableGitHubLogin": false,
+  "enableSelfManageHosts": false,
+  "debugging": false,
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentServer": true,
+  "enableDesyncPill": false,
+  "enableAutomaticUpdatesOption": false,
+  "enableDebugFileTag": false,
+  "login": {
+    "provider": "google"
+  },
+  "enableMicrosoftLogin": true
+}

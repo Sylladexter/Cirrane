@@ -1,0 +1,6 @@
+{
+  "defaultView": "timeline",
+  "timelineOrder": "asc",
+  "showHeaderButtons": true,
+  "dateFormat": "MMM YYYY"
+}

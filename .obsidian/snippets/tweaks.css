@@ -1,0 +1,223 @@
+/****************************************
+  Navigation
+*****************************************/ 
+
+
+/********************
+  Buttons
+*********************/ 
+.home .callout[data-callout-metadata="cc-nav"] .callout-content ul {
+  display:flex; 
+  width: 100%!important;
+  justify-content:space-evenly;
+ }
+ 
+ .home .callout[data-callout-metadata="cc-nav"] .callout-content li {
+  margin:0;
+  text-align: center;
+ }
+
+ .home .callout[data-callout-metadata="cc-nav"] a {
+  display:flex;
+  flex-flow: column;
+  margin:auto;
+  text-decoration: none;
+  font-size:calc(var(--font-adaptive-normal) - 2px);
+  color:var(--text-normal);
+  letter-spacing: 1px;
+  font-weight: 300;
+ }
+ 
+ .home .callout[data-callout-metadata="cc-nav"]  .list-bullet {
+  display:none;
+ }
+ 
+ .home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon {
+ background: var(--link-color);
+ width: 80px;
+ height: 80px;
+ padding: 1.2em;
+ border-radius: 100%;
+ margin: 1.5em auto;
+ }
+ 
+ .home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon svg  {
+  width: 25px;
+  height: 25px;
+  color: var(--text-normal);
+  margin:auto;
+ }
+
+ /********************
+  Blocks
+*********************/ 
+
+/****************************************
+  Color Swaps
+*****************************************/
+
+/* comments */
+.cm-comment {
+  color: var(--color-base-40);
+}
+
+.color-title .inline-title {
+  color: var(--color-red);
+}
+
+/****************************************
+  Infobox Tweaks
+*****************************************/ 
+
+/* Changes dataview elements colors */
+.l + .dataview {
+    color: var(--text-muted)
+}
+
+/* Selects label class and direct siblings */
+.label, 
+.label + *, 
+.l, 
+.l + * {
+  font-size: .80em;
+}
+
+/* Evenly space elements */
+p:has(> .l) {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p > .l {
+  display: inline-block;
+  width: 50%; /* force two per row */
+  margin:0;
+}
+
+/* Value align right */
+p > .l + .dataview {
+  width: 50%;
+  text-align: right;
+}
+
+/****************************************
+  Character Pages
+*****************************************/ 
+
+/* Title */
+.chara .inline-title {
+  color: var(--color-red);
+}
+
+/* Blockquote */
+.chara .callout[data-callout="blockquote"] {
+  border: none;
+  background: none;
+  padding: .5em;
+  color: var(--blockquote-color);
+  font-weight:200;
+  text-align: center;
+  margin:0;
+}
+
+/* Adjectives */
+.chara .callout[data-callout="blockquote"] strong {
+  color:var(--text-accent);
+}
+
+/********************
+  Relationships
+*********************/ 
+.chara .callout[data-callout="col"] {
+  margin: 0 auto;
+}
+
+.chara .callout[data-callout="col"] .callout-content {
+  padding: 0;
+}
+
+.chara .callout[data-callout="col"] blockquote {
+  border:none;
+}
+
+.chara .callout[data-callout="r-img"] {
+  max-width:15%!important;
+  text-align: center;
+  margin: 1em 0!important; 
+  padding:0;
+}
+
+.chara blockquote .callout[data-callout="r-desc"],
+.chara .callout[data-callout="col"] blockquote {
+  background:none!important;
+}
+
+.chara .callout[data-callout="r-desc"] em {
+  color: var(--text-muted);
+}
+
+.chara .callout[data-callout="r-desc"] hr {
+/* width: 60%; */
+  margin: .5em auto;
+}
+
+/*****************************************
+  Bases
+*****************************************/ 
+
+.bases-embed[alt~="no-toolbar"] > .bases-view,
+.bases-embed[alt~="no-toolbar"] .bases-tr {
+  border: none!important;
+  box-shadow: none!important;
+}
+
+.bases-embed[alt~="no-toolbar"] .bases-td {
+  display:list-item;
+}
+
+/*****************************************
+  Other
+******************************************/ 
+
+.chara .callout[data-callout="blockquote"] .callout-title {
+  display: none;
+}
+
+ /* Show inline dv variables as normal text */
+ .dataview[data-dv-key="summary"]{
+  color: var(--text-normal);
+  font-size: var(--font-text-size);
+  text-decoration: none;
+ }
+
+/*****************************************
+  Hide + Utils
+******************************************/ 
+
+/* display none */
+.hide-title .inline-title,
+.bases-embed[alt~="no-toolbar"] > .bases-header,
+.bases-embed[alt~="no-toolbar"] .bases-thead,
+.chara .callout[data-callout="r-img"] .callout-title,
+.chara .callout[data-callout="r-desc"] .callout-title
+ {
+    display:none;
+}
+
+/* no borders */
+.chara .callout[data-callout="r-img"],
+.chara .callout[data-callout="r-desc"],
+.home .callout[data-callout-metadata="cc-nav"] .callout-content {
+  border:none!important; 
+} 
+
+/* 0 padding and margin */
+.chara .callout[data-callout="r-desc"] {
+  padding: 0!important;
+  margin: 0!important;
+}
+
+/* No background*/
+.home .callout[data-callout-metadata="cc-nav"] {
+  background: none!important;
+}

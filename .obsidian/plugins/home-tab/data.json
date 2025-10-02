@@ -1,0 +1,54 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Cirrane",
+  "customFont": "interfaceFont",
+  "fontSize": "3em",
+  "fontColorType": "accentColor",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Index.md",
+      "timestamp": 1759427110831
+    },
+    {
+      "filepath": "01 - Stories/Story Navigation.md",
+      "timestamp": 1759427110156
+    },
+    {
+      "filepath": "00 - Wiki/Characters.md",
+      "timestamp": 1759427109921
+    },
+    {
+      "filepath": "00 - Wiki/Magic/Affinities.md",
+      "timestamp": 1759427108468
+    },
+    {
+      "filepath": "01 - Stories/The Curse/Notes.md",
+      "timestamp": 1759427108207
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

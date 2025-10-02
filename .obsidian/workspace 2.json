@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Stories/The Curse/Notes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2567af281c27ed7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe88d452a29d03f4",
+        "type": "tabs",
+        "dimension": 75.96153846153847,
+        "children": [
+          {
+            "id": "07fc69aa602ee720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cb9cc5255e4e8fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#character",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c56028a55261263",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9351ef3fd5da8c7",
+        "type": "tabs",
+        "dimension": 24.038461538461537,
+        "children": [
+          {
+            "id": "14967a0368877e3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "e544b4659b248e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "731e3e45e052d40f",
+        "type": "tabs",
+        "dimension": 68.60730593607306,
+        "children": [
+          {
+            "id": "4e26653b370e65e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00 - Wiki/Magic/Affinities.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Affinities"
+            }
+          },
+          {
+            "id": "b088815e345d5f91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca948d70cac09c45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Resources/Templates/affinity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of affinity"
+            }
+          },
+          {
+            "id": "3df6ec60147c2fbe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "51df387d04c94979",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Wiki/Magic/Affinities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Affinities"
+            }
+          },
+          {
+            "id": "a23ccfed4fb9a20a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Wiki/Magic/Affinities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Affinities"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6e3ae20b8e33ce39",
+        "type": "tabs",
+        "dimension": 31.39269406392694,
+        "children": [
+          {
+            "id": "fa5ce63dfaf90efb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false,
+      "system3-relay:Relay": false,
+      "homepage:Open homepage": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "01 - Stories/The Curse/Notes.md",
+    "05 - Resources/Templates/group.md",
+    "05 - Resources/Templates/affinity.md",
+    "05 - Resources/Templates/character.md",
+    "01 - Stories/The Curse",
+    "05 - Resources/Images/Icons/Bonbon.png",
+    "05 - Resources/Templates/archive/character-v2.md",
+    "00 - Wiki/Magic/Affinities.md",
+    "05 - Resources/Test Zone.md",
+    "00 - Wiki/Locations.md",
+    "00 - Wiki/Characters.md",
+    "00 - Wiki/Characters/Untitled.md",
+    "03 - Notes/Magic Notes.md",
+    "05 - Resources/How to Use.md",
+    "00 - Wiki/Magic/Magic.md",
+    "05 - Resources/Untitled.md",
+    "Magic Notes.md",
+    "/Magic Notes.md",
+    "02 - Timelines/00 - Example Timeline.md",
+    "local disk",
+    "05 - Resources/Resources.md",
+    "00 - Wiki/Magic",
+    "00 - Wiki/Characters/Inko Tachibana.md",
+    "00 - Wiki/Characters/Deacon Bleu.md",
+    "05 - Resources/Images/Infographics/elementals.png.sb-f25fddd1-9BUcPk",
+    "05 - Resources/Images/Infographics/elementals.png",
+    "05 - Resources/Images/Infographics/trinity.png",
+    "05 - Resources/Images/Banners/cafebg.png",
+    "05 - Resources/Images/Infographics",
+    "05 - Resources/Images/Icons/celeste.png",
+    "05 - Resources/Images/Banners",
+    "05 - Resources/Images/Icons/cafelogobig.png",
+    "05 - Resources/Images/Icons",
+    "00 - Wiki/History",
+    "05 - Resources/Images/Icons/Zola.png",
+    "05 - Resources/Images/Icons/wulfesh.png",
+    "05 - Resources/Images/Icons/Weiss.png",
+    "05 - Resources/Images/Icons/Tewkes.png",
+    "05 - Resources/To Do.md",
+    "01 - Stories/The Journalist/01 - Outline.md",
+    "05 - Resources/Templates/archive/character (old).md",
+    "01 - Stories/The Journalist/00 - The Journalist.md",
+    "01 - Stories/Story Navigation.md",
+    "00 - Wiki/Groups",
+    "05 - Resources/Templates/archive",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "vault-logo",
+    "MCL Wide Views",
+    "MCL Gallery Cards",
+    "hotfixes",
+    "Colored Sidebar Items"
+  ],
+  "accentColor": "#5cabf5",
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
+}

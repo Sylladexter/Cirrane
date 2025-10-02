@@ -1,0 +1,32 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: character
+    filters:
+      and:
+        - file.hasTag("character")
+    order:
+      - file.name
+      - age
+      - birthday
+      - gender
+      - height
+      - creator
+    columnSize:
+      file.name: 186
+  - type: cards
+    name: test
+    filters:
+      and:
+        - file.hasTag("groups/temple-of-lux/characters")
+    rowHeight: tall
+    image: note.image
+    cardSize: 150
+  - type: table
+    name: group
+    filters:
+      and:
+        - type == "group"
+        - file.hasLink(this.file.name)
+        - file.name != this.file.name
