@@ -21,20 +21,3 @@ html-title: Cirrane
 >- [[Stories|:LiBook: Stories]]
 >- [[Locations|:LiMapPin:  Locations]]
 
-````col
-```col-md
-flexGrow=1
-height=200px
-border=
-===
-![[To Do|seamless]]
-```
-```col-md
-flexGrow=1
-===
-# Column 1
-```
-````
-
-
-
