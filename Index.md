@@ -9,7 +9,6 @@ banner-x: 51
 banner-y: 23
 banner-fade: -85
 banner-radius: 10
-icon: LiStar
 ---
 ```search-bar
 
