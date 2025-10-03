@@ -13,7 +13,9 @@
   background: var(--background-primary);
 }
 
-
+#left-sidebar {
+  background: var(--background-secondary)
+}
 
 
 /****************************************
