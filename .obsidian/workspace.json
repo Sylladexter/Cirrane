@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -127,7 +127,7 @@
       {
         "id": "15fe0ea64c855dda",
         "type": "tabs",
-        "dimension": 66.66666666666666,
+        "dimension": 69.14285714285714,
         "children": [
           {
             "id": "55e1e15025a3eba0",
@@ -202,7 +202,15 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "29fb11ad167bf4b0",
+        "type": "tabs",
+        "dimension": 30.857142857142854,
+        "children": [
           {
             "id": "d2a7ad9746499cdf",
             "type": "leaf",
@@ -211,24 +219,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "67763f88d124b3e0",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -257,6 +247,7 @@
   },
   "active": "d755492e31884aa2",
   "lastOpenFiles": [
+    "Index.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "01 - Stories/Story Navigation.md",
@@ -276,7 +267,6 @@
     "05 - Resources/Bases/groups.base",
     "03 - Notes/Locations/Esterra.md",
     "03 - Notes/Locations/Cirrane.md",
-    "Index.md",
     "docs/01-stories/the-journalist/outlines-&-notes/desktop.ini",
     "05 - Resources/Templates/location.md",
     "05 - Resources/Templates/affinity (wip).md",

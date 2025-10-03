@@ -9,7 +9,7 @@ banner-x: 51
 banner-y: 23
 banner-fade: -85
 banner-radius: 10
-html-title: Cirrane
+html-title: Home
 ---
 ```search-bar
 
