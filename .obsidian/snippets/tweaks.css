@@ -1,7 +1,24 @@
 /****************************************
-  Navigation
+  Variables
+*****************************************/ 
+:root {
+
+}
+
+/****************************************
+  Deployed
 *****************************************/ 
 
+#center-content {
+  background: var(--background-primary);
+}
+
+
+
+
+/****************************************
+  Navigation
+*****************************************/ 
 
 /********************
   Buttons
@@ -223,3 +240,5 @@ p > .l + .dataview {
 .home .callout[data-callout-metadata="cc-nav"] {
   background: none!important;
 }
+
+

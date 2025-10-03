@@ -1,6 +1,8 @@
+%%
+
 ---
 aliases:
-  - "%% list of nicknames used for links %%"
+  - 
 cssclasses:
   - chara
   - wide
@@ -8,23 +10,21 @@ cssclasses:
 tags:
   - character
   - "#character/major"
-image: "![[cafelogobig.png]]"
+image: `"![[cafelogobig.png]]"`
 age: 0
 birthday: Month 00th
 gender: ♀/♂/⚲ (pro/noun)
 sexuality: Sexuality
 occupation: Job
 affiliates:
-  - "[[group]]"
-  - "[[group]]"
-  - "[[group]]"
+  - `"[[group]]"`
 height: 0'0"
 affinity: Affinity
 nationality: Nationality
 creator: Creator
 quote: Something your funny guy would say
 ---
-
+%%
 
 > [!chara]
 > # `=this.file.name`
@@ -113,7 +113,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> `=[[character]].image`
 >
 >>> [!r-desc]
->>>[[character-v3]] <small>[Relation]</small> - *Quote* 
+>>>`[[character-v3]]` <small>[Relation]</small> - *Quote* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -123,14 +123,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> `=[[character]].image`
 >
 >>> [!r-desc]
->>> [[character-v3]] <small>[Relation]</small> - *Quote* 
+>>> `[[character-v3]]` <small>[Relation]</small> - *Quote* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Other Relationships
-- [[character-v3]]: Relation
-- [[character-v3]]: Relation
-- [[character-v3]]: Relation
+- `[[character-v3]]`: Relation
+- `[[character-v3]]`: Relation
+- `[[character-v3]]`: Relation
 
 ## Links
 

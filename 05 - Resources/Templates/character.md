@@ -1,7 +1,6 @@
 ---
 type: character
 aliases:
-  - "%% list of nicknames used for links %%"
 cssclasses:
   - chara
   - hide-title
@@ -9,11 +8,6 @@ cssclasses:
   - wide-tabs
 tags:
   - character
-  - character/major
-  - character/minor
-  - character/secondary
-  - groups/untitled/characters
-  - stories/the-journalist/characters
 image: "![[cafelogobig.png]]"
 age: 0
 birthday: Month 00th
@@ -26,6 +20,23 @@ nationality: Nationality
 creator: Creator
 quote: Something your funny guy would say
 ---
+
+%% 
+!!! READ ME !!!
+
+Aliases:
+  - list of nicknames used for links, auto redirects
+  - also the characters first name
+  - ie (Dee)
+
+Tags to add:
+  - character/major
+  - character/minor
+  - character/secondary
+  - groups/group-name/characters
+  - stories/story-name/characters
+
+%%
 > [!infobox] 
 > `=this.image`
 > `=this.age` **•** `=this.gender` **•** `=this.height`
@@ -39,6 +50,9 @@ quote: Something your funny guy would say
 > <span class="l">Affinity</span>  `=this.affinity` 
 > <span class="l">Nationality</span> `=this.nationality`
 > <span class="l">Creator</span> `=this.creator`
+> # Nicknames
+> - Name
+> - Name
 > # Affiliates
 > - [[affiliate]]
 > - [[affiliate]]
@@ -107,6 +121,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [[character]]: Relation
 - [[character]]: Relation
 - [[character]]: Relation
+
+## 
 
 ## Links
 ---

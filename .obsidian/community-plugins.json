@@ -3,7 +3,6 @@
   "system3-relay",
   "dataview",
   "homepage",
-  "pexels-banner",
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-icon-folder",
@@ -17,5 +16,6 @@
   "editing-toolbar",
   "obsidian-minimal-settings",
   "webpage-html-export",
-  "obsidian-git"
+  "obsidian-git",
+  "pexels-banner"
 ]

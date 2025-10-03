@@ -1,32 +1,37 @@
+%%
+
 ---
 aliases:
-  - "%% list of nicknames used for links %%"
+  - 
 cssclasses:
   - chara
   - wide
   - wide-tabs
 tags:
   - character
-image: "![[cafelogobig.png]]"
+image: "`![[cafelogobig.png]]`"
 age: 0
 birthday: Month 00th
 gender: ♀/♂/⚲ (pro/noun)
 sexuality: Sexuality
 occupation: Job
 affiliates:
-  - "[[group]]"
-  - "[[group]]"
-  - "[[group]]"
+  - "`[[group]]`"
+  - "`[[group]]`"
+  - "`[[group]]`"
 family:
-  - "[[character]]"
-  - "[[character]]"
-  - "[[character]]"
+  - "`[[character]]`"
+  - "`[[character]]`"
+  - "`[[character]]`"
 height: 0'0"
 affinity: Affinity
 nationality: Nationality
 creator: Creator
 quote: Something your funny guy would say
+
 ---
+%%
+
 > [!infobox] 
 > `=this.image`
 > `=this.age` **•** `=this.gender` **•** `=this.height`
@@ -98,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> `=[[character]].image`
 >
 >>> [!r-desc]
->>>[[character-v3]] <small>[Relation]</small> - *Quote* 
+>>>`[[character-v3]]` <small>[Relation]</small> - *Quote* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -108,14 +113,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> `=[[character]].image`
 >
 >>> [!r-desc]
->>> [[character-v3]] <small>[Relation]</small> - *Quote* 
+>>> `[[character-v3]]` <small>[Relation]</small> - *Quote* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Other Relationships
-- [[character]]: Relation
-- [[character]]: Relation
-- [[character]]: Relation
+`- [[character]]: Relation`
+`- [[character]]: Relation`
+`- [[character]]: Relation`
 
 ## Links
 ---

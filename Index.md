@@ -1,5 +1,5 @@
 ---
-banner: "[[Backgrounds-Anime-Landscape-Download.jpg]]"
+banner: "[[Backgrounds-Anime-Landscape-Download.jpg|]]"
 banner-height: 360
 content-start: 100
 cssclasses:
