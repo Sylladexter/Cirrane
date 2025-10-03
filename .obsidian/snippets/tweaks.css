@@ -14,7 +14,8 @@
   background: var(--background-secondary)
 }
 
-#center-content .pixel-banner-image {
+#center-content .pixel-banner-image,
+#center-content .select-image-icon {
   display: none;
 }
 
