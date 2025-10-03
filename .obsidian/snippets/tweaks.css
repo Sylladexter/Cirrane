@@ -1,7 +1,61 @@
 /****************************************
   Variables
 *****************************************/ 
+/* :root {
+  --ctp-custom-flamingo:  var(--cc-flamingo, var(--ctp-flamingo));
+  --ctp-custom-pink:  var(--cc-pink, var(--ctp-pink));
+  --ctp-custom-rosewater:  var(--cc-rosewater, var(--ctp-rosewater));
+  --ctp-custom-mauve:  var(--cc-mauve, var(--ctp-mauve));
+  --ctp-custom-red:  var(--cc-red, var(--ctp-red));
+  --ctp-custom-maroon:  var(--cc-maroon, var(--ctp-maroon));
+  --ctp-custom-peach:  var(--cc-peach, var(--ctp-peach));
+  --ctp-custom-yellow:  var(--cc-yellow, var(--ctp-yellow));
+  --ctp-custom-green:  var(--cc-green, var(--ctp-green));
+  --ctp-custom-teal:  var(--cc-teal, var(--ctp-teal));
+  --ctp-custom-sky:  var(--cc-sky, var(--ctp-sky));
+  --ctp-custom-sapphire:  var(--cc-sapphire, var(--ctp-sapphire));
+  --ctp-custom-blue:  var(--cc-blue, var(--ctp-blue));
+  --ctp-custom-lavender:  var(--cc-lavender, var(--ctp-lavender));
+  --ctp-custom-text:  var(--cc-text, var(--ctp-text));
+  --ctp-custom-subtext1:  var(--cc-subtext1, var(--ctp-subtext1));
+  --ctp-custom-subtext0:  var(--cc-subtext0, var(--ctp-subtext0));
+  --ctp-custom-overlay2:  var(--cc-overlay2, var(--ctp-overlay2));
+  --ctp-custom-overlay1:  var(--cc-overlay1, var(--ctp-overlay1));
+  --ctp-custom-overlay0:  var(--cc-overlay0, var(--ctp-overlay0));
+  --ctp-custom-surface2:  var(--cc-surface2, var(--ctp-surface2));
+  --ctp-custom-surface1:  var(--cc-surface1, var(--ctp-surface1));
+  --ctp-custom-surface0:  var(--cc-surface0, var(--ctp-surface0));
+  --ctp-custom-base:  var(--cc-base, var(--ctp-base));
+  --ctp-custom-mantle:  var(--cc-mantle, var(--ctp-mantle));
+  --ctp-custom-crust:  var(--cc-crust, var(--ctp-crust));
 
+  --cc-rosewater:
+  --cc-flamingo:
+  --cc-pink:
+  --cc-mauve:
+  --cc-red:
+  --cc-maroon:
+  --cc-peach:
+  --cc-yellow:
+  --cc-green:
+  --cc-teal:
+  --cc-sky:
+  --cc-sapphire:
+  --cc-blue:
+  --cc-lavender:
+  --cc-text:
+  --cc-subtext1:
+  --cc-subtext0:
+  --cc-overlay2:
+  --cc-overlay1:
+  --cc-overlay0:
+  --cc-surface2:
+  --cc-surface1:
+  --cc-surface0:
+  --cc-base:
+  --cc-mantle:
+  --cc-crust:
+} */
 /****************************************
   Deployed
 *****************************************/ 

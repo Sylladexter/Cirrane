@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "05 - Resources/Testing/Da Colors.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Da Colors"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "3a50d9d7461c5a46",
         "type": "tabs",
-        "dimension": 62.13942307692307,
+        "dimension": 75.96153846153845,
         "children": [
           {
             "id": "cfa399347ca414ce",
@@ -81,7 +81,7 @@
       {
         "id": "283fcc2a15595b21",
         "type": "tabs",
-        "dimension": 37.86057692307692,
+        "dimension": 24.03846153846154,
         "children": [
           {
             "id": "f88bd4f20acdd73f",
@@ -111,7 +111,7 @@
       {
         "id": "15fe0ea64c855dda",
         "type": "tabs",
-        "dimension": 57.94285714285714,
+        "dimension": 69.94285714285714,
         "children": [
           {
             "id": "55e1e15025a3eba0",
@@ -193,7 +193,7 @@
       {
         "id": "29fb11ad167bf4b0",
         "type": "tabs",
-        "dimension": 42.05714285714286,
+        "dimension": 30.057142857142853,
         "children": [
           {
             "id": "d2a7ad9746499cdf",
@@ -231,12 +231,15 @@
   },
   "active": "7a1471b5f832fbca",
   "lastOpenFiles": [
+    "05 - Resources/Testing/testzone...2!.md",
+    "05 - Resources/Testing/Da Colors.md",
+    "05 - Resources/Testing/Test Zone.md",
+    "05 - Resources/Templates/character.md",
     "Index.md",
     "05 - Resources/Templates/affinity (wip).md",
     "05 - Resources/Templates/group.md",
     "docs/05-resources/templates/group.html",
     "docs/05-resources/templates/character.html",
-    "05 - Resources/Templates/character.md",
     "docs/05-resources/templates/location.html",
     "05 - Resources/Templates/location.md",
     "docs/05-resources/templates/affinity-(wip).html",
@@ -262,8 +265,6 @@
     "docs/01-stories/the-journalist/outlines-&-notes/desktop.ini",
     "05 - Resources/Testing/archive/character (old).md",
     "05 - Resources/Testing/archive/character-v4.md",
-    "05 - Resources/Testing/archive/character-v2.md",
-    "05 - Resources/Testing/archive/character-v3.md",
     "01 - Stories/The Journalist/Outlines & Notes/desktop.ini",
     "05 - Resources/Guides & Resources/desktop.ini",
     "docs/site-lib/media/favicon.png",

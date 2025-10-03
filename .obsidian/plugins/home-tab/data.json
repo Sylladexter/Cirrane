@@ -22,7 +22,24 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "05 - Resources/Testing/Untitled.md",
+      "timestamp": 1759510207241
+    },
+    {
+      "filepath": "05 - Resources/Testing/testzone...2!.md",
+      "timestamp": 1759510201229
+    },
+    {
+      "filepath": "05 - Resources/Testing/Test Zone.md",
+      "timestamp": 1759510198794
+    },
+    {
+      "filepath": "05 - Resources/Templates/character.md",
+      "timestamp": 1759510161760
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
