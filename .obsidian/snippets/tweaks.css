@@ -17,6 +17,9 @@
   background: var(--background-secondary)
 }
 
+#center-content .pixel-banner-image {
+  display: none;
+}
 
 /****************************************
   Navigation

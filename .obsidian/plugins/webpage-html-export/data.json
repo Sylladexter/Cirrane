@@ -162,7 +162,7 @@
       "hideSettingsButton": false,
       "allowResizing": true,
       "allowCollapsing": true,
-      "rightDefaultWidth": "0",
+      "rightDefaultWidth": "20em",
       "leftDefaultWidth": "20em"
     },
     "customHeadOptions": {
