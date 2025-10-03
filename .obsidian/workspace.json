@@ -111,7 +111,7 @@
       {
         "id": "15fe0ea64c855dda",
         "type": "tabs",
-        "dimension": 69.94285714285714,
+        "dimension": 49.82857142857143,
         "children": [
           {
             "id": "55e1e15025a3eba0",
@@ -193,7 +193,7 @@
       {
         "id": "29fb11ad167bf4b0",
         "type": "tabs",
-        "dimension": 30.057142857142853,
+        "dimension": 50.171428571428564,
         "children": [
           {
             "id": "d2a7ad9746499cdf",
@@ -231,18 +231,6 @@
   },
   "active": "7a1471b5f832fbca",
   "lastOpenFiles": [
-    "05 - Resources/Testing/testzone...2!.md",
-    "05 - Resources/Testing/Da Colors.md",
-    "05 - Resources/Testing/Test Zone.md",
-    "05 - Resources/Templates/character.md",
-    "Index.md",
-    "05 - Resources/Templates/affinity (wip).md",
-    "05 - Resources/Templates/group.md",
-    "docs/05-resources/templates/group.html",
-    "docs/05-resources/templates/character.html",
-    "docs/05-resources/templates/location.html",
-    "05 - Resources/Templates/location.md",
-    "docs/05-resources/templates/affinity-(wip).html",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "01 - Stories/Story Navigation.md",
@@ -262,9 +250,20 @@
     "05 - Resources/Bases/groups.base",
     "03 - Notes/Locations/Esterra.md",
     "03 - Notes/Locations/Cirrane.md",
+    "05 - Resources/Templates/group.md",
+    "docs/05-resources/templates/group.html",
+    "docs/05-resources/templates/character.html",
+    "05 - Resources/Templates/character.md",
+    "docs/05-resources/templates/location.html",
+    "05 - Resources/Templates/location.md",
+    "Index.md",
+    "docs/05-resources/templates/affinity-(wip).html",
+    "05 - Resources/Templates/affinity (wip).md",
+    "05 - Resources/Testing/Da Colors.md",
+    "05 - Resources/Testing/testzone...2!.md",
+    "05 - Resources/Testing/Test Zone.md",
     "docs/01-stories/the-journalist/outlines-&-notes/desktop.ini",
     "05 - Resources/Testing/archive/character (old).md",
-    "05 - Resources/Testing/archive/character-v4.md",
     "01 - Stories/The Journalist/Outlines & Notes/desktop.ini",
     "05 - Resources/Guides & Resources/desktop.ini",
     "docs/site-lib/media/favicon.png",
