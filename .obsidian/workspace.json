@@ -4,32 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d1fa90407136c78",
+        "id": "174c3608bca98512",
         "type": "tabs",
         "children": [
           {
-            "id": "f79b0af70eaa559f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Resources/Templates/affinity (wip).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "affinity (wip)"
-            }
-          },
-          {
-            "id": "d755492e31884aa2",
+            "id": "7a1471b5f832fbca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -37,8 +22,7 @@
               "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +111,7 @@
       {
         "id": "15fe0ea64c855dda",
         "type": "tabs",
-        "dimension": 69.14285714285714,
+        "dimension": 57.94285714285714,
         "children": [
           {
             "id": "55e1e15025a3eba0",
@@ -166,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "05 - Resources/Templates/affinity (wip).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from affinity (wip)"
             }
           },
           {
@@ -180,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
+                "file": "05 - Resources/Templates/affinity (wip).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of affinity (wip)"
             }
           },
           {
@@ -209,7 +193,7 @@
       {
         "id": "29fb11ad167bf4b0",
         "type": "tabs",
-        "dimension": 30.857142857142854,
+        "dimension": 42.05714285714286,
         "children": [
           {
             "id": "d2a7ad9746499cdf",
@@ -245,8 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d755492e31884aa2",
+  "active": "7a1471b5f832fbca",
   "lastOpenFiles": [
+    "Index.md",
+    "05 - Resources/Templates/affinity (wip).md",
     "05 - Resources/Templates/group.md",
     "docs/05-resources/templates/group.html",
     "docs/05-resources/templates/character.html",
@@ -254,8 +240,6 @@
     "docs/05-resources/templates/location.html",
     "05 - Resources/Templates/location.md",
     "docs/05-resources/templates/affinity-(wip).html",
-    "05 - Resources/Templates/affinity (wip).md",
-    "Index.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "01 - Stories/Story Navigation.md",
