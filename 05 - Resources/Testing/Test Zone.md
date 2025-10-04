@@ -64,4 +64,4 @@ FROM "00 - Wiki/Characters"
 FLATTEN character
 ```
 
-![[Untitled.base]]
+![[lists.base]]

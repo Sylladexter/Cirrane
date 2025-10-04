@@ -7,10 +7,8 @@
     "extended-colorschemes",
     "infobox-callouts",
     "Table Styles",
-    "z-custom-fonts",
     "anu-custom-background",
-    "anu-custom-rainbow-colors",
-    "ITS - Kanban"
+    "anu-custom-rainbow-colors"
   ],
   "theme": "system",
   "nativeMenus": true,

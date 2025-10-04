@@ -4,5 +4,6 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "current"
 }

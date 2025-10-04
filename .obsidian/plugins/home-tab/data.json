@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "05 - Resources/Templates/character.md",
-      "timestamp": 1759539094373
+      "filepath": "Index.md",
+      "timestamp": 1759544318698
+    },
+    {
+      "filepath": "01 - Stories/Story Navigation.md",
+      "timestamp": 1759544318296
+    },
+    {
+      "filepath": "00 - Wiki/Magic/Affinities.md",
+      "timestamp": 1759544317717
+    },
+    {
+      "filepath": "01 - Stories/The Curse/Notes.md",
+      "timestamp": 1759544317455
+    },
+    {
+      "filepath": "02 - Timelines/00 - Example Timeline.md",
+      "timestamp": 1759544317224
     }
   ],
   "bookmarkedFileStore": [],
