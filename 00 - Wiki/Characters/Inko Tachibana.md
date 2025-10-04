@@ -2,7 +2,6 @@
 type: character
 aliases:
   - Inko
-  - Koko
 cssclasses:
   - chara
   - hide-title
@@ -18,7 +17,7 @@ height: 5'4"
 affinity: Earth
 nationality: Cirranian
 creator: Marina
-quote: Something your funny guy would say
+quote: When you work to live, are you really living?
 ---
 
 %% 
@@ -51,8 +50,8 @@ Tags to add:
 > <span class="l">Nationality</span> `=this.nationality`
 > <span class="l">Creator</span> `=this.creator`
 > # Nicknames
-> - Name
-> - Name
+> - Koko
+> - Inky
 > # Affiliates
 > - [[affiliate]]
 > - [[affiliate]]
@@ -105,7 +104,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> <small>Relation</small> 
 >
 >>> [!r-desc]
->>>  <span class="r-quote"> *❝ Quote❞* </span>
+>>>  <span class="r-quote"> *❝Quote❞* </span>
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 

@@ -122,19 +122,18 @@
 *********************/ 
 .home .callout[data-callout-metadata*="cc-nav"] {
   
-  .callout-content ul {
+  & .callout-content ul {
     display:flex; 
     width: 100%!important;
     justify-content:space-evenly;
 }
  
- 
- .callout-content li {
+ & .callout-content li {
     margin:0;
     text-align: center;
  }
 
-  a {
+  & a {
     display:flex;
     flex-flow: column;
     margin:auto;
@@ -145,11 +144,11 @@
     font-weight: 300;
  }
  
-  .list-bullet {
+  & .list-bullet {
     display:none;
  }
  
-  .cm-iconize-icon {
+  & .cm-iconize-icon {
     background: var(--link-color);
     width: 80px;
     height: 80px;
@@ -158,7 +157,7 @@
     margin: 1.5em auto;
  }
  
- .cm-iconize-icon svg  {
+ & .cm-iconize-icon svg  {
     width: 25px;
     height: 25px;
     color: var(--text-normal);
