@@ -1,336 +1,258 @@
-/****************************************
-  Variables
-*****************************************/ 
-/* :root {
-  --ctp-custom-flamingo:  var(--cc-flamingo, var(--ctp-flamingo));
-  --ctp-custom-pink:  var(--cc-pink, var(--ctp-pink));
-  --ctp-custom-rosewater:  var(--cc-rosewater, var(--ctp-rosewater));
-  --ctp-custom-mauve:  var(--cc-mauve, var(--ctp-mauve));
-  --ctp-custom-red:  var(--cc-red, var(--ctp-red));
-  --ctp-custom-maroon:  var(--cc-maroon, var(--ctp-maroon));
-  --ctp-custom-peach:  var(--cc-peach, var(--ctp-peach));
-  --ctp-custom-yellow:  var(--cc-yellow, var(--ctp-yellow));
-  --ctp-custom-green:  var(--cc-green, var(--ctp-green));
-  --ctp-custom-teal:  var(--cc-teal, var(--ctp-teal));
-  --ctp-custom-sky:  var(--cc-sky, var(--ctp-sky));
-  --ctp-custom-sapphire:  var(--cc-sapphire, var(--ctp-sapphire));
-  --ctp-custom-blue:  var(--cc-blue, var(--ctp-blue));
-  --ctp-custom-lavender:  var(--cc-lavender, var(--ctp-lavender));
-  --ctp-custom-text:  var(--cc-text, var(--ctp-text));
-  --ctp-custom-subtext1:  var(--cc-subtext1, var(--ctp-subtext1));
-  --ctp-custom-subtext0:  var(--cc-subtext0, var(--ctp-subtext0));
-  --ctp-custom-overlay2:  var(--cc-overlay2, var(--ctp-overlay2));
-  --ctp-custom-overlay1:  var(--cc-overlay1, var(--ctp-overlay1));
-  --ctp-custom-overlay0:  var(--cc-overlay0, var(--ctp-overlay0));
-  --ctp-custom-surface2:  var(--cc-surface2, var(--ctp-surface2));
-  --ctp-custom-surface1:  var(--cc-surface1, var(--ctp-surface1));
-  --ctp-custom-surface0:  var(--cc-surface0, var(--ctp-surface0));
-  --ctp-custom-base:  var(--cc-base, var(--ctp-base));
-  --ctp-custom-mantle:  var(--cc-mantle, var(--ctp-mantle));
-  --ctp-custom-crust:  var(--cc-crust, var(--ctp-crust));
-
-  --cc-rosewater:
-  --cc-flamingo:
-  --cc-pink:
-  --cc-mauve:
-  --cc-red:
-  --cc-maroon:
-  --cc-peach:
-  --cc-yellow:
-  --cc-green:
-  --cc-teal:
-  --cc-sky:
-  --cc-sapphire:
-  --cc-blue:
-  --cc-lavender:
-  --cc-text:
-  --cc-subtext1:
-  --cc-subtext0:
-  --cc-overlay2:
-  --cc-overlay1:
-  --cc-overlay0:
-  --cc-surface2:
-  --cc-surface1:
-  --cc-surface0:
-  --cc-base:
-  --cc-mantle:
-  --cc-crust:
-} */
-/****************************************
+/* ***************************************
   Deployed
-*****************************************/ 
-
+**************************************** */
 #center-content {
-  background: var(--background-primary);
+    background: var(--background-primary);
 }
 
 #left-sidebar {
-  background: var(--background-secondary)
+    background: var(--background-secondary);
 }
 
 #center-content .pixel-banner-image,
 #center-content .select-image-icon {
-  display: none;
+    display: none;
 }
 
-/****************************************
+/* ***************************************
   Utils
-*****************************************/ 
+**************************************** */
 
-
-
-/****************************************
+/* ***************************************
   Affinities
-*****************************************/ 
+**************************************** */
 
-
- .affinities {
-    /* removes padding */
-   .columnParent:has(.callout[data-callout="affinity"]) {
-      padding-left: 0;
-   }
-
-   /* affinity */
-  .callout[data-callout="affinity"]  {
-      background: none;
-      border: none;
-
-    .callout-content {
-        border: none;
-    }
-
-    .callout-title {
-        display:none;
-    }
-
-    .v {
-      color: var(--text-muted);
-      text-align: right;
-    } 
-
-  }
- }
-
-
-/****************************************
-  Navigation
-*****************************************/ 
-
-
-/********************
-  Buttons
-*********************/ 
-.home .callout[data-callout-metadata*="cc-nav"] {
-  
-  & .callout-content ul {
-    display:flex; 
-    width: 100%!important;
-    justify-content:space-evenly;
+.affinities .columnParent:has(.callout[data-callout="affinity"]) {
+    padding-left: 0;
 }
- 
- & .callout-content li {
-    margin:0;
-    text-align: center;
- }
 
-  & a {
-    display:flex;
+.affinities .callout[data-callout="affinity"] {
+    background: none;
+    border: none;
+}
+
+.affinities .callout[data-callout="affinity"] .callout-content {
+    border: none;
+}
+
+.affinities .callout[data-callout="affinity"] .callout-title {
+    display: none;
+}
+
+.affinities .callout[data-callout="affinity"] .v {
+    color: var(--text-muted);
+    text-align: right;
+}
+
+/* ***************************************
+  Navigation
+**************************************** */
+
+/* *******************
+  Buttons
+******************** */
+.home .callout[data-callout-metadata*="cc-nav"] .callout-content ul {
+    display: flex;
+    width: 100%!important;
+    justify-content: space-evenly;
+}
+
+.home .callout[data-callout-metadata*="cc-nav"] .callout-content li {
+    margin: 0;
+    text-align: center;
+}
+
+.home .callout[data-callout-metadata*="cc-nav"] a {
+    display: flex;
     flex-flow: column;
-    margin:auto;
+    margin: auto;
     text-decoration: none;
-    font-size:calc(var(--font-adaptive-normal) - 2px);
-    color:var(--color-rosewater);
+    font-size: calc(var(--font-adaptive-normal) - 2px);
+    color: var(--color-rosewater);
     letter-spacing: 1px;
     font-weight: 300;
- }
- 
-  & .list-bullet {
-    display:none;
- }
- 
-  & .cm-iconize-icon {
+}
+
+.home .callout[data-callout-metadata*="cc-nav"] .list-bullet {
+    display: none;
+}
+
+.home .callout[data-callout-metadata*="cc-nav"] .cm-iconize-icon {
     background: var(--link-color);
     width: 80px;
     height: 80px;
     padding: 1.2em;
     border-radius: 100%;
     margin: 1.5em auto;
- }
- 
- & .cm-iconize-icon svg  {
+}
+
+.home .callout[data-callout-metadata*="cc-nav"] .cm-iconize-icon svg {
     width: 25px;
     height: 25px;
     color: var(--text-normal);
-    margin:auto;
- }
-
+    margin: auto;
 }
 
-
-/********************
+/* *******************
   Blocks
-*********************/ 
+******************** */
 
-/****************************************
+/* ***************************************
   Color Swaps
-*****************************************/
+**************************************** */
 
 /* comments */
 .cm-comment {
-  color: var(--color-base-40);
+    color: var(--color-base-40);
 }
 
 .color-title .inline-title {
-  color: var(--color-red);
+    color: var(--color-red);
 }
 
-/****************************************
+/* ***************************************
   Infobox Tweaks
-*****************************************/ 
+**************************************** */
 
 /* Changes dataview elements colors */
 .l + .dataview {
-    color: var(--text-muted)
+    color: var(--text-muted);
 }
 
 /* Selects label class and direct siblings */
-.label, 
-.label + *, 
-.l, 
+.label,
+.label + *,
+.l,
 .l + * {
-  font-size: .80em;
+    font-size: .80em;
 }
 
 /* Evenly space elements */
 p:has(> .l) {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 p > .l {
-  display: inline-block;
-  width: 50%; /* force two per row */
-  margin:0;
+    display: inline-block;
+    width: 50%; /* force two per row */
+    margin: 0;
 }
 
 /* Value align right */
 p > .l + .dataview {
-  width: 50%;
-  text-align: right;
+    width: 50%;
+    text-align: right;
 }
 
-/****************************************
+/* ***************************************
   Character Pages
-*****************************************/ 
+**************************************** */
 
 /* Title */
+.chara .inline-title {
+    color: var(--color-red);
+}
+
 .chara {
 
-  .inline-title {
-    color: var(--color-red);
-  }
+    
+}
 
-  /* Blockquote */
-  .callout[data-callout="blockquote"] {
+/* Blockquote */
+.chara .callout[data-callout="blockquote"] {
     border: none;
     background: none;
     padding: .5em;
     color: var(--blockquote-color);
-    font-weight:200;
+    font-weight: 200;
     text-align: center;
-    margin:0;
+    margin: 0;
 
-  /* Adjectives */
-  strong {
-    color:var(--text-accent);
-    }
-  }
-
-  /********************
-    Relationships
-  *********************/ 
-  .callout[data-callout="col"] {
-    margin: 0 auto;
-
-    .callout-content {
-      padding: 0;
-    }
-  
-    blockquote{
-      border:none;
-      background:none;
-    }
-  }
-
-  .callout[data-callout="r-img"] {
-    max-width:100px;
-    text-align: center;
-    margin: 1em 0!important; 
-    padding:0;
-    background: none;
-  }
-
-  .callout[data-callout="r-desc"]{
-    background:none;
-
-    p:first-child {
-      display: flex;
-    }
-
-    .r-quote {
-      margin: auto;
-    }
     
-    em {
-      color: var(--text-muted);
-    }
-
-    hr {
-      margin: .5em auto;
-    }
-
+}
+/* Adjectives */
+.chara .callout[data-callout="blockquote"] strong {
+    color: var(--text-accent);
 }
 
+/* *******************
+    Relationships
+  ******************** */
+
+.chara .callout[data-callout="col"] {
+    margin: 0 auto;
 }
 
+.chara .callout[data-callout="col"] .callout-content {
+    padding: 0;
+}
+
+.chara .callout[data-callout="col"] blockquote {
+    border: none;
+    background: none;
+}
+
+.chara .callout[data-callout="r-img"] {
+    max-width: 100px;
+    text-align: center;
+    margin: 1em 0!important;
+    padding: 0;
+    background: none;
+}
+
+.chara .callout[data-callout="r-desc"] {
+    background: none;
+}
+
+.chara .callout[data-callout="r-desc"] p:first-child {
+    display: flex;
+}
+
+.chara .callout[data-callout="r-desc"] .r-quote {
+    margin: auto;
+}
+
+.chara .callout[data-callout="r-desc"] em {
+    color: var(--text-muted);
+}
+
+.chara .callout[data-callout="r-desc"] hr {
+    margin: .5em auto;
+}
 
 /* Adjectives */
 
-
-
-
-/*****************************************
+/* ****************************************
   Bases
-*****************************************/ 
-
+**************************************** */
 .bases-embed[alt~="no-toolbar"] > .bases-view,
 .bases-embed[alt~="no-toolbar"] .bases-tr {
-  border: none!important;
-  box-shadow: none!important;
+    border: none!important;
+    box-shadow: none!important;
 }
 
 .bases-embed[alt~="no-toolbar"] .bases-td {
-  display:list-item;
+    display: list-item;
 }
 
-/*****************************************
+/* ****************************************
   Other
-******************************************/ 
-
+***************************************** */
 .chara .callout[data-callout="blockquote"] .callout-title {
-  display: none;
+    display: none;
 }
 
- /* Show inline dv variables as normal text */
- .dataview[data-dv-key="summary"]{
-  color: var(--text-normal);
-  font-size: var(--font-text-size);
-  text-decoration: none;
- }
+/* Show inline dv variables as normal text */
+.dataview[data-dv-key="summary"] {
+    color: var(--text-normal);
+    font-size: var(--font-text-size);
+    text-decoration: none;
+}
 
-/*****************************************
+/* ****************************************
   Hide + Utils
-******************************************/ 
+***************************************** */
 
 /* display none */
 .hide-title .inline-title,
@@ -338,27 +260,24 @@ p > .l + .dataview {
 .bases-embed[alt~="no-toolbar"] .bases-thead,
 .chara .callout[data-callout="r-img"] .callout-title,
 .chara .callout[data-callout="r-desc"] .callout-title,
-.home .callout[data-callout-metadata="cc-nav"] .callout-title
- {
-    display:none;
+.home .callout[data-callout-metadata="cc-nav"] .callout-title {
+    display: none;
 }
 
 /* no borders */
 .chara .callout[data-callout="r-img"],
 .chara .callout[data-callout="r-desc"],
 .home .callout[data-callout-metadata="cc-nav"] .callout-content {
-  border:none!important; 
-} 
+    border: none!important;
+}
 
 /* 0 padding and margin */
 .chara .callout[data-callout="r-desc"] {
-  padding: 0!important;
-  margin: 0!important;
+    padding: 0!important;
+    margin: 0!important;
 }
 
-/* No background*/
+/* No background */
 .home .callout[data-callout-metadata="cc-nav"] {
-  background: none!important;
+    background: none!important;
 }
-
-
