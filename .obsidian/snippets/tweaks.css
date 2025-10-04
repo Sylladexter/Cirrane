@@ -74,55 +74,100 @@
 }
 
 /****************************************
+  Utils
+*****************************************/ 
+
+
+
+/****************************************
+  Affinities
+*****************************************/ 
+
+
+ .affinities {
+    /* removes padding */
+   .columnParent:has(.callout[data-callout="affinity"]) {
+      padding-left: 0;
+   }
+
+   /* affinity */
+  .callout[data-callout="affinity"]  {
+      background: none;
+      border: none;
+
+    .callout-content {
+        border: none;
+    }
+
+    .callout-title {
+        display:none;
+    }
+
+    .v {
+      color: var(--text-muted);
+      text-align: right;
+    } 
+
+  }
+ }
+
+
+/****************************************
   Navigation
 *****************************************/ 
+
 
 /********************
   Buttons
 *********************/ 
-.home .callout[data-callout-metadata="cc-nav"] .callout-content ul {
-  display:flex; 
-  width: 100%!important;
-  justify-content:space-evenly;
- }
- 
-.home .callout[data-callout-metadata="cc-nav"] .callout-content li {
-  margin:0;
-  text-align: center;
- }
-
-.home .callout[data-callout-metadata="cc-nav"] a {
-  display:flex;
-  flex-flow: column;
-  margin:auto;
-  text-decoration: none;
-  font-size:calc(var(--font-adaptive-normal) - 2px);
-  color:var(--text-normal);
-  letter-spacing: 1px;
-  font-weight: 300;
- }
- 
-.home .callout[data-callout-metadata="cc-nav"]  .list-bullet {
-  display:none;
+.home .callout[data-callout-metadata*="cc-nav"] {
+  
+  .callout-content ul {
+    display:flex; 
+    width: 100%!important;
+    justify-content:space-evenly;
 }
  
-.home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon {
- background: var(--link-color);
- width: 80px;
- height: 80px;
- padding: 1.2em;
- border-radius: 100%;
- margin: 1.5em auto;
- }
  
-.home .callout[data-callout-metadata="cc-nav"] .cm-iconize-icon svg  {
-  width: 25px;
-  height: 25px;
-  color: var(--text-normal);
-  margin:auto;
+ .callout-content li {
+    margin:0;
+    text-align: center;
  }
 
+  a {
+    display:flex;
+    flex-flow: column;
+    margin:auto;
+    text-decoration: none;
+    font-size:calc(var(--font-adaptive-normal) - 2px);
+    color:var(--color-rosewater);
+    letter-spacing: 1px;
+    font-weight: 300;
+ }
  
+  .list-bullet {
+    display:none;
+ }
+ 
+  .cm-iconize-icon {
+    background: var(--link-color);
+    width: 80px;
+    height: 80px;
+    padding: 1.2em;
+    border-radius: 100%;
+    margin: 1.5em auto;
+ }
+ 
+ .cm-iconize-icon svg  {
+    width: 25px;
+    height: 25px;
+    color: var(--text-normal);
+    margin:auto;
+ }
+
+}
+
+
 /********************
   Blocks
 *********************/ 
@@ -180,61 +225,80 @@ p > .l + .dataview {
 *****************************************/ 
 
 /* Title */
-.chara .inline-title {
-  color: var(--color-red);
+.chara {
+
+  .inline-title {
+    color: var(--color-red);
+  }
+
+  /* Blockquote */
+  .callout[data-callout="blockquote"] {
+    border: none;
+    background: none;
+    padding: .5em;
+    color: var(--blockquote-color);
+    font-weight:200;
+    text-align: center;
+    margin:0;
+
+  /* Adjectives */
+  strong {
+    color:var(--text-accent);
+    }
+  }
+
+  /********************
+    Relationships
+  *********************/ 
+  .callout[data-callout="col"] {
+    margin: 0 auto;
+
+    .callout-content {
+      padding: 0;
+    }
+  
+    blockquote{
+      border:none;
+      background:none;
+    }
+  }
+
+  .callout[data-callout="r-img"] {
+    max-width:100px;
+    text-align: center;
+    margin: 1em 0!important; 
+    padding:0;
+    background: none;
+  }
+
+  .callout[data-callout="r-desc"]{
+    background:none;
+
+    p:first-child {
+      display: flex;
+    }
+
+    .r-quote {
+      margin: auto;
+    }
+    
+    em {
+      color: var(--text-muted);
+    }
+
+    hr {
+      margin: .5em auto;
+    }
+
 }
 
-/* Blockquote */
-.chara .callout[data-callout="blockquote"] {
-  border: none;
-  background: none;
-  padding: .5em;
-  color: var(--blockquote-color);
-  font-weight:200;
-  text-align: center;
-  margin:0;
 }
+
 
 /* Adjectives */
-.chara .callout[data-callout="blockquote"] strong {
-  color:var(--text-accent);
-}
 
-/********************
-  Relationships
-*********************/ 
-.chara .callout[data-callout="col"] {
-  margin: 0 auto;
-}
 
-.chara .callout[data-callout="col"] .callout-content {
-  padding: 0;
-}
 
-.chara .callout[data-callout="col"] blockquote {
-  border:none;
-}
-
-.chara .callout[data-callout="r-img"] {
-  max-width:15%!important;
-  text-align: center;
-  margin: 1em 0!important; 
-  padding:0;
-}
-
-.chara blockquote .callout[data-callout="r-desc"],
-.chara .callout[data-callout="col"] blockquote {
-  background:none!important;
-}
-
-.chara .callout[data-callout="r-desc"] em {
-  color: var(--text-muted);
-}
-
-.chara .callout[data-callout="r-desc"] hr {
-/* width: 60%; */
-  margin: .5em auto;
-}
 
 /*****************************************
   Bases

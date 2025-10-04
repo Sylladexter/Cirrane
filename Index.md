@@ -15,9 +15,9 @@ html-title: Cirrane
 
 ```
 
->[!col|cc-nav] 
+>[!col|cc-nav|white] 
 >- [[Characters|:LiIdCard: Characters]]
 >- [[Timeline|:LiClock: Timeline]]
 >- [[Stories|:LiBook: Stories]]
->- [[Locations|:LiMapPin:  Locations]]
-
+>- [[Magic|:LiStars: Magic]]
+>- [[Locations|:LiMapPin: Locations]]

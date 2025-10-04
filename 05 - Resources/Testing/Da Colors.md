@@ -22,5 +22,6 @@
 - <p style="color: var(--color-surface1)">⬤ surface1</p>
 - <p style="color: var(--color-surface0)">⬤ surface0</p>
 - <p style="color: var(--color-base)">⬤ base</p>
-- <p style="color: var(--color-mantle)">⬤ mantle</p>
+- <p style="color: var(--ctp-mantle)">⬤ mantle</p>
 - <p style="color: var(--color-crust)">⬤ crust</p>
+

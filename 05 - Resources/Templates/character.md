@@ -100,10 +100,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %% Relationship 01 %%
 >[!col] 
 >> [!r-img]
->> `=[[character]].image`
+>> `=[[character]].image` 
+>> [[character]]
+>> <small>Relation</small> 
 >
 >>> [!r-desc]
->>>[[character]] <small>[Relation]</small> - *❝ Quote❞* 
+>>>  <span class="r-quote"> *❝ Quote❞* </span>
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -111,9 +113,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >[!col] 
 >> [!r-img]
 >> `=[[character]].image` 
+>> [[character]]
+>> <small>Relation</small> 
 >
 >>> [!r-desc]
->>> [[character]] <small>[Relation]</small> - *❝ Quote❞* 
+>>>  <span class="r-quote"> *❝ Quote❞* </span>
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 

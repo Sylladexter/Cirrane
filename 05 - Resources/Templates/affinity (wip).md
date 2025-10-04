@@ -8,10 +8,11 @@ cssclasses:
 ````col
 
 ```col-md
-![[cafelogobig.png]]
-<span class="l">Rarity</span> Rarity
-<span class="l">Deity</span> Name
-<span class="l">Vessel</span> Name
+>[!affinity]
+> ![[cafelogobig.png]]
+> <span class="l">Rarity</span> <span class="v">Rarity</span>
+> <span class="l">Deity</span> <span class="v">Name</span>
+> <span class="l">Vessel</span> <span class="v">Name</span>
 ```
 
 ```col-md

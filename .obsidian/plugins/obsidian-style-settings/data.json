@@ -92,5 +92,7 @@
   "anuppuccin-theme-settings@@anp-h2-divider": false,
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
   "anuppuccin-theme-settings@@anp-callout-select": "none",
-  "anuppuccin-custom-background@@anp-background-image-toggle": false
+  "anuppuccin-custom-background@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings@@anp-layout-select": "none",
+  "anuppuccin-theme-settings@@anp-bg-fix": false
 }
