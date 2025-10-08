@@ -8,6 +8,9 @@ sensors work via body magic to freeze players in place until their released by a
 
 ## The Gauntlet
 - The major sport of Cirrane. The Gauntlet is a sport mixed up of freeze tag, capture the flag, and a battle royale. 
+- The goal is to have the most by the the end of the match. 
+- Players of the sport are known as gauntlet runners or just runners. 
+- Start in Cirrane as a way to honor the gods, it has evolved over the years to be less of a blood sport but still carries many risks to runners.
 
 ## Team Structure
 - Coach
@@ -17,6 +20,13 @@ sensors work via body magic to freeze players in place until their released by a
 - 6 Players
 
 
+## Terminology
+- Flags
+- Captured
+- Sweep
+- Gauntlet
+- Runners
+
 ## Regulations
 -Objective
 	- The team with the most points at the end of the game wins.
@@ -24,12 +34,24 @@ sensors work via body magic to freeze players in place until their released by a
 
 ## Equipment
 - Flags
-	- Refers to the sensors worn by all gauntlet runners
+	- Refers to the sensors worn by all gauntlet runners. 
+	- The flags function as the points for a given player during the match. 
+	- If a flag is tagged, the player becomes frozen in place and they lose their points until they can be retrieved by the team's captain. 
+		- If a captain is captured they can only be freed with the help of 2-3 other players. 
+	- Along with the sensors, players are requires to wear specialized gloves that sync with the sensors and help determine when someone has been tagged. 
+	- Body magic inside the sensors freezes players in place until they can be unfrozen.
+- 
 
 ## Point System
 - Figure out Point System
 	Maximum number of points a team can have? Minimum? 
 	How many points to captains have vs normal players?
+- Each player is assigned a set number of points with captain holding the most amount of points at the start of a match.
+	- Points can be stolen from the opponent, and taken back by the team's captain.
+- If a player loses their points and then falls out of bounds, those points are locked with the opponent and can't be stolen back as the player associated with them is out of the match.
+- Points will rise and fall throughout a match as players lose and regain points. A final tally will be done at the end of the match to determine who the winner is.
+- Matches have a running scoreboard tracking players' progress during the match.
+- In the event that a team is completely wiped in a match (all points are lost), the match will end immediately and the opposing team declared victorious. 
 
 ## Leagues
 - Professional

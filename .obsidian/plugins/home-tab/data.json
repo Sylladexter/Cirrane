@@ -22,7 +22,24 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "00 - Wiki/History/The Esterran Rebellion.md",
+      "timestamp": 1759887459049
+    },
+    {
+      "filepath": "00 - Wiki/Locations/Locations.md",
+      "timestamp": 1759887457789
+    },
+    {
+      "filepath": "00 - Wiki/History/The Old World.md",
+      "timestamp": 1759887442145
+    },
+    {
+      "filepath": "00 - Wiki/History/The Remnants of Humanity.md",
+      "timestamp": 1759887440339
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
