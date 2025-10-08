@@ -25,6 +25,10 @@
     {
       "folder": "01 - Stories",
       "template": ""
+    },
+    {
+      "folder": "00 - Wiki/Magic/Affinities",
+      "template": "05 - Resources/Templates/affinity (wip).md"
     }
   ],
   "enable_file_templates": false,

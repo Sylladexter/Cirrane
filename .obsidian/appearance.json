@@ -2,13 +2,13 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "#84bbf5",
   "enabledCssSnippets": [
-    "tweaks",
     "Colored Sidebar Items Modified",
     "extended-colorschemes",
     "infobox-callouts",
     "Table Styles",
     "anu-custom-background",
-    "anu-custom-rainbow-colors"
+    "anu-custom-rainbow-colors",
+    "tweaks"
   ],
   "theme": "system",
   "nativeMenus": true,

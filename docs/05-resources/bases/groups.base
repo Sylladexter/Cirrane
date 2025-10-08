@@ -1,0 +1,60 @@
+formulas:
+  fam: this.family.map("- " + link("00 - Wiki/Characters"+ value.toString())  + "\n")
+  image: image.replace("![[","").replace("]]","")
+properties:
+  formula.image:
+    displayName: image-formula
+views:
+  - type: cards
+    name: characters
+    filters:
+      and:
+        - type == "character"
+    order:
+      - file.name
+    rowHeight: tall
+    image: formula.image
+    cardSize: 150
+  - type: cards
+    name: affiliates
+    filters:
+      and:
+        - type == "character"
+        - file.hasTag("groups/"+this.file.name.replace(" ","-").lower()+"/characters")
+    image: note.image
+  - type: table
+    name: organizations
+    filters:
+      and:
+        - file.hasTag("groups/"+this.file.name.replace(" ","-").lower()+"/locals")
+  - type: cards
+    name: stories
+    filters:
+      and:
+        - file.hasTag("stories/"+this.file.name.replace(" ","-").lower()+"/characters")
+    image: formula.image
+    imageAspectRatio: 1
+    cardSize: 150
+  - type: table
+    name: stories-chara
+    filters:
+      and:
+        - type == "overview"
+        - characters.contains(this.file)
+    order:
+      - file.name
+      - blurb
+  - type: table
+    name: character
+    filters:
+      and:
+        - file.hasTag("character")
+    order:
+      - file.name
+      - age
+      - birthday
+      - gender
+      - height
+      - creator
+    columnSize:
+      file.name: 186

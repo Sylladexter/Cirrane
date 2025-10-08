@@ -37,7 +37,7 @@ cssclasses:
 - This magic manifests through one's aura and spiritual energy.
 
 ## Affinities
-| [[Affinities#Water\|WATER]] | [[Affinities#Fire\|FIRE]] | [[Affinities#Air\|AIR]] | [[Affinities#Earth\|EARTH]] | [[Affinities#Body\|BODY]] | [[Affinities#Mind\|MIND]] | [[Affinities#Soul\|SOUL]] |
+| [[Affinities (old)#Water\|WATER]] | [[Affinities (old)#Fire\|FIRE]] | [[Affinities (old)#Air\|AIR]] | [[Affinities (old)#Earth\|EARTH]] | [[Affinities (old)#Body\|BODY]] | [[Affinities (old)#Mind\|MIND]] | [[Affinities (old)#Soul\|SOUL]] |
 | :-------------------------: | :-----------------------: | :---------------------: | :-------------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 |             ice             |                           |        electric         |            flora            |           form            |                           |           aura            |
 |                             |                           |                         |            terra            |                           |                           |          spirit           |

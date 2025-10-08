@@ -1,3 +1,6 @@
+/* Use nest your css to convert nested before loading
+https://nestyourcss.com/ */
+
 /* ***************************************
   Deployed
 **************************************** */
@@ -18,12 +21,65 @@
   Utils
 **************************************** */
 
+/* *******************
+  Color 
+******************** */
+
+/* comments */
+.cm-comment {
+    color: var(--color-base-40);
+}
+
+/*  */
+.color-title .inline-title {
+    color: var(--color-red);
+}
+
+/* *******************
+  Zero out
+******************** */
+
+/* *******************
+  Callouts
+******************** */
+.callout[data-callout-metadata*="hide"] {
+    background: none!important;
+}
+
+.callout[data-callout-metadata*="hide"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout-metadata*="hide"] .callout-content {
+    border: none!important;
+    background: none!important;
+}
+
+.callout[data-callout-metadata*="no-border"] .callout-content {
+    border: none!important;
+}
+
+/* Show inline dv variables as normal text */
+.dataview[data-dv-key="summary"] {
+    color: var(--text-normal);
+    font-size: var(--font-text-size);
+    text-decoration: none;
+}
+
 /* ***************************************
   Affinities
 **************************************** */
+.affinities {
+    /* removes padding */
+}
 
 .affinities .columnParent:has(.callout[data-callout="affinity"]) {
     padding-left: 0;
+}
+
+.affinities {
+
+    /* affinity */
 }
 
 .affinities .callout[data-callout="affinity"] {
@@ -93,54 +149,31 @@
     margin: auto;
 }
 
-/* *******************
-  Blocks
-******************** */
-
 /* ***************************************
-  Color Swaps
+  Infobox/Labels Tweaks
 **************************************** */
-
-/* comments */
-.cm-comment {
-    color: var(--color-base-40);
-}
-
-.color-title .inline-title {
-    color: var(--color-red);
-}
-
-/* ***************************************
-  Infobox Tweaks
-**************************************** */
-
-/* Changes dataview elements colors */
-.l + .dataview {
-    color: var(--text-muted);
-}
-
-/* Selects label class and direct siblings */
-.label,
-.label + *,
-.l,
-.l + * {
-    font-size: .80em;
-}
-
-/* Evenly space elements */
 p:has(> .l) {
+    /* Evenly space elements */
     display: flex;
     flex-wrap: wrap;
+    font-size: .9em;
 }
 
-p > .l {
+p:has(> .l)  > span {
+    margin: .2em 0;
+}
+
+p:has(> .l)  > .l {
     display: inline-block;
     width: 50%; /* force two per row */
     margin: 0;
+
+    /* Value align right */
 }
 
-/* Value align right */
-p > .l + .dataview {
+p:has(> .l)  > .l  + * {
+    color: var(--text-muted);
+    display: inline-block;
     width: 50%;
     text-align: right;
 }
@@ -156,10 +189,9 @@ p > .l + .dataview {
 
 .chara {
 
-    
+    /* Blockquote */
 }
 
-/* Blockquote */
 .chara .callout[data-callout="blockquote"] {
     border: none;
     background: none;
@@ -169,16 +201,19 @@ p > .l + .dataview {
     text-align: center;
     margin: 0;
 
-    
+    /* Adjectives */
 }
-/* Adjectives */
+
 .chara .callout[data-callout="blockquote"] strong {
     color: var(--text-accent);
 }
 
-/* *******************
+.chara {
+
+    /* *******************
     Relationships
   ******************** */
+}
 
 .chara .callout[data-callout="col"] {
     margin: 0 auto;
@@ -226,28 +261,13 @@ p > .l + .dataview {
 /* ****************************************
   Bases
 **************************************** */
-.bases-embed[alt~="no-toolbar"] > .bases-view,
-.bases-embed[alt~="no-toolbar"] .bases-tr {
+.bases-embed[alt~="no-toolbar"]  > .bases-view, .bases-embed[alt~="no-toolbar"] .bases-tr {
     border: none!important;
     box-shadow: none!important;
 }
 
 .bases-embed[alt~="no-toolbar"] .bases-td {
     display: list-item;
-}
-
-/* ****************************************
-  Other
-***************************************** */
-.chara .callout[data-callout="blockquote"] .callout-title {
-    display: none;
-}
-
-/* Show inline dv variables as normal text */
-.dataview[data-dv-key="summary"] {
-    color: var(--text-normal);
-    font-size: var(--font-text-size);
-    text-decoration: none;
 }
 
 /* ****************************************
@@ -258,8 +278,6 @@ p > .l + .dataview {
 .hide-title .inline-title,
 .bases-embed[alt~="no-toolbar"] > .bases-header,
 .bases-embed[alt~="no-toolbar"] .bases-thead,
-.chara .callout[data-callout="r-img"] .callout-title,
-.chara .callout[data-callout="r-desc"] .callout-title,
 .home .callout[data-callout-metadata="cc-nav"] .callout-title {
     display: none;
 }

@@ -22,28 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Index.md",
-      "timestamp": 1759546863448
-    },
-    {
-      "filepath": "05 - Resources/Templates/group.md",
-      "timestamp": 1759545316618
-    },
-    {
-      "filepath": "05 - Resources/Templates/location.md",
-      "timestamp": 1759545316361
-    },
-    {
-      "filepath": "05 - Resources/Templates/affinity (wip).md",
-      "timestamp": 1759545316118
-    },
-    {
-      "filepath": "05 - Resources/Templates/character.md",
-      "timestamp": 1759545315725
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

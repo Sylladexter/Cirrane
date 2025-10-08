@@ -1,3 +1,12 @@
+
+> [!note] WOMP
+> hehehehehe HOHOHO
+
+
+
+
+
+
 - <p style="color: var(--color-rosewater)">⬤ rosewater</p>
 - <p style="color: var(--color-flamingo)">⬤ flamingo</p>
 - <p style="color: var(--color-pink)">⬤ pink</p>

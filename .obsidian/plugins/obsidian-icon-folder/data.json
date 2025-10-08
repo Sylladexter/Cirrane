@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlertTriangle",
+      "LiWallpaper",
+      "LiBookOpen",
+      "LiClock4",
+      "LiNewspaper",
       "LiSkull",
       "LiNotebookPen",
       "LiHelp",
       "LiMapPin",
-      "LiExperiment",
-      "LiComputer",
-      "LiStars",
-      "LiBookMarked",
-      "LiHouse",
-      "LiBuilding2"
+      "LiExperiment"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -40,24 +40,22 @@
     "useInternalPlugins": false
   },
   "00 - Wiki/Characters": "LiUsers",
-  "00 - Wiki": {
-    "iconName": "LiBookmark",
-    "iconColor": "#ff3838"
-  },
-  "02 - Timelines": "LiClock",
+  "00 - Wiki": "LiWallpaper",
+  "02 - Timelines": "LiClock4",
   "03 - Notes": "LiNotebookPen",
-  "04 - Roleplay": "LiBookOpen",
-  "05 - Resources": "LiList",
+  "04 - Roleplay": "LiBookMarked",
+  "05 - Resources": "LiNewspaper",
   "05 - Resources/Templates": "LiLayoutTemplate",
   "05 - Resources/Images": "LiImage",
-  "01 - Stories": "LiNotebookTabs",
+  "01 - Stories": "LiBookOpen",
   "00 - Wiki/Groups": "LiHouse",
   "00 - Wiki/History": "LiBookMarked",
   "00 - Wiki/Magic": "LiStars",
   "05 - Resources/Bases": "LiComputer",
   "05 - Resources/Testing": "LiExperiment",
   "00 - Wiki/Locations": "LiMapPin",
-  "05 - Resources/Guides & Resources": "LiHelp",
   "01 - Stories/The Journalist": "LiNotebookPen",
-  "01 - Stories/The Curse": "LiSkull"
+  "01 - Stories/The Curse": "LiSkull",
+  "06 - Guides & To-Do": "LiHelp",
+  "03 - Notes/Locations": "LiMapPin"
 }

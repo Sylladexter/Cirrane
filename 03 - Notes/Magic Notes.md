@@ -3,21 +3,21 @@ tags:
   - magic/notes
 ---
 
+Body: Vyscera
+Water: Siren, Calypso, Kelpie, Nixie, Selkie, Ikuji. xana (xira?)
 
-
-
-Affinity Tiers
-WOW!
-* Tier 1: Casual  
-  * Power level of an average person. People in tier 1 are capable of utilizing very basic abilities. These are people who haven't hone their affinity for one reason or another and therefore are limited on capabilities.  
-* Tier 2: Hobbyist  
-  * Hobbyists tend to be more casual users compared to professionals. They have no formal training when it comes to honing their powers, but are capable of using more abilities than the average user.  
-* Tier 3: Professional  
-  * This tier is for those who are professionals and have dedicated their lived to honing their affinities. Tier 3 users will be military trained officials, gauntlet runners, doctors, and those in various other professions that require regular use of power.  
-* Tier 4: Vessel  
-  * Vessel tier is obtainable only by 7 people total at a time. There is 1 singular vessel for each affinity. Vessels have been granted the power of the gods and are essentially demi-gods.  
-  * This tier is only attainable when a god deems someone worthy of the status.  
-* Users have access to all abilities in the tier they are allotted as well as everything below that tier \- Tier 3 can do Tier 1 and 2 abilities, but a Tier 1 can’t do Tier 2 abilities.
+Magic is made up of 3 component:
+- Crystals
+	- Crystals are found in nature and function as containers for magical elements. They are harvested from the mines of Esterra and shipped off to factories for refinement and to be charged with magical energy for use.
+	- They function as the batteries of this universe/act as a magic amplifier
+- Runes
+	- Crystals can't function without the use of runes. Runes act as the circuitry of crystals and imbue crystals with a given element. 
+	- Runes are carved into crystals with attributes/components of an element in order for the crystal to become charged with that element.
+		- EX: Fire for fire, water for water, etc.
+- Innate Magic
+	- All humans (and animals?) are born with innate magic known as an affinity. This allows them to wield magic without the need for crystals/enhancers. Their magic will not be as strong without conduits but they may become stronger through years of studying and honing their abilities. 
+	- Affinities have been broken down into tiers as outlined below to denote what a person may or may not be capable of.
+		- The use of crystals will bump a person up a tier and allow them to use stronger magic than before.do Tier 1 and 2 abilities, but a Tier 1 can’t do Tier 2 abilities.
 
 ## Fire Abilities
 * **Tier 1 - Casual**  

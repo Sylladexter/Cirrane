@@ -15,7 +15,7 @@ html-title: Cirrane
 
 ```
 
->[!col|cc-nav|white] 
+>[!col|cc-nav|hide] 
 >- [[Characters|:LiIdCard: Characters]]
 >- [[Timeline|:LiClock: Timeline]]
 >- [[Stories|:LiBook: Stories]]

@@ -37,12 +37,12 @@ Tags to add:
   - stories/story-name/characters
 
 %%
-> [!infobox] 
+> [!infobox|no-border] 
 > `=this.image`
 > `=this.age` **•** `=this.gender` **•** `=this.height`
 > ---
- >> [!blockquote]  
- >> ❝ `=this.quote` ❞
+ >> [!blockquote|hide]  
+ >> ❝ `=this.quote` 
 > ---
 > <span class="l">Age</span> `=this.age` 
 > <span class="l">Birthday</span> `=this.birthday` 
@@ -64,7 +64,7 @@ Tags to add:
 
 # `=this.file.name`
 ---
-> [!blockquote] 
+> [!blockquote|hide] 
 > adjective **•** adjective **•** adjective
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -98,25 +98,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Relationships
 ---
 %% Relationship 01 %%
->[!col] 
->> [!r-img]
+>[!col|hide] 
+>> [!r-img|hide]
 >> `=[[character]].image` 
 >> [[character]]
 >> <small>Relation</small> 
 >
->>> [!r-desc]
+>>> [!r-desc|hide]
 >>>  <span class="r-quote"> *❝ Quote❞* </span>
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 %% Relationship 02 %%
->[!col] 
->> [!r-img]
+>[!col|hide] 
+>> [!r-img|hide]
 >> `=[[character]].image` 
 >> [[character]]
 >> <small>Relation</small> 
 >
->>> [!r-desc]
+>>> [!r-desc|hide]
 >>>  <span class="r-quote"> *❝ Quote❞* </span>
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.

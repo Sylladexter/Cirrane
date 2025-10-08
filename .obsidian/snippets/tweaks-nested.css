@@ -1,0 +1,331 @@
+/* Use nest your css to convert nested before loading
+https://nestyourcss.com/
+*/
+
+/****************************************
+  Deployed
+*****************************************/ 
+
+#center-content {
+  background: var(--background-primary);
+}
+
+#left-sidebar {
+  background: var(--background-secondary)
+}
+
+#center-content .pixel-banner-image,
+#center-content .select-image-icon {
+  display: none;
+}
+
+/****************************************
+  Utils
+*****************************************/ 
+
+/********************
+  Color 
+*********************/ 
+
+/* comments */
+.cm-comment {
+  color: var(--color-base-40);
+}
+
+/*  */
+.color-title .inline-title {
+  color: var(--color-red);
+}
+
+/********************
+  Zero out
+*********************/ 
+
+/********************
+  Callouts
+*********************/ 
+
+
+.callout {
+  &[data-callout-metadata*="hide"] {
+    background: none!important;
+    
+    .callout-title {
+      display: none;
+    }
+
+    .callout-content {
+      border: none!important;
+      background: none!important;
+    }
+  }
+
+  &[data-callout-metadata*="no-border"] .callout-content {
+    border: none!important;
+  }
+}
+
+
+
+
+
+ /* Show inline dv variables as normal text */
+ .dataview[data-dv-key="summary"]{
+  color: var(--text-normal);
+  font-size: var(--font-text-size);
+  text-decoration: none;
+ }
+
+/****************************************
+  Affinities
+*****************************************/ 
+
+
+ .affinities {
+    /* removes padding */
+   .columnParent:has(.callout[data-callout="affinity"]) {
+      padding-left: 0;
+   }
+
+   /* affinity */
+  .callout[data-callout="affinity"]  {
+      background: none;
+      border: none;
+
+    .callout-content {
+        border: none;
+    }
+
+    .callout-title {
+        display:none;
+    }
+
+    .v {
+      color: var(--text-muted);
+      text-align: right;
+    } 
+
+  }
+ }
+
+
+/****************************************
+  Navigation
+*****************************************/ 
+
+
+/********************
+  Buttons
+*********************/ 
+.home .callout[data-callout-metadata*="cc-nav"] {
+  
+  .callout-content ul {
+    display:flex; 
+    width: 100%!important;
+    justify-content:space-evenly;
+}
+ 
+ .callout-content li {
+    margin:0;
+    text-align: center;
+ }
+
+  a {
+    display:flex;
+    flex-flow: column;
+    margin:auto;
+    text-decoration: none;
+    font-size:calc(var(--font-adaptive-normal) - 2px);
+    color:var(--color-rosewater);
+    letter-spacing: 1px;
+    font-weight: 300;
+ }
+ 
+  .list-bullet {
+    display:none;
+ }
+ 
+  .cm-iconize-icon {
+    background: var(--link-color);
+    width: 80px;
+    height: 80px;
+    padding: 1.2em;
+    border-radius: 100%;
+    margin: 1.5em auto;
+ }
+ 
+ .cm-iconize-icon svg  {
+    width: 25px;
+    height: 25px;
+    color: var(--text-normal);
+    margin:auto;
+ }
+
+}
+
+/****************************************
+  Infobox/Labels Tweaks
+*****************************************/ 
+
+p:has(> .l) { 
+  /* Evenly space elements */
+  display: flex;
+  flex-wrap: wrap;
+  font-size: .9em;
+  
+  > span {
+    margin: .2em 0;
+  } 
+
+  > .l {
+    display: inline-block;
+    width: 50%; /* force two per row */
+    margin:0;
+    
+
+    /* Value align right */
+    + * {
+      color: var(--text-muted);
+      display:inline-block;
+      width: 50%;
+      text-align: right;
+   }
+  }
+}
+
+/****************************************
+  Character Pages
+*****************************************/ 
+
+/* Title */
+.chara {
+
+  .inline-title {
+    color: var(--color-red);
+  }
+
+  /* Blockquote */
+  .callout[data-callout="blockquote"] {
+    border: none;
+    background: none;
+    padding: .5em;
+    color: var(--blockquote-color);
+    font-weight:200;
+    text-align: center;
+    margin:0;
+
+
+  /* Adjectives */
+  strong {
+    color:var(--text-accent);
+    }
+  }
+
+  /********************
+    Relationships
+  *********************/ 
+  .callout[data-callout="col"] {
+    margin: 0 auto;
+
+    .callout-content {
+      padding: 0;
+    }
+  
+    blockquote{
+      border:none;
+      background:none;
+    }
+  }
+
+  .callout[data-callout="r-img"] {
+    max-width:100px;
+    text-align: center;
+    margin: 1em 0!important; 
+    padding:0;
+    background: none;
+  }
+
+  .callout[data-callout="r-desc"]{
+    background:none;
+
+    p:first-child {
+      display: flex;
+    }
+
+    .r-quote {
+      margin: auto;
+    }
+    
+    em {
+      color: var(--text-muted);
+    }
+
+    hr {
+      margin: .5em auto;
+    }
+  }
+}
+
+
+/* Adjectives */
+
+
+
+
+/*****************************************
+  Bases
+*****************************************/ 
+
+.bases-embed[alt~="no-toolbar"]{
+  > .bases-view, 
+    .bases-tr {
+      border: none!important;
+      box-shadow: none!important;
+  }
+
+  .bases-td {
+    display:list-item;
+  }
+}
+
+
+
+
+/*****************************************
+  Hide + Utils
+******************************************/ 
+
+/* display none */
+.hide-title .inline-title,
+.bases-embed[alt~="no-toolbar"] > .bases-header,
+.bases-embed[alt~="no-toolbar"] .bases-thead,
+.home .callout[data-callout-metadata="cc-nav"] .callout-title
+ {
+    display:none;
+}
+
+/* no borders */
+.chara .callout[data-callout="r-img"],
+.chara .callout[data-callout="r-desc"],
+.home .callout[data-callout-metadata="cc-nav"] .callout-content {
+  border:none!important; 
+} 
+
+/* 0 padding and margin */
+.chara .callout[data-callout="r-desc"] {
+  padding: 0!important;
+  margin: 0!important;
+}
+
+/* No background*/
+.home .callout[data-callout-metadata="cc-nav"] {
+  background: none!important;
+}
+
+/* 
+.accent {
+    
+    &.red :is(H1, h2, h3, h4, h5, h6, strong, .l, .inline-title) {
+        color: var(--color-rosewater);
+    
+} */
