@@ -75,5 +75,5 @@ sensors work via body magic to freeze players in place until their released by a
 - Mystic Hues
 - Ethereal Shadows
 - Sandwich Sisters
-- Team 4
+- Wicked Llamas
 - Winner's Circle
