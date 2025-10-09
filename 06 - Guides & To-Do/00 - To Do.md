@@ -29,6 +29,8 @@
 > - [ ] Gauntlets
 > - [ ] Gods
 > - [ ] Lake at the bottom of Esterra
+> 
+> - Animals?
 
 
 

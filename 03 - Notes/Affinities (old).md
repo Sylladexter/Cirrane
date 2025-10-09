@@ -5,10 +5,13 @@ cssclasses: []
 # The Elementals
 
 
-## :LiDroplet: Water
 
-### Introduction
-Water, being so tied to life on the planet itself, is often associated with healing properties. It is versatile—able to change its shape to fit the circumstance. That being said, water can be calm and collected like a stream or violent and unpredictable like a storm.
+> [!section|hide]
+> ## :LiDroplet: Water
+> 
+> ### Introduction
+> Water, being so tied to life on the planet itself, is often associated with healing properties. It is versatile—able to change its shape to fit the circumstance. That being said, water can be calm and collected like a stream or violent and unpredictable like a storm.
+> 
 
 ### Deity
 *The Kraken* - *Razzle*

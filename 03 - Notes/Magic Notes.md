@@ -4,7 +4,12 @@ tags:
 ---
 
 Body: Vyscera
-Water: Siren, Calypso, Kelpie, Nixie, Selkie, Ikuji. xana (xira?)
+Soul: Kamali
+Mind: Mnemosyne
+Fire: Pele
+Water: Siren
+Air: Pavana
+Earth: Gaia (?)
 
 Magic is made up of 3 component:
 - Crystals

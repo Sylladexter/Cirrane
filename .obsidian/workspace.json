@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Notes/Magic Notes.md",
-                "mode": "source",
+                "file": "05 - Resources/Templates/character.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Magic Notes"
+              "title": "character"
+            }
+          },
+          {
+            "id": "f3d2b8baf0b3220f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Guides & To-Do/00 - To Do.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - To Do"
             }
           }
         ]
@@ -79,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 234.5
   },
   "right": {
     "id": "09210a1c83121130",
@@ -221,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,9 +259,11 @@
   },
   "active": "727be58b794648f6",
   "lastOpenFiles": [
-    "03 - Notes/Sports Notes.md",
-    "03 - Notes/Magic Notes.md",
     "03 - Notes/Affinities (old).md",
+    "06 - Guides & To-Do/00 - To Do.md",
+    "00 - Wiki/Magic/Magic.md",
+    "03 - Notes/Magic Notes.md",
+    "03 - Notes/Sports Notes.md",
     "05 - Resources/Guides & Resources/desktop.ini",
     "05 - Resources/Guides & Resources (1)/desktop.ini",
     "05 - Resources/Guides & Resources (1)",
@@ -269,7 +287,6 @@
     "05 - Resources/Testing/Test Zone.md",
     "05 - Resources/Testing/Da Colors.md",
     "06 - Guides & To-Do/01 - How to Use.md",
-    "06 - Guides & To-Do/00 - To Do.md",
     "06 - Guides & To-Do/99 - Github Pages.md",
     "06 - Guides & To-Do/02 - Tagging System.md",
     "00 - Wiki/The Dragon's Gauntlet.md",
@@ -279,7 +296,6 @@
     "00 - Wiki/Untitled.md",
     "Index.md",
     "05 - Resources/06 Guides & Resources/Tagging System.md",
-    "05 - Resources/06 Guides & Resources/How to Use.md",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
