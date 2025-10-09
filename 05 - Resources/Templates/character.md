@@ -3,7 +3,6 @@ type: character
 aliases:
 cssclasses:
   - chara
-  - hide-title
   - wide
   - wide-tabs
 tags:
@@ -62,7 +61,6 @@ Tags to add:
 >  - [[chara]]
 >  - [[chara]]
 
-# `=this.file.name`
 ---
 > [!blockquote|hide] 
 > adjective **•** adjective **•** adjective
@@ -125,8 +123,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [[character]]: Relation
 - [[character]]: Relation
 - [[character]]: Relation
-
-## 
 
 ## Links
 ---

@@ -8,10 +8,10 @@
     "Table Styles",
     "anu-custom-background",
     "anu-custom-rainbow-colors",
-    "tweaks"
+    "tweaks-nested"
   ],
   "theme": "system",
   "nativeMenus": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "interfaceFontFamily": "Montserrat",
+  "textFontFamily": "Montserrat"
 }

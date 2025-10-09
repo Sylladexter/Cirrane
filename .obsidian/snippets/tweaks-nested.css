@@ -13,7 +13,7 @@ body p {
   font-weight: var(--font-light);
 }
 
-:is(h1, h2, h3, h4, h5, h6) {
+:is(h1, h2, h3, h4, h5, h6, .inline-title) {
   text-transform: uppercase;
   margin-bottom: .7em;
   
@@ -32,6 +32,12 @@ hr {
     margin-top: 0;
 }
 
+.inline-title {
+  font-size: var(--font-ui-large) ;
+  &::before {
+    content: '✦ ';
+  }
+}
 
 /****************************************
   Deployed
@@ -58,15 +64,15 @@ hr {
   Color 
 *********************/ 
 
-/* comments */
-.cm-comment {
-  color: var(--color-base-40);
-}
 
-/*  */
-.color-title .inline-title {
+/* .cm-comment {
+  color: var(--color-base-40);
+} */
+
+
+/* .color-title .inline-title {
   color: var(--color-red);
-}
+} */
 
 /********************
   Zero out
@@ -194,8 +200,13 @@ hr {
   Infobox/Labels Tweaks
 *****************************************/ 
 
-.callout[data-callout="infobox"] h1::before {
-  content:none;
+.callout[data-callout="infobox"] h1{
+  font-weight: var(--font-light);
+  
+  &::before {
+    content:none;
+  }
+
 }
 
 p:has(> .l) { 
@@ -231,9 +242,14 @@ p:has(> .l) {
 /* Title */
 .chara {
 
-  .inline-title {
+  /* .inline-title {
     color: var(--color-red);
-  }
+  } */
+
+  .inline-title {
+    max-width: calc( 100% - var(--ic-width));
+    text-align:center;
+  }   
 
   /* Blockquote */
   .callout[data-callout="blockquote"] {
