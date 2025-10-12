@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings2",
       "LiAlertTriangle",
       "LiWallpaper",
       "LiBookOpen",
@@ -14,8 +15,7 @@
       "LiSkull",
       "LiNotebookPen",
       "LiHelp",
-      "LiMapPin",
-      "LiExperiment"
+      "LiMapPin"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -43,7 +43,6 @@
   "00 - Wiki": "LiWallpaper",
   "02 - Timelines": "LiClock4",
   "03 - Notes": "LiNotebookPen",
-  "04 - Roleplay": "LiBookMarked",
   "05 - Resources": "LiNewspaper",
   "05 - Resources/Templates": "LiLayoutTemplate",
   "05 - Resources/Images": "LiImage",
@@ -57,5 +56,7 @@
   "01 - Stories/The Journalist": "LiNotebookPen",
   "01 - Stories/The Curse": "LiSkull",
   "06 - Guides & To-Do": "LiHelp",
-  "03 - Notes/Locations": "LiMapPin"
+  "03 - Notes/Locations": "LiMapPin",
+  "05 - Resources/Settings": "LiSettings2",
+  "04 - Roleplay": "LiBookMarked"
 }

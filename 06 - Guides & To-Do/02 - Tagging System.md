@@ -41,7 +41,6 @@ tags:
 > 	- `##stories/story-name/timeline`
 
 <br>
-<br>
 
 ### Location Tags
 `#locations`: locations of note
@@ -60,21 +59,13 @@ tags:
 > - `#characters/secondary`: important side characters
 > - `#characters/minor`: characters that appear less frequently
 > - `#characters/bg`: characters that are set dressing
-> - `#characters/affinity`
-> 	- `#characters/affinity/water`
-> 	- `#characters/affinity/fire`
-> 	- `#characters/affinity/air`
-> 	- `#characters/affinity/earth`
-> 	- `#characters/affinity/body`
-> 	- `#characters/affinity/mind`
-> 	- `#characters/affinity/soul`
 
-### Magic Tags
-> - `#magic`
-> - `#magic/water`
-> - `#magic/fire`
-> - `#magic/air`
-> - `#magic/earth`
-> - `#magic/body`
-> - `#magic/mind`
-> - `#magic/soul`
+### Affinity Tags
+> - `#affinities`
+> 	- `#affinities/water`
+> 	- `#affinities/fire`
+> 	- `#affinities/air`
+> 	- `#affinities/earth`
+> 	- `#affinities/body`
+> 	- `#affinities/mind`
+> 	- `#affinities/soul`

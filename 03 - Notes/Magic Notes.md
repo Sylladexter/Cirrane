@@ -21,6 +21,7 @@ Magic is made up of 3 component:
 		- EX: Fire for fire, water for water, etc.
 - Innate Magic
 	- All humans (and animals?) are born with innate magic known as an affinity. This allows them to wield magic without the need for crystals/enhancers. Their magic will not be as strong without conduits but they may become stronger through years of studying and honing their abilities. 
+		- Animals do have a form of passive magic in regards to the different affinities. Like humans, they are limited to 1 of the 7 elements. Their magic is passive, not active (ex: they can't breath fire, walk on water, etc.).  How this manifests and what it looks like will be handled on a case by case basis and as needed to fit stories. 
 	- Affinities have been broken down into tiers as outlined below to denote what a person may or may not be capable of.
 		- The use of crystals will bump a person up a tier and allow them to use stronger magic than before.do Tier 1 and 2 abilities, but a Tier 1 can’t do Tier 2 abilities.
 

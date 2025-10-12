@@ -1,14 +1,15 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#84bbf5",
+  "accentColor": "",
   "enabledCssSnippets": [
     "Colored Sidebar Items Modified",
-    "extended-colorschemes",
     "infobox-callouts",
     "Table Styles",
     "anu-custom-background",
     "anu-custom-rainbow-colors",
-    "tweaks-nested"
+    "tweaks-nested",
+    "S - Images Adjustments",
+    "cirranian-skies"
   ],
   "theme": "system",
   "nativeMenus": true,

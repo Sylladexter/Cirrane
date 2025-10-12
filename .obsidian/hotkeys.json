@@ -14,5 +14,13 @@
       ],
       "key": "["
     }
+  ],
+  "obsidian-style-settings:show-style-settings-leaf": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
   ]
 }

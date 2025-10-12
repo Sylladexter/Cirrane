@@ -1,6 +1,5 @@
 [
   "markdown-timeline",
-  "system3-relay",
   "dataview",
   "homepage",
   "obsidian-style-settings",
@@ -14,9 +13,10 @@
   "shrink-pinned-tabs",
   "css-editor",
   "editing-toolbar",
-  "obsidian-minimal-settings",
   "webpage-html-export",
-  "obsidian-git",
   "pexels-banner",
-  "calendar"
+  "callout-manager",
+  "obsidian-minimal-settings",
+  "obsidian-git",
+  "system3-relay"
 ]

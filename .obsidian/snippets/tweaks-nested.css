@@ -5,39 +5,6 @@
 https://nestyourcss.com/
 */
 
-/****************************************
-  Interface
-*****************************************/ 
-
-body p {
-  font-weight: var(--font-light);
-}
-
-:is(h1, h2, h3, h4, h5, h6, .inline-title) {
-  text-transform: uppercase;
-  margin-bottom: .7em;
-  
-  &::before{
-    content: "❙ ";
-    color: var(--text-accent);
-  }
-}
-
-/* Reading View */
-.markdown-reading-view p {
-     margin-top: 0!important;
-}
-
-hr {
-    margin-top: 0;
-}
-
-.inline-title {
-  font-size: var(--font-ui-large) ;
-  &::before {
-    content: '✦ ';
-  }
-}
 
 /****************************************
   Deployed
@@ -56,33 +23,67 @@ hr {
   display: none;
 }
 
+
 /****************************************
-  Utils
+  Interface + Stylings
 *****************************************/ 
 
-/********************
-  Color 
-*********************/ 
+body p {
+  font-weight: var(--font-light);
+}
+
+/*-------------------
+  Headings + Hr
+--------------------*/
+:is(h1, h2, h3, .inline-title) {
+  text-transform: uppercase;
+  margin-bottom: .7em;
+  
+  &::before{
+    content: "❙ ";
+    color: var(--text-accent);
+  }
+}
+
+/* Checks for sibling */
+:is(.el-h1, .el-h2, .el-h3, .el-h4, .el-h5) {
+
+  &:has(+ .el-h6){
+     :is(h1, h2, h3, h4, h5) {
+      margin-bottom: 0;
+    } 
+  }
+
+  + .el-p p {
+      margin: .1em auto;
+  }
+}
+
+h6 {
+    margin:.3em auto .7em;
+    text-transform: uppercase;
+}
+
+.inline-title {
+  font-size: var(--font-ui-large) ;
+  &::before {
+    content: '✦ ';
+  }
+}
+
+hr {
+    margin-top: 0;
+}
 
 
-/* .cm-comment {
-  color: var(--color-base-40);
-} */
 
 
-/* .color-title .inline-title {
-  color: var(--color-red);
-} */
 
-/********************
-  Zero out
-*********************/ 
-
-/********************
+/*-------------------
   Callouts
-*********************/ 
+--------------------*/
 
-
+/* Utility Callout */
 .callout {
   &[data-callout-metadata*="hide"] {
     background: none!important;
@@ -102,12 +103,44 @@ hr {
   }
 }
 
+/* Section Callout */
+.callout[data-callout="section"]{
+
+  background: var(--bg3);
+
+  .callout-title {
+    display:none;
+  }
+
+
+}
+
+
  /* Show inline dv variables as normal text */
  .dataview[data-dv-key="summary"]{
   color: var(--text-normal);
   font-size: var(--font-text-size);
   text-decoration: none;
  }
+
+
+
+/*-------------------
+  Color
+--------------------*/
+
+/* .cm-comment {
+  color: var(--color-base-40);
+} */
+
+
+/* .color-title .inline-title {
+  color: var(--color-red);
+} */
+
+/*-------------------
+  Zero Out
+--------------------*/
 
 /****************************************
   Affinities
@@ -118,12 +151,14 @@ hr {
     /* removes padding */
    .columnParent:has(.callout[data-callout="affinity"]) {
       padding-left: 0;
+      align-items: space-between;
    }
 
    /* affinity */
   .callout[data-callout="affinity"]  {
       background: none;
       border: none;
+      padding: 0;
 
     .callout-content {
         border: none;
@@ -133,9 +168,14 @@ hr {
         display:none;
     }
 
+    p {
+      margin:0;
+    }
+
     .v {
       color: var(--text-muted);
       text-align: right;
+      margin: 0;
     } 
 
   }

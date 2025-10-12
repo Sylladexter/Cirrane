@@ -1,10 +1,10 @@
 {
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-atom-dark",
+  "lightScheme": "minimal-cirranian-skies-light",
+  "darkScheme": "minimal-dracula-dark",
   "editorFont": "",
-  "lineHeight": 1.5,
+  "lineHeight": 1.7,
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,

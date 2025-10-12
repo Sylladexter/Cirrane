@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/*
+cirranian-skies
+MIT License
+Copyright (c) 2016-present Sven Greb <development@svengreb.de> (https://www.svengreb.de)
+https://github.com/cirranian-skiestheme/cirranian-skies
+*/
+
+
+.theme-dark.minimal-cirranian-skies-dark,
+.theme-light.minimal-cirranian-skies-light {
+	--color-red-rgb: 191,97,106;
+	--color-orange-rgb: 208,138,112;
+	--color-yellow-rgb: 235,203,139;
+	--color-green-rgb: 163,190,140;
+	--color-cyan-rgb: 136,192,208;
+	--color-blue-rgb: 129,161,193;
+	--color-purple-rgb: 180,142,173;
+	--color-pink-rgb: 180,142,173;
+
+	--color-red:#BF616A;
+	--color-orange:#D08770;
+	--color-yellow:#EBCB8B;
+	--color-green:#A3BE8C;
+	--color-cyan:#88C0D0;
+	--color-blue:#81A1C1;
+	--color-purple:#B48EAD;
+	--color-pink:#B48EAD;
+}
+
+.theme-light.minimal-cirranian-skies-light {
+	--base-h:221;
+	--base-s:27%;
+	--base-l:94%;
+
+	--accent-h:213;
+	--accent-s:32%;
+	--accent-l:52%;
+
+	--bg1:#fff;
+	--bg2:#eceff4;
+	--bg3:rgba(157,174,206,0.25);
+
+	--ui1:#d8dee9;
+	--ui2:#BBCADC;
+	--ui3:#81a1c1;
+
+	--tx1:#2e3440;
+	--tx2:#7D8697;
+	--tx3:#ADB1B8;
+
+	--hl2:rgba(208, 135, 112, 0.35);
+}
+
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast .titlebar,
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast.minimal-status-off .status-bar,
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast .workspace-drawer.mod-left,
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast .mod-left-split,
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast .workspace-ribbon.mod-left:not(.is-collapsed),
+.theme-light.minimal-cirranian-skies-light.minimal-light-contrast .theme-dark,
+.theme-dark.minimal-cirranian-skies-dark {
+	--base-h:220;
+	--base-s:16%;
+	--base-l:22%;
+
+	--accent-h:213;
+	--accent-s:32%;
+	--accent-l:52%;
+
+	--bg1:#274c54;
+	--bg2:#0a3547;
+	--bg3:rgba(135,152,190,0.15);
+
+	--ui1:#434c5e;
+	--ui2:#58647b;
+	--ui3:#58647b;
+
+	--tx1:#e9e5dd;
+	--tx2:#d0a995;
+	--tx3:#4c566a;
+
+	--hl1:rgba(129,142,180,0.3);
+	--hl2:rgba(208, 135, 112, 0.35);
+}
+.theme-dark.minimal-cirranian-skies-dark.minimal-dark-black {
+	--ui1:#2e3440;
+}
+
+h6 {
+  color: var(--tx2)!important;
+}

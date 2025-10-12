@@ -20,6 +20,7 @@
 > **Other** 
 > - [ ] Prepare doc for bases update
 > - [ ] Transfer information to 
+> - [ ] Laws of the Universe
 > <br>
 >
 > **Needs Name**
@@ -30,7 +31,7 @@
 > - [ ] Gods
 > - [ ] Lake at the bottom of Esterra
 > 
-> - Animals?
+
 
 
 

@@ -4,15 +4,16 @@ cssclasses:
   - affinities
 ---
 
+---
 
 ````col
 
 ```col-md
 >[!affinity]
 > ![[cafelogobig.png]]
-> <span class="l">Rarity</span> <span class="v">Rarity</span>
-> <span class="l">Deity</span> <span class="v">Name</span>
-> <span class="l">Vessel</span> <span class="v">Name</span>
+> <span class="l">Rarity</span> <span class="v"> Rarity </span>
+> <span class="l">Deity</span> <span class="v">God </span>
+> <span class="l">Vessel</span> <span class="v">Vessel</span>
 ```
 
 ```col-md
@@ -25,6 +26,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 ````
+
+## Personality
 
 ## Abilities 
 ---
@@ -43,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Crystal Boon
 
 
-### Vessels
+### Vessel
 
 
 ## Curses
@@ -52,3 +55,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Branches
 ---
 
+## Name
+######  Title
+----

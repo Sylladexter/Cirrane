@@ -3,13 +3,19 @@ tags:
   - resources
 ---
 ## Editing
-
+---
 ### General
 - Use `source view` to edit.
 - Use `reading view` to display the page as intended
 - In the **top right corner** is a menu. This will open up a panel for editing `properties`. This is essential for editing basic information on character pages
 
 ### Links and Syntax
+
+- Full documentation here.
+	- [Basic Syntax](https://help.obsidian.md/syntax)
+	- [Advanced Syntax](https://help.obsidian.md/advanced-syntax)
+<br>
+
 - Obsidian works a lot like Wikipedia
 	- `[[Link]]`: Links to other pages.
 	- `![[Image.png]]`: Displays an image 
@@ -19,15 +25,18 @@ tags:
 	- `>` blockquotes
 	- `-` lists 
 	- `> [!] Title` callouts (fancy blockquotes)
+	
+- CSS Helper Classes 
+	- [IT's Theme Image Attributes](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments)
 
 ## Templates
-
+---
 - Creating notes in the correct folder will generate the relevant template including tags and metadata. 
 - **DO NOT COPY PASTE TEMPLATES**
 
 
 ## Resources
-
+---
 ### Snippets
 - [Snippet Gallery](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/tree/Collection)
 - [Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/tree/main)

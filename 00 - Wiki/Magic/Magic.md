@@ -1,11 +1,10 @@
 ---
 tags:
   - magic
+  - affinities
   - worldbuilding
 cssclasses:
   - bold-accent
-  - wide
-  - table-max
 ---
 
 ***
@@ -22,9 +21,11 @@ cssclasses:
 | **Active Abilities**  | Abilities and skills manifested by the user. Can be perfected and honed over time.    |
 | **Passive Abilities** | Abilities that manifest subconsciously. - i.e An air affinity's natural agility       |
 | **Tier**              | The level of expertise in an element.                                                 |
+| **Crystals**          | Conduit that aids in amplifying a person's affinity. Works in tandem with Runes.      |
+| **Runes**             | Function as the circuitry of crystals and imbues them with their given element.       |
 
 ## The Elementals & The Trinity
-
+---
 ### The Elementals
  *Water Fire Air & Earth*
 * Refers to elemental magic.
@@ -37,8 +38,13 @@ cssclasses:
 - This magic manifests through one's aura and spiritual energy.
 
 ## Affinities
-| [[Affinities (old)#Water\|WATER]] | [[Affinities (old)#Fire\|FIRE]] | [[Affinities (old)#Air\|AIR]] | [[Affinities (old)#Earth\|EARTH]] | [[Affinities (old)#Body\|BODY]] | [[Affinities (old)#Mind\|MIND]] | [[Affinities (old)#Soul\|SOUL]] |
-| :-------------------------: | :-----------------------: | :---------------------: | :-------------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
-|             ice             |                           |        electric         |            flora            |           form            |                           |           aura            |
-|                             |                           |                         |            terra            |                           |                           |          spirit           |
 
+|           |          |          |           |          |          |          |
+|:---------:|:--------:|:--------:|:---------:|:--------:|:--------:|:--------:|
+| [[Water]] | [[Fire]] | [[Air]]  | [[Earth]] | [[Body]] | [[Mind]] | [[Soul]] |
+|    ice    |          | electric |   flora   |   form   |          |   aura   |
+|           |          |          |   terra   |          |          |  spirit  |
+
+## Crystals & Runes
+- *Crystals allow the user to go up a tier in their abilities while the crystal is in use. The more crystals are person has the high tier they become. Using too many crystals, however, can result in some sort of kickback/detriment to the user.*
+	- *Are crystals sort of like drugs in the idea of users becoming addicted to the power? Can they go through withdrawal symptoms from being cut off suddenly? Is this part of the reason crystals are regulated?* 
