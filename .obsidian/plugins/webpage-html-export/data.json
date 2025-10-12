@@ -11,7 +11,13 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "/Users/marinakhatin/Library/CloudStorage/GoogleDrive-sylladexter@gmail.com/My Drive/Personal/Splatoon/Cafeccino/Cafeccino/Cirrane/docs",
-    "filesToExport": [],
+    "filesToExport": [
+      "00 - Wiki",
+      "01 - Stories",
+      "02 - Timelines",
+      "03 - Notes",
+      "Index.md"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,

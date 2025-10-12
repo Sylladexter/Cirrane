@@ -72,8 +72,9 @@ Fire affinities can not be control and are said to lash out against any who atte
 -  Fire Aura
 	- The ability to surround oneself in fire.
 -  Fire Immunity
-	- 
+	-  The power to be completely unharmed by fire. 
 - Heat Immunity
+	- The power to be completely unharmed by heat.
 
 ## Curses
 ---
@@ -85,3 +86,13 @@ Fire affinities can not be control and are said to lash out against any who atte
 ## PELE
 ######  The Phoenix of Fire
 ----
+### Personality
+
+
+### Relationship with Vessel
+
+
+### Known Abilities
+- Absolute Burning
+	-  The power to burn absolutely anything. 
+
