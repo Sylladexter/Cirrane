@@ -21,8 +21,6 @@
 
 
 
-
-
 ## Header
 
 Main paragraph content

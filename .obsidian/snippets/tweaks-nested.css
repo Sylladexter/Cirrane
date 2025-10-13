@@ -177,9 +177,17 @@ hr {
       text-align: right;
       margin: 0;
     } 
-
   }
- }
+
+   strong {
+     color: var(--text-accent);
+   }
+
+   blockquote p {
+     color: var(--text-normal);   
+   }
+   
+}
 
 
 /****************************************

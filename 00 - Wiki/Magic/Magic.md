@@ -46,5 +46,5 @@ cssclasses:
 |           |          |          |   terra   |          |          |  spirit  |
 
 ## Crystals & Runes
-- *Crystals allow the user to go up a tier in their abilities while the crystal is in use. The more crystals are person has the high tier they become. Using too many crystals, however, can result in some sort of kickback/detriment to the user.*
+- *Crystals allow the user to go up a tier in their abilities while the crystal is in use. The more crystals a person has in use, the higher tier they become. Using too many crystals, however, can result in some sort of kickback/detriment to the user.*
 	- *Are crystals sort of like drugs in the idea of users becoming addicted to the power? Can they go through withdrawal symptoms from being cut off suddenly? Is this part of the reason crystals are regulated?* 

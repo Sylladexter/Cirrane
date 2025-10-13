@@ -119,5 +119,9 @@
   "minimal-style@@callouts-style": "callouts-outlined",
   "minimal-style@@minimal-strike-lists": true,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-index",
-  "minimal-style@@hide-settings": false
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@blockquote-border-thickness": 1,
+  "minimal-style@@blockquote-font-style": "normal",
+  "minimal-style@@heading-spacing": "1em",
+  "minimal-style@@p-spacing": "1.3rem"
 }

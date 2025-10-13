@@ -2,6 +2,8 @@
 type: affinity
 cssclasses:
   - affinities
+  - accent
+  - red
 ---
 
 
@@ -39,14 +41,18 @@ Fire affinities can not be control and are said to lash out against any who atte
 
 ### Tier 1
 
--  Body Temperature Manipulation
-	-  The ability to manipulate the body temperature of oneself and/or others. Heat resistance.
--  Fire Resistance
-	-  The power to be highly resistant to fire.
--  Fire Manipulation
-	-  The power to manipulate fire.
-	* BEGINNER LEVEL - 
-		* At the beginner level of fire manipulation, users can generate and control flames with basic proficiency. They can create small flames, manipulate their shape and size, and control the temperature of the fire. Users are able to ignite objects and produce simple fire-based attacks. They can control the heat intensity of the flames based on the impurities present in the materials being burned. However, their control over the flames may be somewhat limited, and they may struggle to maintain perfect control over the fire's movements and effects.
+**Body Temperature Manipulation**
+> The ability to manipulate the body temperature of oneself and/or others. Heat resistance.
+
+**Fire Resistance**
+>  The power to be highly resistant to fire.
+
+**Fire Manipulation \[Beginner\]**
+>The power to manipulate fire.
+>
+> At the beginner level of fire manipulation, users can generate and control flames with basic proficiency. They can create small flames, manipulate their shape and size, and control the temperature of the fire. 
+>
+> Users are able to ignite objects and produce simple fire-based attacks. They can control the heat intensity of the flames based on the impurities present in the materials being burned. However, their control over the flames may be somewhat limited, and they may struggle to maintain perfect control over the fire's movements and effects.
 
 ### Tier 2
 -  Fire Manipulation
@@ -78,19 +84,42 @@ Fire affinities can not be control and are said to lash out against any who atte
 
 ## Curses
 ---
+- Spontaneous Combustion. 
+	- Cross Pele on the wrong day and he may turn you to ashes on the spot.
+- Absence of Warmth
+	- Those afflicted with this curse are always cold even when standing before a fire. It is even believe that the very presence of fire can leave them feeling even colder as it sucks what little warmth they have away. 
+- Everything Burns
+	- This affliction leaves the cursed with a burning touch. Even the coldest surfaces will be too hot to handle. No relief from the burn will come to these curse bearers.
+
 
 ## Branches
 ---
-
+There are no known fire branches at this time.
 
 ## PELE
-######  The Phoenix of Fire
+######  The Phoenix 
 ----
 ### Personality
 
+Pele is known to be a chaotic god who burns everything in his wake. His fury knows no limits, and those who invoke it are said to be reduced to ash. Pele's rage is said to be explosive when triggered, though he has just as often been known to simmer and fan the flames until the moment strikes. 
+
+His kindness is warm and gentle, inviting those in need into the fire's embrace. Pele can be vain and, like the sun, wishes for the universe to revolve around him. It takes a skilled hand to wrangle this god and keep him pleased. 
+
+He is petty and loves nothing more than watching foes squirm., or to burn them to a crisp, whichever fits his mood that day.
+
+Pele has a known feud with Pavana that extends even to their vessels.
 
 ### Relationship with Vessel
 
+Those that devote themselves fully to Pele are said to receive the powers of the sun. They will earn the loyalty of a god as deeply devoted to them as they are to him. He would burn entire cities to the ground to protect the vessel he holds most dear.
+
+Pele takes the choosing of a vessel very seriously and only bestows such an honor to the most worthy of humans. A god that burns as bright as the sun deserves a vessel that can match that energy. Pele seeks out those that forge their own paths and can't be easily contained. Those that can stand on their own and burn all who earn their ire.
+
+He fans the flames of their passions and sets fire to their greatest foes.
+
+Vessels of Pele must take caution for even the largest start in the sky will eventually burn out.
+
+*"Rise from the ashes, little fledgling, with a burning passion and incinerate your foes to nothing. Show them the true might of the phoenix."*
 
 ### Known Abilities
 - Absolute Burning
