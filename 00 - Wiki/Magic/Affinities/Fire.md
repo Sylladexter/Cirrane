@@ -101,7 +101,7 @@ There are no known fire branches at this time.
 ----
 ### Personality
 
-Pele is known to be a chaotic god who burns everything in his wake. His fury knows no limits, and those who invoke it are said to be reduced to ash. Pele's rage is said to be explosive when triggered, though he has just as often been known to simmer and fan the flames until the moment strikes. 
+Pele is known to be a god of destruction who burns everything in his wake. His fury knows no limits, and those who invoke it are said to be reduced to ash. Pele's rage is said to be explosive when triggered, though he has just as often been known to simmer and fan the flames until the moment strikes. 
 
 His kindness is warm and gentle, inviting those in need into the fire's embrace. Pele can be vain and, like the sun, wishes for the universe to revolve around him. It takes a skilled hand to wrangle this god and keep him pleased. 
 

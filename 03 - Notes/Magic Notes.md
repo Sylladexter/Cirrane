@@ -4,6 +4,7 @@ tags:
 ---
 
 Body: Vyscera
+	Titles: Celestial/Otherworldly Healer, The Healing Touch
 Soul: Kamali
 Mind: Mnemosyne
 Fire: Pele
