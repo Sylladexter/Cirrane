@@ -56,5 +56,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ## Vyscera
-######  Title
+######  The Powerful, The Mighty Healer
 ----
