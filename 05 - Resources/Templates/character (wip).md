@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >[!col|hide] 
 >> [!r-img|hide]
 >> `=[[character]].image` 
->> [[character]]
+>> [[character (wip)]]
 >> <small>Relation</small> 
 >
 >>> [!r-desc|hide]
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >[!col|hide] 
 >> [!r-img|hide]
 >> `=[[character]].image` 
->> [[character]]
+>> [[character (wip)]]
 >> <small>Relation</small> 
 >
 >>> [!r-desc|hide]
@@ -120,9 +120,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Other Relationships
-- [[character]]: Relation
-- [[character]]: Relation
-- [[character]]: Relation
+- [[character (wip)]]: Relation
+- [[character (wip)]]: Relation
+- [[character (wip)]]: Relation
 
 ## Links
 ---

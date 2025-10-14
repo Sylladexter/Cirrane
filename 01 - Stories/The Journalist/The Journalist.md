@@ -3,9 +3,9 @@ type: overview
 tags:
   - stories/the-journalist
   - stories/the-journalist/overview
-characters: 
-  - "[[character]]"
-blurb: "Something about the story in 1 or 2 sentences"
+characters:
+  - "[[character (wip)]]"
+blurb: Something about the story in 1 or 2 sentences
 ---
 
 ## Summary

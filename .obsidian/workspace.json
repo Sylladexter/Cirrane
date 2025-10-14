@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki/Magic/Affinities/Air (WIP).md",
+                "file": "01 - Stories/Story Navigation.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Air (WIP)"
+              "title": "Story Navigation"
             }
           }
         ]
@@ -239,22 +239,23 @@
       "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "hi-note:HiNote": false
     }
   },
   "active": "dd1f1c15408ea4dd",
   "lastOpenFiles": [
-    "00 - Wiki/Magic/Affinities/Water (wip).md",
-    "00 - Wiki/Magic/Affinities/Soul (wip).md",
+    "05 - Resources/Templates/character (wip).md",
+    "05 - Resources/Templates/affinity (wip).md",
     "00 - Wiki/Magic/Affinities/Mind (wip).md",
-    "00 - Wiki/Magic/Affinities/Fire.md",
-    "00 - Wiki/Magic/Affinities/Earth (wip).md",
-    "00 - Wiki/Magic/Affinities/Air (WIP).md",
-    "00 - Wiki/Magic/Affinities/Body (WIP).md",
-    "03 - Notes/Magic Notes.md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
     "03 - Notes/Sports Notes.md",
-    "05 - Resources/Templates/affinity (wip).md",
+    "00 - Wiki/Magic/Affinities/Fire.md",
+    "00 - Wiki/Magic/Affinities/Earth (wip).md",
+    "00 - Wiki/Magic/Affinities/Body (WIP).md",
+    "00 - Wiki/Magic/Affinities/Air (WIP).md",
+    "00 - Wiki/Magic/Affinities/Water (wip).md",
+    "00 - Wiki/Magic/Affinities/Soul (wip).md",
     "05 - Resources/Testing/testzone...2!.md",
     "05 - Resources/Testing/Test Zone.md",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
@@ -265,6 +266,7 @@
     "Index.md",
     "docs/index.html",
     "03 - Notes/Affinities (old).md",
+    "03 - Notes/Magic Notes.md",
     "00 - Wiki/History/The Esterran Rebellion.md",
     "00 - Wiki/History/The Old World.md",
     "00 - Wiki/Magic/Magic.md",
