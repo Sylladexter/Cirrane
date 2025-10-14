@@ -11,9 +11,9 @@ cssclasses:
 ```col-md
 >[!affinity]
 > ![[cafelogobig.png]]
-> <span class="l">Rarity</span> <span class="v"> Rarity </span>
-> <span class="l">Deity</span> <span class="v">God </span>
-> <span class="l">Vessel</span> <span class="v">Vessel</span>
+> <span class="l">Rarity</span> <span class="v">Rare</span>
+> <span class="l">Deity</span> <span class="v">Kamali</span>
+> <span class="l">Vessel</span> <span class="v">Mailani / Alta</span>
 ```
 
 ```col-md
