@@ -49,6 +49,15 @@
 	- Along with the sensors, players are requires to wear specialized gloves that sync with the sensors and help determine when someone has been tagged. 
 	- Body magic inside the sensors freezes players in place until they can be unfrozen.
 
+- Gear
+	- special outfits
+
+- Weaponry
+	- Ranged Combat
+		- Guns, Bows, Crossbows, blowdarts
+	- Close Combat:
+		- gauntlets, staff, nunchucks, hammer, brass knuckles, fans, bats
+	- Note: When deciding on which weapons to allow in the sport, they need to be weapons with the intent to hit the sensors/flags. Weapons specifically/only designed to injure should not be considered. 
 
 ## Leagues
 - Professional
@@ -79,7 +88,15 @@
 
 ## Top 5 Teams
 - Mystic Hues
+	- Team Color: White,  
 - Ethereal Shadows
+	- Team Color: Grey, Black, Silver
+		- Silver to symbolize how they always come in Second place
 - Sandwich Sisters
+	- Team Color: Black, White, Red
 - Wicked Llamas
+	- Team Colors: Green, White, Purple
 - Winner's Circle
+	- Team Colors: Gold, White, Light Blue
+
+- Teams have sponsors

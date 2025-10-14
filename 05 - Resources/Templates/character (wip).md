@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> <small>Relation</small> 
 >
 >>> [!r-desc|hide]
->>>  <span class="r-quote"> *❝ Quote❞* </span>
+>>>   *❝ Quote❞* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -115,7 +115,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 >> <small>Relation</small> 
 >
 >>> [!r-desc|hide]
->>>  <span class="r-quote"> *❝ Quote❞* </span>
+>>>   *❝ Quote❞* 
 >>> --- 
 >>>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
