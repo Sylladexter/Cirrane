@@ -58,6 +58,7 @@
 	- The season begins in May and ends in November
 		- Dragon's Gauntlet is the final of the season and takes place in the Horizon District during the Dragon's Festival
 	- Tournament brackets are not determined prior to the start of the tournament. Instead teams are put in a "last man standing free-for-all" with brackets being determined based on what place each team comes in. 
+		- When a team's final player is out their place/bracket/seed is set for the tournament starting with 16th place. Once all teams have been placed the tournament can begin. 
 	- The Big 7
 		- Refers to the largest of the gauntlet tournaments in the professional league. There are  seven gauntlets for the seven elements:
 			- Phoenix Gauntlet (Fire)
