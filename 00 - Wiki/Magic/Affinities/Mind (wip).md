@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ## Mnemosyne
-######  The Dragon of Mind
+######  The Dragon of Mind, Seeker of Knowledge, Keeper of Memories
 ----
 
 [^1]: Towards the end of the story [[Kiwi]] takes over as the mind vessel and the leader of Cirrane.
