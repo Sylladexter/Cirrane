@@ -269,7 +269,7 @@ p:has(> .l) {
 
   > .l {
     display: inline-block;
-    width: 50%; /* force two per row */
+    width: 35%; /* force two per row */
     margin:0;
     
 
@@ -277,7 +277,7 @@ p:has(> .l) {
     + * {
       color: var(--text-muted);
       display:inline-block;
-      width: 50%;
+      width: 65%;
       text-align: right;
    }
   }

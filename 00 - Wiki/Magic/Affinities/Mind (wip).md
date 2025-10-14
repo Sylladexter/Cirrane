@@ -13,7 +13,7 @@ cssclasses:
 > ![[cafelogobig.png]]
 > <span class="l">Rarity</span> <span class="v">Uncommon</span>
 > <span class="l">Deity</span> <span class="v">Mnemosyne</span>
-> <span class="l">Vessel</span> <span class="v">Torreya (Former) / Kiwi (Future)</span>
+> <span class="l">Vessel</span> <span class="v">Torreya [^1] </span>
 ```
 
 ```col-md
@@ -58,3 +58,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Mnemosyne
 ######  The Dragon of Mind
 ----
+
+[^1]: Towards the end of the story [[Kiwi]] takes over as the mind vessel and the leader of Cirrane.
+	
