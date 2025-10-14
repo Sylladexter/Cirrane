@@ -148,6 +148,10 @@ hr {
 
 
  .affinities {
+
+    .callout[data-callout="col"] .callout-content {
+      padding:0
+    }
     /* removes padding */
    .columnParent:has(.callout[data-callout="affinity"]) {
       padding-left: 0;

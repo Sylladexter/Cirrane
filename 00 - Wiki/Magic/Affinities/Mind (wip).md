@@ -6,26 +6,22 @@ cssclasses:
 
 ---
 
-````col
-
-```col-md
->[!affinity]
-> ![[cafelogobig.png]]
-> <span class="l">Rarity</span> <span class="v">Uncommon</span>
-> <span class="l">Deity</span> <span class="v">Mnemosyne</span>
-> <span class="l">Vessel</span> <span class="v">Torreya [^1] </span>
-```
-
-```col-md
-flexGrow=3
-===
-
-## Introduction
----
-Mind is not ruled by emotion. It is methodical and takes time to assess a situation before acting or reacting. It does not often jump to conclusions or make decisions based on a feeling. The mind is a sponge and hungers for knowledge. It learns and grows and is ever expanding on the understanding of human nature and the world at large.
-
----
-````
+> [!col]
+> 
+>> [!col-md]
+>>> [!affinity]
+>>> ![[cafelogobig.png]]
+>>> <span class="l">Rarity</span> <span class="v">Uncommon</span>
+>>> <span class="l">Deity</span> <span class="v">Mnemosyne</span>
+>>> <span class="l">Vessel</span> <span class="v">[[Torreya]] [^1] </span>
+>
+>
+>> [!col-md-3]
+>> ## Introduction
+>> ---
+>> Mind is not ruled by emotion. It is methodical and takes time to assess a situation before acting or reacting. It does not often jump to conclusions or make decisions based on a feeling. The mind is a sponge and hungers for knowledge. It learns and grows and is ever expanding on the understanding of human nature and the world at large.
+>>
+>> --- 
 
 ## Personality
 
