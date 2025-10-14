@@ -61,5 +61,5 @@ TABLE character AS "Name", file.age AS "Age", file.birthday AS "Birthday", file.
 FROM "00 - Wiki/Characters" 
 FLATTEN character
 ```
-
+ok but is this good
 ![[lists.base]]

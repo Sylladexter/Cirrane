@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Stories/Story Navigation.md",
-                "mode": "source",
+                "file": "06 - Guides & To-Do/99 - Github Pages.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Story Navigation"
+              "title": "99 - Github Pages"
             }
           }
         ]
@@ -240,11 +240,18 @@
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "callout-manager:Insert Callout": false,
-      "hi-note:HiNote": false
+      "hi-note:HiNote": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
   "active": "dd1f1c15408ea4dd",
   "lastOpenFiles": [
+    "06 - Guides & To-Do/98.5 Cards.md",
+    "06 - Guides & To-Do/99 - Github Pages.md",
+    "Index.md",
+    "05 - Resources/Testing/Test Zone.md",
+    "05 - Resources/Testing/testzone...2!.md",
+    "01 - Stories/Story Navigation.md",
     "05 - Resources/Templates/character (wip).md",
     "05 - Resources/Templates/affinity (wip).md",
     "00 - Wiki/Magic/Affinities/Mind (wip).md",
@@ -256,14 +263,11 @@
     "00 - Wiki/Magic/Affinities/Air (WIP).md",
     "00 - Wiki/Magic/Affinities/Water (wip).md",
     "00 - Wiki/Magic/Affinities/Soul (wip).md",
-    "05 - Resources/Testing/testzone...2!.md",
-    "05 - Resources/Testing/Test Zone.md",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1.base",
     "05 - Resources/04 - Roleplay/desktop.ini",
     "00 - Wiki/The Gauntlet.md",
-    "Index.md",
     "docs/index.html",
     "03 - Notes/Affinities (old).md",
     "03 - Notes/Magic Notes.md",
@@ -276,10 +280,7 @@
     "05 - Resources/Testing/Da Colors.md",
     "05 - Resources/Settings/desktop.ini",
     "00 - Wiki/Magic/Affinities/Water (test).md",
-    "06 - Guides & To-Do/00 - To Do.md",
-    "Affinities/Water.md",
     "Affinities",
-    "00 - Wiki/Magic/Affinities/Water (test) (1).md",
     "05 - Resources/04 - Roleplay",
     "05 - Resources/Images/Icons/cafelogobig.png",
     "05 - Resources/Images/Icons/cafeccinosmall.png",

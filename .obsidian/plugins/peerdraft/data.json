@@ -1,0 +1,347 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "Marina",
+  "root": "05 - Resources/Testing",
+  "plan": {
+    "type": "hobby",
+    "email": "sylladexter@gmail.com"
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.13.1",
+  "serverShares": {
+    "files": [
+      [
+        "05 - Resources/Testing/Test Zone.md",
+        {
+          "shareId": "a570f4f0-32ee-4226-a822-d08392f46cb7",
+          "persistenceId": "21cac511-4dd0-4212-b983-72f10e9ecd58"
+        }
+      ],
+      [
+        "00 - Wiki/Characters.md",
+        {
+          "shareId": "f5bf20aa-49ea-4d32-bca8-7169a24251d1",
+          "persistenceId": "e97da5dd-3d5d-420c-b217-72c2b8215e83"
+        }
+      ],
+      [
+        "00 - Wiki/History/The Esterran Rebellion.md",
+        {
+          "shareId": "888e933c-fbb9-4fa6-940e-b137ed85eb0b",
+          "persistenceId": "74e2aa35-b5d2-417d-a419-59ae76d5412a"
+        }
+      ],
+      [
+        "00 - Wiki/History/The Remnants of Humanity.md",
+        {
+          "shareId": "5293f6fc-b7b7-4e40-bb21-db5885cf776d",
+          "persistenceId": "56e7b024-6097-4fb6-bb72-c8aa663b7c4e"
+        }
+      ],
+      [
+        "00 - Wiki/History/The Old World.md",
+        {
+          "shareId": "71044a8a-4eda-42c9-bc22-809140a0eaa0",
+          "persistenceId": "f4faa8cf-1490-49f3-afee-53f220fd1119"
+        }
+      ],
+      [
+        "00 - Wiki/Locations/Locations.md",
+        {
+          "shareId": "b52b02c5-894c-47a7-923a-3d9793571f08",
+          "persistenceId": "15cc8bfd-4700-4af3-8034-8ab3784508be"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Air (WIP).md",
+        {
+          "shareId": "889fe392-d300-4c59-bfba-9c4e79a37a93",
+          "persistenceId": "07a359c9-38eb-4b63-b035-e2a7de0a27ac"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Earth (wip).md",
+        {
+          "shareId": "5a35cb38-a808-47e3-80c3-260f5fa19b8c",
+          "persistenceId": "bcc8b85f-4b96-4638-9ee6-973309ccbd59"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Body (WIP).md",
+        {
+          "shareId": "49e82e23-62e8-4054-9b17-6b4004f4e655",
+          "persistenceId": "38f0ad87-be5c-4c8b-91fd-e6482163c129"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Fire.md",
+        {
+          "shareId": "9e838afe-98ff-4ea2-a587-9eba4b83df1f",
+          "persistenceId": "0edc6f74-f5ea-47ee-a0c5-2eb2065c127c"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Mind (wip).md",
+        {
+          "shareId": "03a732aa-6b04-4a55-985a-19f4b80420b0",
+          "persistenceId": "0b85c7f0-fd18-406b-a9a4-f4cda35846fd"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Soul (wip).md",
+        {
+          "shareId": "eb133cb2-8604-4b68-b5ad-ad745c4bb450",
+          "persistenceId": "c6429614-6a60-4a81-afdd-3cfd3e08aebd"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Water (wip).md",
+        {
+          "shareId": "953cbf48-9928-4a68-b8dc-c6c757d92528",
+          "persistenceId": "a4f394b3-5003-466c-880d-0b2a304e1217"
+        }
+      ],
+      [
+        "00 - Wiki/The Gauntlet.md",
+        {
+          "shareId": "1ee6cacb-46d0-4675-88d7-82629388fb89",
+          "persistenceId": "f4e147ea-99de-446f-a8d8-da0505512e8a"
+        }
+      ],
+      [
+        "01 - Stories/Story Navigation.md",
+        {
+          "shareId": "1aa82365-3e50-40e1-a02e-ffda5741902e",
+          "persistenceId": "de43f603-a8de-4d72-81f1-b9a64ec67130"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Magic.md",
+        {
+          "shareId": "5fa5e3c2-01bd-46d1-af02-8ac26dafa20a",
+          "persistenceId": "cdbc2763-e7c2-4cc8-ad52-b33c6a437a5e"
+        }
+      ],
+      [
+        "01 - Stories/The Curse/Notes.md",
+        {
+          "shareId": "6f8c15db-a505-40c7-a092-123dd3cc2b00",
+          "persistenceId": "f5b8d0bb-a9da-462c-b708-8dbda6f74394"
+        }
+      ],
+      [
+        "01 - Stories/The Journalist/Outlines & Notes/Notes.md",
+        {
+          "shareId": "ef98b759-f34c-464b-8288-bd1982928563",
+          "persistenceId": "21d0755e-bcb4-472b-bbda-960b37d5e121"
+        }
+      ],
+      [
+        "01 - Stories/The Journalist/Script & Scenes/Script.md",
+        {
+          "shareId": "26007307-1a71-48c6-8962-2121a8c1feb6",
+          "persistenceId": "5c968c84-9478-4c1b-ac07-ead3b895f9e4"
+        }
+      ],
+      [
+        "03 - Notes/Locations/Cirrane.md",
+        {
+          "shareId": "a53acfc1-c3c8-4fbc-9f14-d139a5aeca6e",
+          "persistenceId": "1f1e10bf-c1a3-4620-a991-9b237119f20c"
+        }
+      ],
+      [
+        "01 - Stories/The Journalist/Outlines & Notes/Outline.md",
+        {
+          "shareId": "5693114d-69ac-4e48-96ac-2a8e223a09e6",
+          "persistenceId": "d6ee42ab-05e0-4231-b6ca-0dc12413d4e1"
+        }
+      ],
+      [
+        "01 - Stories/The Journalist/The Journalist.md",
+        {
+          "shareId": "03fd7897-7347-49bb-8a44-77ce71020681",
+          "persistenceId": "c2eadf10-d464-41ec-9e25-b1781a0a0b6b"
+        }
+      ],
+      [
+        "02 - Timelines/00 - Example Timeline.md",
+        {
+          "shareId": "afc59592-38c8-4f43-a5c4-452798f0f043",
+          "persistenceId": "8f42763d-486f-4dc3-b84a-4edfa98c1a43"
+        }
+      ],
+      [
+        "03 - Notes/Affinities (old).md",
+        {
+          "shareId": "05846814-cae5-48b0-a300-9382c4956c33",
+          "persistenceId": "4a0684fa-fd18-4be0-b075-c9d325579fcc"
+        }
+      ],
+      [
+        "03 - Notes/Locations/Other Locations.md",
+        {
+          "shareId": "467e195c-1b01-4281-b177-84da0cc90748",
+          "persistenceId": "3fd54a93-180b-4a84-91ca-ae6eb7770680"
+        }
+      ],
+      [
+        "03 - Notes/Locations/Esterra.md",
+        {
+          "shareId": "aea66258-deb9-4fe9-bc1b-77667274bdb7",
+          "persistenceId": "f36fc115-fb22-427f-b898-73d0a25d1482"
+        }
+      ],
+      [
+        "03 - Notes/Magic Notes.md",
+        {
+          "shareId": "526e613f-7e1f-48d5-b829-80f2ee876cfa",
+          "persistenceId": "abcd1e30-cae0-418a-9de2-e9e6333ed2a3"
+        }
+      ],
+      [
+        "03 - Notes/Sports Notes.md",
+        {
+          "shareId": "b05d741b-0a4e-45a3-a832-d6bbae2795a3",
+          "persistenceId": "bf5d933d-00f1-487b-ab26-6e63703b7aca"
+        }
+      ],
+      [
+        "05 - Resources/Templates/affinity (wip).md",
+        {
+          "shareId": "df652473-cbe5-40a6-ab5b-4da068e8f4c0",
+          "persistenceId": "5ab25012-8929-444b-ba61-d07e8065cf0e"
+        }
+      ],
+      [
+        "05 - Resources/Templates/group.md",
+        {
+          "shareId": "ee50c549-d523-4f78-89f8-67b8f310c0b8",
+          "persistenceId": "074b1c94-e14d-409b-b2aa-491c6f1dc5a2"
+        }
+      ],
+      [
+        "05 - Resources/Testing/archive/character-v2.md",
+        {
+          "shareId": "70baaed0-3039-4f7a-8645-3920f06f8cf3",
+          "persistenceId": "f609ede4-3c05-4c8b-bfd4-c3ceb31ddf9a"
+        }
+      ],
+      [
+        "05 - Resources/Templates/character (wip).md",
+        {
+          "shareId": "c191935d-15b0-4215-a36a-33d2f81c94b4",
+          "persistenceId": "ae51e963-da3a-4233-baff-faca99c86d79"
+        }
+      ],
+      [
+        "05 - Resources/Templates/location.md",
+        {
+          "shareId": "19d4f7a0-e314-4bca-8efb-a6bd2d65d59c",
+          "persistenceId": "49545aa3-31e6-4329-af29-d6bf017137ae"
+        }
+      ],
+      [
+        "05 - Resources/Testing/Da Colors.md",
+        {
+          "shareId": "b0241dca-b2aa-4119-816f-3944a091406e",
+          "persistenceId": "f6d31bf7-603d-4997-8980-0ee7c41cfec1"
+        }
+      ],
+      [
+        "05 - Resources/Testing/archive/character-v3.md",
+        {
+          "shareId": "0a5e5a64-aba5-41b0-b56b-8060472b07a3",
+          "persistenceId": "5e67f91c-db12-431d-9bad-992934826fee"
+        }
+      ],
+      [
+        "05 - Resources/Testing/archive/character (old).md",
+        {
+          "shareId": "9534ef6e-ed12-4eea-8c65-2d717c26e312",
+          "persistenceId": "dc1475f7-ee9b-4599-9af4-c660d48b65ed"
+        }
+      ],
+      [
+        "05 - Resources/Testing/archive/character-v4.md",
+        {
+          "shareId": "2788e5fa-a286-431d-97ea-f0361983b01f",
+          "persistenceId": "fc7f2588-714d-4f24-897d-65a20e824cfb"
+        }
+      ],
+      [
+        "05 - Resources/Testing/testzone...2!.md",
+        {
+          "shareId": "ac4559db-af32-4716-b5f7-336d16d75bc6",
+          "persistenceId": "5964bcea-f99c-4ef9-ab36-238a0ceaabb6"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/01 - How to Use.md",
+        {
+          "shareId": "03544702-c961-42df-9d5d-af09c6c28794",
+          "persistenceId": "36100638-d216-4639-b691-bbc5ee8067fd"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/00 - To Do.md",
+        {
+          "shareId": "4091fdc1-cb52-4914-a69f-8e2d60c8e03a",
+          "persistenceId": "83663dd4-3cd8-4a60-a1c6-2fc5ffd941f6"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/98.5 Cards.md",
+        {
+          "shareId": "b69911be-7dd7-4a9f-8b8b-e5b0bc04b61b",
+          "persistenceId": "f35f10d7-7620-471e-9bb5-92299f47f2ac"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/98 - Styling.md",
+        {
+          "shareId": "e96e65f5-bcf5-4735-acd2-acf9b79450ac",
+          "persistenceId": "2a5743c6-8daa-4b4a-9394-daca56abd6a1"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/02 - Tagging System.md",
+        {
+          "shareId": "24b3cc0c-7e5b-4528-9767-5784c7693ad4",
+          "persistenceId": "219df152-46ea-410c-8a44-6a74a31a7b53"
+        }
+      ],
+      [
+        "Index.md",
+        {
+          "shareId": "1d28def7-519b-420f-a69c-8307b0246de3",
+          "persistenceId": "56343983-42d2-4744-8ae7-42b2e8c76ff1"
+        }
+      ],
+      [
+        "06 - Guides & To-Do/99 - Github Pages.md",
+        {
+          "shareId": "e934ca7a-e16e-4c54-858c-a8a66387516f",
+          "persistenceId": "95ce30d0-c097-4b1d-9baf-cd5657d4260a"
+        }
+      ]
+    ],
+    "folders": [
+      [
+        "/",
+        {
+          "shareId": "9618eccc-6ef7-489d-8b52-2e6403fdde8b",
+          "persistenceId": "c24db4d3-7b85-4636-98f7-38bb22b248ca"
+        }
+      ]
+    ]
+  },
+  "oid": "3888b0ac962ef5f5"
+}
