@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki/Groups/Temple of Lux.md",
-                "mode": "source",
-                "source": false,
+                "file": "00 - Wiki/Magic/Affinities/Air (WIP).md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Temple of Lux"
+              "title": "Air (WIP)"
             }
           }
         ]
@@ -246,21 +246,26 @@
   },
   "active": "dd1f1c15408ea4dd",
   "lastOpenFiles": [
-    "03 - Notes/Name vomit.md",
-    "03 - Notes/Magic Notes.md",
-    "00 - Wiki/Groups/Temple of Lux.md",
-    "00 - Wiki/Locations/Cirrane.md",
+    "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Locations/Moraida.md",
     "00 - Wiki/Locations/Region.md",
-    "03 - Notes/Locations/Esterra.md",
+    "03 - Notes/Name vomit.md",
+    "02 - Timelines/00 - Example Timeline.md",
+    "00 - Wiki/Characters.md",
+    "00 - Wiki/The Gauntlet.md",
+    "00 - Wiki/Magic/Affinities/Water (wip).md",
+    "00 - Wiki/Magic/Affinities/Air (WIP).md",
+    "00 - Wiki/Magic/Affinities/Body (WIP).md",
+    "06 - Guides & To-Do/98 - Styling.md",
     "00 - Wiki/Groups/Keepers of the Lily.md",
+    "06 - Guides & To-Do/02 - Tagging System.md",
+    "00 - Wiki/Groups/Temple of Lux.md",
+    "00 - Wiki/Locations/Cirrane.md",
     "05 - Resources/Templates/group.md",
     "03 - Notes/Sports Notes.md",
     "00 - Wiki/Locations/Untitled 1.md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
-    "00 - Wiki/Magic/Affinities/Air (WIP).md",
     "00 - Wiki/Magic/Affinities/Earth (wip).md",
-    "00 - Wiki/Magic/Affinities/Body (WIP).md",
     "06 - Guides & To-Do/99 - Github Pages.md",
     "06 - Guides & To-Do/98.5 Cards.md",
     "Index.md",
@@ -268,11 +273,6 @@
     "05 - Resources/Testing/testzone...2!.md",
     "01 - Stories/Story Navigation.md",
     "05 - Resources/Templates/character (wip).md",
-    "05 - Resources/Templates/affinity (wip).md",
-    "00 - Wiki/Magic/Affinities/Mind (wip).md",
-    "00 - Wiki/Magic/Affinities/Fire.md",
-    "00 - Wiki/Magic/Affinities/Water (wip).md",
-    "00 - Wiki/Magic/Affinities/Soul (wip).md",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1.base",
