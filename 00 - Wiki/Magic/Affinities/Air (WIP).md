@@ -56,5 +56,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ## Pavana
-######  The Four Winds, The Storm God
+######  The Four Winds, The Storm God, God of Fortune
 ----
