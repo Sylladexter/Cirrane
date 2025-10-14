@@ -352,6 +352,27 @@
           "shareId": "0581d433-ef47-49ef-95f7-98a595a31d7b",
           "persistenceId": "d67a113f-4cf1-41a7-a3e8-1581ae30aef4"
         }
+      ],
+      [
+        "00 - Wiki/Groups/Keepers of the Lily.md",
+        {
+          "shareId": "2ef12e0c-ee23-4a93-9244-0c85e18825c9",
+          "persistenceId": "d21d083c-3fd4-4723-8e62-758c34bb7f53"
+        }
+      ],
+      [
+        "00 - Wiki/Locations/Region.md",
+        {
+          "shareId": "80daf42b-bb47-4f6a-8afd-872e8c238c13",
+          "persistenceId": "7610367b-5e1e-4616-890f-f5d51af39831"
+        }
+      ],
+      [
+        "00 - Wiki/Locations/Moraida.md",
+        {
+          "shareId": "78a63ab7-8131-4f64-b217-d3565d4e1c67",
+          "persistenceId": "b4ef4b15-2645-4956-a5a7-d509bf32c636"
+        }
       ]
     ],
     "folders": [
