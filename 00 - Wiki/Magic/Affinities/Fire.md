@@ -97,7 +97,7 @@ Fire affinities can not be control and are said to lash out against any who atte
 There are no known fire branches at this time.
 
 ## PELE
-######  The Phoenix 
+######  The Phoenix, God of the Sun, Eternal Dawn
 ----
 ### Personality
 

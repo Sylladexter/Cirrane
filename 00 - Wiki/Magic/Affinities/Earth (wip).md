@@ -56,5 +56,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ## Gaia
-######  Mother Earth
+######  Mother Earth, Goddess of the Moon, Endless Dusk
 ----
