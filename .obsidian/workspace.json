@@ -11,15 +11,12 @@
             "id": "17090a41fa5f788a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "05 - Resources/Templates/character (wip).md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "path": "00 - Wiki"
               },
               "icon": "lucide-file",
-              "title": "character (wip)"
+              "title": "00 - Wiki"
             }
           }
         ]
@@ -35,6 +32,16 @@
         "id": "3a50d9d7461c5a46",
         "type": "tabs",
         "children": [
+          {
+            "id": "815356c3730a116a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
           {
             "id": "cfa399347ca414ce",
             "type": "leaf",
@@ -74,19 +81,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "6a3407fff3a8b506",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +249,15 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "17090a41fa5f788a",
+  "active": "815356c3730a116a",
   "lastOpenFiles": [
-    "05 - Resources/Testing/Da Colors.md",
+    "00 - Wiki/Characters/Untitled.md",
     "00 - Wiki/Characters/Characters.md",
+    "00 - Wiki/Characters",
+    "05 - Resources/Templates/character (wip).md",
+    "00 - Wiki/Locations/Region (1).md",
+    "00 - Wiki/Locations/Region.md",
+    "05 - Resources/Testing/Da Colors.md",
     "00 - Wiki/Characters.md",
     "Index.md",
     "Cirrane 1.md",
@@ -268,8 +268,6 @@
     "03 - Notes/Locations/Esterra Notes.md",
     "00 - Wiki/Locations/Cirrane.md",
     "00 - Wiki/Locations/Esterra.md",
-    "00 - Wiki/Locations/Region.md",
-    "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Magic/Affinities/Water (wip).md",
     "05 - Resources/Images/Icons/Affinties/water.png",
     "05 - Resources/Images/Icons/Affinties",
@@ -283,9 +281,6 @@
     "00 - Wiki/Magic/Affinities/Soul (wip).md",
     "00 - Wiki/Magic/Affinities/Mind (wip).md",
     "03 - Notes/Name vomit.md",
-    "02 - Timelines/00 - Example Timeline.md",
-    "06 - Guides & To-Do/98 - Styling.md",
-    "00 - Wiki/Groups/Keepers of the Lily.md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
@@ -293,7 +288,6 @@
     "05 - Resources/04 - Roleplay/desktop.ini",
     "docs/index.html",
     "docs/00-wiki/magic/affinities/fire.html",
-    "05 - Resources/Settings/desktop.ini",
     "05 - Resources/Images/Icons/cafelogobig.png",
     "05 - Resources/Images/Icons/cafeccinosmall.png",
     "docs/05-resources/images/icons/cafelogobig.png",
