@@ -3,7 +3,7 @@ type: affinity
 cssclasses:
   - affinities
   - accent
-  - red
+  - fire
 ---
 
 

@@ -134,36 +134,7 @@ hr {
 
 
 
-/*-------------------
-  Color
---------------------*/
 
-.accent::before {
-
-  &.red {color: var(--color-red);}
-  &.orange {color:var(--color-orange);}
-  &.yellow {color:var(--color-yellow);}
-  &.green {color:var(--color-green);}
-  &.blue {color:var(--color-blue);}
-  &.purple {color:var(--color-purple);}
-  &.water{color: var(--color-water);}
-  &.fire{color: var(--color-fire);}
-  &.air{color: var(--color-air);}
-  &.earth{color: var(--color-earth);}
-  &.body{color: var(--color-body);}
-  &.mind{color: var(--color-mind);}
-  &.soul {color: var(--color-soul );}
-}
-
-
-/* .cm-comment {
-  color: var(--color-base-40);
-} */
-
-
-/* .color-title .inline-title {
-  color: var(--color-red);
-} */
 
 /*-------------------
   Zero Out
@@ -449,3 +420,36 @@ p:has(> .l) {
 }
 
 
+/*-------------------
+  Color
+--------------------*/
+
+.accent {
+  &.red :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-red);}
+  &.orange :is(h1, h2, h3, .inline-title) ::before :is(strong,p:has(.l) .l){color:var(--color-orange);}
+  &.yellow :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-yellow);}
+  &.green :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-green);}
+  &.blue :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-blue);}
+  &.purple :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-purple);}
+  &.water :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-water);}
+  &.fire :is(h1, h2, h3, .inline-title)::before, &.fire :is(strong,p:has(.l) .l) {color:var(--color-fire);}
+  &.air :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-air);}
+  &.earth :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-earth);}
+  &.body :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-body);}
+  &.mind :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-mind);}
+  &.soul :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-soul);}
+}
+
+
+
+
+
+
+/* .cm-comment {
+  color: var(--color-base-40);
+} */
+
+
+/* .color-title .inline-title {
+  color: var(--color-red);
+} */

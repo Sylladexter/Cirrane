@@ -2,6 +2,8 @@
 type: affinity
 cssclasses:
   - affinities
+  - accent
+  - water
 ---
 
 ---
