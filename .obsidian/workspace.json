@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki/Locations/Region (1).md",
-                "mode": "preview",
+                "file": "00 - Wiki/Locations/Moraida.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Region (1)"
+              "title": "Moraida"
             }
           }
         ]
@@ -240,13 +240,16 @@
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "callout-manager:Insert Callout": false,
-      "hi-note:HiNote": false,
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
   "active": "7b1499d5724dbe39",
   "lastOpenFiles": [
+    "05 - Resources/Images/Icons/Affinties",
     "00 - Wiki/Locations/Region.md",
+    "00 - Wiki/Locations/Moraida.md",
+    "00 - Wiki/Locations/Untitled 1.md",
+    "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Locations/Cirrane.md",
     "05 - Resources/Images/Banners/Pasted image 20251014175355.png",
     "00 - Wiki/Magic/Affinities/Water (wip).md",
@@ -258,8 +261,6 @@
     "00 - Wiki/Magic/Affinities/Earth (wip).md",
     "00 - Wiki/Magic/Affinities/Soul (wip).md",
     "00 - Wiki/Magic/Affinities/Mind (wip).md",
-    "00 - Wiki/Locations/Region (1).md",
-    "00 - Wiki/Locations/Moraida.md",
     "03 - Notes/Name vomit.md",
     "02 - Timelines/00 - Example Timeline.md",
     "00 - Wiki/Characters.md",
@@ -269,7 +270,6 @@
     "00 - Wiki/Groups/Temple of Lux.md",
     "05 - Resources/Templates/group.md",
     "03 - Notes/Sports Notes.md",
-    "00 - Wiki/Locations/Untitled 1.md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
     "06 - Guides & To-Do/99 - Github Pages.md",
     "06 - Guides & To-Do/98.5 Cards.md",

@@ -140,6 +140,7 @@
       "05 - Resources/Images/Galleries/Esterra/noerdlingen-sehenswuerdigkeiten-01.webp"
     ],
     "05 - Resources/Images/Icons": [
+      "05 - Resources/Images/Icons/Affinties",
       "05 - Resources/Images/Icons/Bonbon.png",
       "05 - Resources/Images/Icons/cafeccinosmall.png",
       "05 - Resources/Images/Icons/cafelogobig.png",
@@ -170,6 +171,7 @@
       "05 - Resources/Images/Icons/wulfesh.png",
       "05 - Resources/Images/Icons/Zola.png"
     ],
+    "05 - Resources/Images/Icons/Affinties": [],
     "05 - Resources/Images/Infographics": [
       "05 - Resources/Images/Infographics/elementals.png",
       "05 - Resources/Images/Infographics/trinity.png"
