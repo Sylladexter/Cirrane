@@ -167,10 +167,12 @@ body {
   Zero Out
 --------------------*/
 
-.internal-embed {
-  border:none;
-  padding: var(--)
+.padding-tweaks .markdown-embed {
   
+  border:none;
+  padding-left:0;
+
+
 }
 
 /****************************************

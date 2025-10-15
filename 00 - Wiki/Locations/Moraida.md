@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - padding-tweaks
+---
 
 
 
@@ -6,7 +10,6 @@
 ## Cirrane
 ###### *The City of Innovation*
 ---
-
 ![[Cirrane#^a994d6]]
 
 ### Cafeccino
