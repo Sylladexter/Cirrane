@@ -7,7 +7,7 @@ cssclasses:
 ## Cirrane
 ###### *The City of Innovation*
 ---
-![[Cirrane#^a994d6]]
+![[Cirrane#^a994d6|cc-embed]]
 
 ### Cafeccino
 - *A Place to go when you have a latte on your plate.*

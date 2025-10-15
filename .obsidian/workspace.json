@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki/Magic/Magic.md",
+                "file": "00 - Wiki/Locations/Moraida.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Moraida"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "09210a1c83121130",
@@ -246,8 +245,8 @@
   },
   "active": "4fd7a805da648fa2",
   "lastOpenFiles": [
-    "05 - Resources/Tables.md",
     "00 - Wiki/Magic/Magic.md",
+    "05 - Resources/Tables.md",
     "05 - Resources/Testing/What's This.md",
     "05 - Resources/Testing/Test Zone.md",
     "05 - Resources/Testing/Untitled",
