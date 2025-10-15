@@ -460,3 +460,23 @@ p:has(> .l) {
 /* .color-title .inline-title {
   color: var(--color-red);
 } */
+
+
+.markdown-preview-view .markdown-embed {
+    border:none;
+
+}
+
+
+span[alt="affinities"] {
+        width:var(--container-width);
+
+    .markdown-embed-content {
+        /* padding:0; */
+    }
+
+    .el-table {
+        /* padding:0;
+        margin:0; */
+    }
+}
