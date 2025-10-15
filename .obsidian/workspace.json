@@ -4,50 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "20fdc7850bc87af7",
-        "type": "split",
+        "id": "8b30c17e755f9941",
+        "type": "tabs",
         "children": [
           {
-            "id": "8b30c17e755f9941",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7b1499d5724dbe39",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 - Wiki/Locations/Moraida.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Moraida"
-                }
-              }
-            ]
-          },
-          {
-            "id": "60ea6160439a3959",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f263743fb369e9d",
-                "type": "leaf",
-                "state": {
-                  "type": "css-editor-view",
-                  "state": {
-                    "file": "tweaks-nested.css"
-                  },
-                  "icon": "file-code",
-                  "title": "tweaks-nested"
-                }
-              }
-            ]
+            "id": "17090a41fa5f788a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Resources/Templates/character (wip).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "character (wip)"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,13 +74,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6a3407fff3a8b506",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "09210a1c83121130",
@@ -269,8 +254,16 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "1f263743fb369e9d",
+  "active": "17090a41fa5f788a",
   "lastOpenFiles": [
+    "05 - Resources/Testing/Da Colors.md",
+    "00 - Wiki/Characters/Characters.md",
+    "00 - Wiki/Characters.md",
+    "Index.md",
+    "Cirrane 1.md",
+    "Cirrane.md",
+    "Tags",
+    "06 - Guides & To-Do/99 - Github Pages.md",
     "00 - Wiki/Locations/Moraida.md",
     "03 - Notes/Locations/Esterra Notes.md",
     "00 - Wiki/Locations/Cirrane.md",
@@ -291,16 +284,9 @@
     "00 - Wiki/Magic/Affinities/Mind (wip).md",
     "03 - Notes/Name vomit.md",
     "02 - Timelines/00 - Example Timeline.md",
-    "00 - Wiki/Characters.md",
     "06 - Guides & To-Do/98 - Styling.md",
     "00 - Wiki/Groups/Keepers of the Lily.md",
-    "06 - Guides & To-Do/02 - Tagging System.md",
-    "00 - Wiki/Groups/Temple of Lux.md",
-    "05 - Resources/Templates/group.md",
-    "03 - Notes/Sports Notes.md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
-    "06 - Guides & To-Do/99 - Github Pages.md",
-    "06 - Guides & To-Do/98.5 Cards.md",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1.base",
@@ -308,7 +294,6 @@
     "docs/index.html",
     "docs/00-wiki/magic/affinities/fire.html",
     "05 - Resources/Settings/desktop.ini",
-    "Affinities",
     "05 - Resources/Images/Icons/cafelogobig.png",
     "05 - Resources/Images/Icons/cafeccinosmall.png",
     "docs/05-resources/images/icons/cafelogobig.png",

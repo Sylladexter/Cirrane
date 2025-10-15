@@ -1,6 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "",
+  "accentColor": "#8accf5",
   "enabledCssSnippets": [
     "Colored Sidebar Items Modified",
     "infobox-callouts",
