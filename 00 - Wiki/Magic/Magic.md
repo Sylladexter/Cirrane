@@ -39,11 +39,7 @@ cssclasses:
 
 ## Affinities
 
-|           |          |          |           |          |          |          |
-|:---------:|:--------:|:--------:|:---------:|:--------:|:--------:|:--------:|
-| [[Water]] | [[Fire]] | [[Air]]  | [[Earth]] | [[Body]] | [[Mind]] | [[Soul]] |
-|    ice    |          | electric |   flora   |   form   |          |   aura   |
-|           |          |          |   terra   |          |          |  spirit  |
+![[Tables#^bc7cc0|affinities]]
 
 ## Crystals & Runes
 - *Crystals allow the user to go up a tier in their abilities while the crystal is in use. The more crystals a person has in use, the higher tier they become. Using too many crystals, however, can result in some sort of kickback/detriment to the user.*
