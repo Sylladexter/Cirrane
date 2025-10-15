@@ -10,7 +10,7 @@ banner-fade: -85
 banner-radius: 10
 html-title: Cirrane
 banner_y: "26"
-banner: "![[cloudmountain.png]]"
+banner: "![[05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg]]"
 ---
 ```search-bar
 

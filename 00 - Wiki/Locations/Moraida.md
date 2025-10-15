@@ -2,19 +2,7 @@
 cssclasses:
   - padding-tweaks
 ---
-
-
-> [!col] 
->
->> [!col-md-3]
->> ![[Cirrane#^a994d6]]
->
->> [!col-md]
->> ![[Pasted image 20251014175355.png]]
-
-
-
-
+---
 
 ## Cirrane
 ###### *The City of Innovation*

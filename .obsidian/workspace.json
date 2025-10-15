@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki/Locations/Moraida.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Moraida"
+              "title": "Index"
             }
           }
         ]
@@ -245,17 +245,19 @@
   },
   "active": "17090a41fa5f788a",
   "lastOpenFiles": [
+    "05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
+    "05 - Resources/Images/Banners/cafebg.png",
+    "Index.md",
+    "00 - Wiki/Locations/Moraida.md",
     "00 - Wiki/Locations/Region.md",
     "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Locations/Cirrane.md",
-    "00 - Wiki/Locations/Moraida.md",
     "00 - Wiki/Characters/Untitled.md",
     "00 - Wiki/Characters/Characters.md",
     "00 - Wiki/Characters",
     "05 - Resources/Templates/character (wip).md",
     "05 - Resources/Testing/Da Colors.md",
     "00 - Wiki/Characters.md",
-    "Index.md",
     "Cirrane 1.md",
     "Cirrane.md",
     "Tags",
@@ -289,7 +291,6 @@
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/05-resources/images/galleries/esterra/noerdlingen-sehenswuerdigkeiten-01.webp",
-    "docs/05-resources/images/galleries/esterra/j8ugsjybugp3z2mcfjtcle.webp",
     "Untitled.canvas"
   ]
 }
