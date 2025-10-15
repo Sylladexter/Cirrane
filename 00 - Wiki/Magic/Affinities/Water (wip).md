@@ -12,7 +12,7 @@ cssclasses:
 
 ```col-md
 >[!affinity]
-> ![[cafelogobig.png]]
+> ![[water.png]]
 > <span class="l">Rarity</span> <span class="v">Common</span>
 > <span class="l">Deity</span> <span class="v">Siren</span>
 > <span class="l">Vessel</span> <span class="v">Razzle</span>

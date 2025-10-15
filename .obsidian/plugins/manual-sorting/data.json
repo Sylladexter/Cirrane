@@ -32,12 +32,9 @@
       "00 - Wiki/History/The Remnants of Humanity.md"
     ],
     "00 - Wiki/Locations": [
-      "00 - Wiki/Locations/Locations.md",
-      "00 - Wiki/Locations/Cirrane.md",
       "00 - Wiki/Locations/Moraida.md",
-      "00 - Wiki/Locations/Region.md",
-      "00 - Wiki/Locations/Region (1).md",
-      "00 - Wiki/Locations/Untitled 1.md"
+      "00 - Wiki/Locations/Cirrane.md",
+      "00 - Wiki/Locations/Esterra.md"
     ],
     "00 - Wiki/Magic": [
       "00 - Wiki/Magic/Magic.md",
@@ -85,8 +82,8 @@
       "03 - Notes/Sports Notes.md"
     ],
     "03 - Notes/Locations": [
-      "03 - Notes/Locations/Cirrane.md",
-      "03 - Notes/Locations/Esterra.md",
+      "03 - Notes/Locations/Cirrane Notes.md",
+      "03 - Notes/Locations/Esterra Notes.md",
       "03 - Notes/Locations/Other Locations.md"
     ],
     "04 - Roleplay": [],
@@ -171,7 +168,9 @@
       "05 - Resources/Images/Icons/wulfesh.png",
       "05 - Resources/Images/Icons/Zola.png"
     ],
-    "05 - Resources/Images/Icons/Affinties": [],
+    "05 - Resources/Images/Icons/Affinties": [
+      "05 - Resources/Images/Icons/Affinties/water.png"
+    ],
     "05 - Resources/Images/Infographics": [
       "05 - Resources/Images/Infographics/elementals.png",
       "05 - Resources/Images/Infographics/trinity.png"

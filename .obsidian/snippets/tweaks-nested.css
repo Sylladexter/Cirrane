@@ -115,8 +115,6 @@ body {
   &.soul {--text-accent: var(--color-soul);}
 }
 
-
-
 /*-------------------
   Callouts
 --------------------*/
@@ -168,6 +166,12 @@ body {
 /*-------------------
   Zero Out
 --------------------*/
+
+.internal-embed {
+  border:none;
+  padding: var(--)
+  
+}
 
 /****************************************
   Affinities

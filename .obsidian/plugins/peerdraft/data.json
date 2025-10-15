@@ -53,13 +53,6 @@
         }
       ],
       [
-        "00 - Wiki/Locations/Locations.md",
-        {
-          "shareId": "b52b02c5-894c-47a7-923a-3d9793571f08",
-          "persistenceId": "15cc8bfd-4700-4af3-8034-8ab3784508be"
-        }
-      ],
-      [
         "00 - Wiki/Magic/Affinities/Air (WIP).md",
         {
           "shareId": "889fe392-d300-4c59-bfba-9c4e79a37a93",
@@ -151,13 +144,6 @@
         }
       ],
       [
-        "03 - Notes/Locations/Cirrane.md",
-        {
-          "shareId": "a53acfc1-c3c8-4fbc-9f14-d139a5aeca6e",
-          "persistenceId": "1f1e10bf-c1a3-4620-a991-9b237119f20c"
-        }
-      ],
-      [
         "01 - Stories/The Journalist/Outlines & Notes/Outline.md",
         {
           "shareId": "5693114d-69ac-4e48-96ac-2a8e223a09e6",
@@ -190,13 +176,6 @@
         {
           "shareId": "467e195c-1b01-4281-b177-84da0cc90748",
           "persistenceId": "3fd54a93-180b-4a84-91ca-ae6eb7770680"
-        }
-      ],
-      [
-        "03 - Notes/Locations/Esterra.md",
-        {
-          "shareId": "aea66258-deb9-4fe9-bc1b-77667274bdb7",
-          "persistenceId": "f36fc115-fb22-427f-b898-73d0a25d1482"
         }
       ],
       [
@@ -333,13 +312,6 @@
         }
       ],
       [
-        "00 - Wiki/Locations/Untitled 1.md",
-        {
-          "shareId": "78e2a909-2094-46e6-b42d-f73bff9df64d",
-          "persistenceId": "0e0f4814-52d5-430d-83ca-7c578aaf0d63"
-        }
-      ],
-      [
         "00 - Wiki/Locations/Cirrane.md",
         {
           "shareId": "d6e50c9a-1199-4b33-99ba-c61eaf636e79",
@@ -377,8 +349,8 @@
       [
         "00 - Wiki/Locations/Moraida.md",
         {
-          "shareId": "78a63ab7-8131-4f64-b217-d3565d4e1c67",
-          "persistenceId": "81ba7b72-d374-42ac-90ba-c32557a65535"
+          "shareId": "b52b02c5-894c-47a7-923a-3d9793571f08",
+          "persistenceId": "15cc8bfd-4700-4af3-8034-8ab3784508be"
         }
       ],
       [
@@ -386,6 +358,27 @@
         {
           "shareId": "2a8a8cb6-4718-49f9-aed4-e338a6417051",
           "persistenceId": "80bda186-d4ed-4646-9c0a-10a810f73844"
+        }
+      ],
+      [
+        "00 - Wiki/Locations/Esterra.md",
+        {
+          "shareId": "78e2a909-2094-46e6-b42d-f73bff9df64d",
+          "persistenceId": "0e0f4814-52d5-430d-83ca-7c578aaf0d63"
+        }
+      ],
+      [
+        "03 - Notes/Locations/Cirrane Notes.md",
+        {
+          "shareId": "a53acfc1-c3c8-4fbc-9f14-d139a5aeca6e",
+          "persistenceId": "1f1e10bf-c1a3-4620-a991-9b237119f20c"
+        }
+      ],
+      [
+        "03 - Notes/Locations/Esterra Notes.md",
+        {
+          "shareId": "aea66258-deb9-4fe9-bc1b-77667274bdb7",
+          "persistenceId": "f36fc115-fb22-427f-b898-73d0a25d1482"
         }
       ]
     ],

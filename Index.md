@@ -20,4 +20,4 @@ html-title: Cirrane
 >- [[Timeline|:LiClock: Timeline]]
 >- [[Stories|:LiBook: Stories]]
 >- [[Magic|:LiStars: Magic]]
->- [[Locations|:LiMapPin: Locations]]
+>- [[Moraida|:LiMapPin: Locations]]

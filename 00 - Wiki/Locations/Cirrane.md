@@ -10,7 +10,7 @@ blurb: The city of innovation and home of [[The Dragon's Gauntlet]]
 ---
 ![[Pasted image 20251014175355.png]]
 
- [[Cirrane]] is a large city built into the summit of [[Mount Name]]. It's known as the great mixing pot of [[Moraida]]. It has a dense population with buildings winding to the peak. The city is most famous for the [[Dragon's Gauntlet]], a regional sport popularized centuries prior.
+ [[Cirrane]] is a large city built into the summit of [[Mount Name]]. It's known as the great mixing pot of [[Moraida]]. It has a dense population with buildings winding to the peak. The city is most famous for the [[Dragon's Gauntlet]], a regional sport popularized centuries prior. ^a994d6
 
 ## History
 ---
