@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "00 - Wiki/Locations/Moraida.md",
+      "timestamp": 1760543354016
+    },
+    {
+      "filepath": "00 - Wiki/Locations/Cirrane.md",
+      "timestamp": 1760543338553
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

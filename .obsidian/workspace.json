@@ -11,12 +11,15 @@
             "id": "17090a41fa5f788a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "00 - Wiki"
+                "file": "00 - Wiki/Locations/Moraida.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00 - Wiki"
+              "title": "Moraida"
             }
           }
         ]
@@ -32,16 +35,6 @@
         "id": "3a50d9d7461c5a46",
         "type": "tabs",
         "children": [
-          {
-            "id": "815356c3730a116a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
           {
             "id": "cfa399347ca414ce",
             "type": "leaf",
@@ -228,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,14 +243,16 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "815356c3730a116a",
+  "active": "17090a41fa5f788a",
   "lastOpenFiles": [
+    "00 - Wiki/Locations/Region.md",
+    "00 - Wiki/Locations/Region (1).md",
+    "00 - Wiki/Locations/Cirrane.md",
+    "00 - Wiki/Locations/Moraida.md",
     "00 - Wiki/Characters/Untitled.md",
     "00 - Wiki/Characters/Characters.md",
     "00 - Wiki/Characters",
     "05 - Resources/Templates/character (wip).md",
-    "00 - Wiki/Locations/Region (1).md",
-    "00 - Wiki/Locations/Region.md",
     "05 - Resources/Testing/Da Colors.md",
     "00 - Wiki/Characters.md",
     "Index.md",
@@ -264,9 +260,7 @@
     "Cirrane.md",
     "Tags",
     "06 - Guides & To-Do/99 - Github Pages.md",
-    "00 - Wiki/Locations/Moraida.md",
     "03 - Notes/Locations/Esterra Notes.md",
-    "00 - Wiki/Locations/Cirrane.md",
     "00 - Wiki/Locations/Esterra.md",
     "00 - Wiki/Magic/Affinities/Water (wip).md",
     "05 - Resources/Images/Icons/Affinties/water.png",

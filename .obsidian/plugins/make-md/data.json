@@ -45,7 +45,8 @@
     "//05 - Resources/05 - Resources/Testing",
     "//05 - Resources/05 - Resources/Templates/05 - Resources/Templates/archive",
     "00 - Wiki/Characters",
-    "//00 - Wiki"
+    "//00 - Wiki",
+    "//00 - Wiki/00 - Wiki/Locations"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
