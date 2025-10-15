@@ -4,25 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "76f9976672f5b3e6",
-        "type": "tabs",
+        "id": "37476b04a6966073",
+        "type": "split",
         "children": [
           {
-            "id": "4fd7a805da648fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Wiki/Locations/Moraida.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Moraida"
-            }
+            "id": "76f9976672f5b3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f2e2b4c4af344fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Wiki/Magic/Magic.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magic"
+                }
+              }
+            ]
+          },
+          {
+            "id": "578e650f6bbc06d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4fd7a805da648fa2",
+                "type": "leaf",
+                "state": {
+                  "type": "css-editor-view",
+                  "state": {
+                    "file": "tweaks-nested.css"
+                  },
+                  "icon": "file-code",
+                  "title": "tweaks-nested"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "09210a1c83121130",
@@ -246,6 +272,9 @@
   "active": "4fd7a805da648fa2",
   "lastOpenFiles": [
     "00 - Wiki/Magic/Magic.md",
+    "00 - Wiki/The Gauntlet.md",
+    "00 - Wiki/Characters.md",
+    "00 - Wiki/Locations/Moraida.md",
     "05 - Resources/Tables.md",
     "05 - Resources/Testing/What's This.md",
     "05 - Resources/Testing/Test Zone.md",
@@ -255,7 +284,6 @@
     "Index.md",
     "05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
     "05 - Resources/Images/Banners/cafebg.png",
-    "00 - Wiki/Locations/Moraida.md",
     "00 - Wiki/Locations/Region.md",
     "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Characters/Untitled.md",
@@ -263,7 +291,6 @@
     "00 - Wiki/Characters",
     "05 - Resources/Templates/character (wip).md",
     "05 - Resources/Testing/Da Colors.md",
-    "00 - Wiki/Characters.md",
     "Cirrane 1.md",
     "Cirrane.md",
     "Tags",
@@ -274,7 +301,6 @@
     "05 - Resources/Images/Icons/Affinties/water.png",
     "05 - Resources/Images/Icons/Affinties",
     "05 - Resources/Images/Banners/Pasted image 20251014175355.png",
-    "00 - Wiki/The Gauntlet.md",
     "00 - Wiki/Magic/Affinities/Body (WIP).md",
     "00 - Wiki/Magic/Affinities/Air (WIP).md",
     "00 - Wiki/Magic/Affinities/Fire.md",

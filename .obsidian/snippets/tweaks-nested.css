@@ -462,21 +462,43 @@ p:has(> .l) {
 } */
 
 
-.markdown-preview-view .markdown-embed {
-    border:none;
 
+span[alt*="cc-embed"] {
+    padding: 0!important;
+    border:none;
+    
+    .markdown-preview-view,
+    .markdown-preview-section {
+      padding-left: 0 !important;
+      margin-left: 0 !important;
+    }
+
+
+    .markdown-embed-link {
+        display:none;
+    }
+}
+    
+
+
+span[alt*="affinities"] {
+   width:var(--container-width);
+
+   .markdown-embed-preview .markdown-embed-content .el-table {
+        padding:0;
+        margin:0;
+    }
 }
 
-
-span[alt="affinities"] {
+/* span[alt="affinities"] {
         width:var(--container-width);
 
     .markdown-embed-content {
-        /* padding:0; */
+        padding:0;
     }
 
     .el-table {
-        /* padding:0;
-        margin:0; */
+        padding:0;
+        margin:0;
     }
-}
+} */

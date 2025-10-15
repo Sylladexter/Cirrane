@@ -24,16 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "00 - Wiki/Groups/Temple of Lux.md",
-      "timestamp": 1760568659611
+      "filepath": "00 - Wiki/Magic/Magic.md",
+      "timestamp": 1760570742686
+    },
+    {
+      "filepath": "00 - Wiki/The Gauntlet.md",
+      "timestamp": 1760570655739
+    },
+    {
+      "filepath": "00 - Wiki/Characters.md",
+      "timestamp": 1760570653067
     },
     {
       "filepath": "00 - Wiki/Locations/Moraida.md",
-      "timestamp": 1760568596858
-    },
-    {
-      "filepath": "00 - Wiki/Magic/Magic.md",
-      "timestamp": 1760568591960
+      "timestamp": 1760568567590
     }
   ],
   "bookmarkedFileStore": [],
