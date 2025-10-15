@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleUser",
+      "LiTrophy",
       "LiSettings2",
       "LiAlertTriangle",
       "LiWallpaper",
@@ -13,9 +15,7 @@
       "LiClock4",
       "LiNewspaper",
       "LiSkull",
-      "LiNotebookPen",
-      "LiHelp",
-      "LiMapPin"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -58,5 +58,7 @@
   "06 - Guides & To-Do": "LiHelp",
   "03 - Notes/Locations": "LiMapPin",
   "05 - Resources/Settings": "LiSettings2",
-  "04 - Roleplay": "LiBookMarked"
+  "04 - Roleplay": "LiBookMarked",
+  "00 - Wiki/The Gauntlet.md": "LiTrophy",
+  "00 - Wiki/Characters.md": "LiCircleUser"
 }

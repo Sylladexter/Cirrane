@@ -5,15 +5,8 @@
 https://nestyourcss.com/
 */
 
-body {
-  --color-water:#55cdf1;
-  --color-fire:#e75858;
-  --color-air:#c3c2b5;
-  --color-earth: #93b35b;
-  --color-body: #dd7e6b;
-  --color-mind:#a64d79;
-  --color-soul: #674ea7;
-}
+
+
 
 /****************************************
   Deployed
@@ -34,7 +27,7 @@ body {
 
 
 /****************************************
-  Interface + Stylings
+  Global
 *****************************************/ 
 
 body p {
@@ -84,7 +77,43 @@ hr {
     margin-top: 0;
 }
 
+/*-------------------
+  Color
+--------------------*/
 
+body {
+  --color-water:#55cdf1;
+  --color-fire:#e75858;
+  --color-air:#c3c2b5;
+  --color-earth: #93b35b;
+  --color-body: #dd7e6b;
+  --color-mind:#a64d79;
+  --color-soul: #674ea7;
+}
+
+.lable, .l {
+  color: var(--text-accent);
+}
+
+
+
+.accent {
+  --color-accent: var(--text-accent);
+
+  &.red {--text-accent: var(--color-red);}
+  &.orange {--text-accent: var(--color-orange);}
+  &.yellow {--text-accent: var(--color-yellow);}
+  &.green {--text-accent: var(--color-green);}
+  &.blue {--text-accent: var(--color-blue);}
+  &.purple {--text-accent: var(--color-purple);}
+  &.water {--text-accent: var(--color-water);}
+  &.fire {--text-accent: var(--color-fire);}
+  &.air {--text-accent: var(--color-air);}
+  &.earth {--text-accent: var(--color-earth);}
+  &.body {--text-accent: var(--color-body);}
+  &.mind {--text-accent: var(--color-mind);}
+  &.soul {--text-accent: var(--color-soul);}
+}
 
 
 
@@ -418,28 +447,6 @@ p:has(> .l) {
 .home .callout[data-callout-metadata="cc-nav"] {
   background: none!important;
 }
-
-
-/*-------------------
-  Color
---------------------*/
-
-.accent {
-  &.red :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-red);}
-  &.orange :is(h1, h2, h3, .inline-title) ::before :is(strong,p:has(.l) .l){color:var(--color-orange);}
-  &.yellow :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-yellow);}
-  &.green :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-green);}
-  &.blue :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-blue);}
-  &.purple :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-purple);}
-  &.water :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-water);}
-  &.fire :is(h1, h2, h3, .inline-title)::before, &.fire :is(strong,p:has(.l) .l) {color:var(--color-fire);}
-  &.air :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-air);}
-  &.earth :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-earth);}
-  &.body :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-body);}
-  &.mind :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-mind);}
-  &.soul :is(h1, h2, h3, .inline-title)::before :is(strong,p:has(.l) .l){color:var(--color-soul);}
-}
-
 
 
 
