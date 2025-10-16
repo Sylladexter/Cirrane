@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Characters
 
-![[groups.base#stories|no-toolbar]]
+![[10 - Resources/Bases/groups.base#stories|no-toolbar]]

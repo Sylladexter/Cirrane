@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Resources/Templates/affinity (wip).md",
+                "file": "WIPs.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of affinity (wip)"
+              "title": "Outline of WIPs"
             }
           },
           {
@@ -186,8 +187,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "78883c3022a9ecfa",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Your Peerdraft Shares"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "29fb11ad167bf4b0",
@@ -218,30 +230,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
-      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "callout-manager:Insert Callout": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "explorer-hider:Disable hiding": false
+      "explorer-hider:Disable hiding": false,
+      "pexels-banner:🚩 Pixel Banner Menu": true,
+      "callout-manager:Insert Callout": true,
+      "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "3f2e2b4c4af344fb",
+  "active": "cbf04f7969bc3c11",
   "lastOpenFiles": [
+    "Index.md",
+    "11 - Guides & To-Do/01 - How to Use.md",
+    "09 - Notes/Sports Notes.md",
+    "05 - The Gauntlet",
+    "09 - Notes/Locations/Other Locations.md",
+    "09 - Notes/Locations/Cirrane Notes.md",
+    "09 - Notes/Locations/Esterra Notes.md",
+    "09 - Notes/Magic Notes.md",
+    "09 - Notes/Name vomit.md",
+    "10 - Resources/Testing/archive/Affinities (old).md",
+    "00 - Wiki/Characters.md",
+    "00 - Wiki/The Gauntlet.md",
+    "10 - Resources/Templates/affinity (wip).md",
+    "03 - Magic/Magic.md",
+    "01 - Stories/The Journalist/Script & Scenes/Script.md",
+    "WIPs.base",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/05-resources/images/galleries/cirrane/mountainwater.png",
@@ -260,34 +289,18 @@
     "docs/site-lib/styles/other-plugins.css",
     "01 - Stories/The Curse/Notes.md",
     "docs/05-resources/testing/testzone...2!.html",
-    "05 - Resources/Testing/testzone...2!.md",
-    "01 - Stories/The Journalist/Script & Scenes/Script.md",
+    "10 - Resources/Testing/testzone...2!.md",
     "01 - Stories/The Journalist/Outlines & Notes/Notes.md",
-    "03 - Notes/Locations/Other Locations.md",
     "01 - Stories/The Journalist/Outlines & Notes/Outline.md",
     "docs/03-notes/locations/esterra-notes.html",
-    "03 - Notes/Locations/Esterra Notes.md",
     "docs/03-notes/locations/cirrane-notes.html",
-    "03 - Notes/Locations/Cirrane Notes.md",
-    "docs/05-resources/testing/archive/character-v4.html",
-    "05 - Resources/Testing/archive/character-v4.md",
-    "05 - Resources/Testing/archive/character-v3.md",
-    "docs/05-resources/testing/archive/character-v3.html",
-    "docs/05-resources/testing/archive/character-v2.html",
-    "05 - Resources/Testing/archive/character-v2.md",
-    "00 - Wiki/Characters.md",
+    "10 - Resources/Testing/archive/character-v4.md",
+    "10 - Resources/Testing/archive/character-v3.md",
+    "10 - Resources/Testing/archive/character-v2.md",
     "02 - Timelines/00 - Example Timeline.md",
-    "00 - Wiki/History/The Remnants of Humanity.md",
-    "05 - Resources/Testing/archive/character (old).md",
-    "05 - Resources/Testing/Da Colors.md",
-    "03 - Notes/Affinities (old).md",
-    "05 - Resources/Templates/location.md",
-    "00 - Wiki/The Gauntlet.md",
-    "05 - Resources/Templates/affinity (wip).md",
-    "00 - Wiki/History/The Esterran Rebellion.md",
-    "00 - Wiki/History/The Old World.md",
-    "03 - Notes/Magic Notes.md",
-    "01 - Stories/The Journalist/The Journalist.md",
+    "04 - History/The Remnants of Humanity.md",
+    "10 - Resources/Testing/archive/character (old).md",
+    "10 - Resources/Testing/Da Colors.md",
     "Untitled.canvas"
   ]
 }

@@ -5,58 +5,30 @@
       "00 - Wiki",
       "01 - Stories",
       "02 - Timelines",
-      "03 - Notes",
-      "04 - Roleplay",
-      "05 - Resources",
-      "06 - Guides & To-Do",
+      "03 - Magic",
+      "04 - History",
+      "05 - The Gauntlet",
+      "06 - Characters",
+      "07 - Groups",
+      "08 - Locations",
+      "09 - Notes",
+      "10 - Resources",
+      "11 - Guides & To-Do",
       "docs",
       "Index.md",
       "local disk"
     ],
     "00 - Wiki": [
-      "00 - Wiki/Characters",
-      "00 - Wiki/Groups",
-      "00 - Wiki/History",
-      "00 - Wiki/Locations",
-      "00 - Wiki/Magic",
       "00 - Wiki/Characters.md",
       "00 - Wiki/The Gauntlet.md"
     ],
-    "00 - Wiki/Characters": [
-      "00 - Wiki/Characters/Characters.md"
-    ],
-    "00 - Wiki/Groups": [
-      "00 - Wiki/Groups/Keepers of the Lily.md",
-      "00 - Wiki/Groups/Temple of Lux.md"
-    ],
-    "00 - Wiki/History": [
-      "00 - Wiki/History/The Esterran Rebellion.md",
-      "00 - Wiki/History/The Old World.md",
-      "00 - Wiki/History/The Remnants of Humanity.md"
-    ],
-    "00 - Wiki/Locations": [
-      "00 - Wiki/Locations/Cirrane.md",
-      "00 - Wiki/Locations/Esterra.md",
-      "00 - Wiki/Locations/Moraida.md"
-    ],
-    "00 - Wiki/Magic": [
-      "00 - Wiki/Magic/Affinities",
-      "00 - Wiki/Magic/Magic.md"
-    ],
-    "00 - Wiki/Magic/Affinities": [
-      "00 - Wiki/Magic/Affinities/Air.md",
-      "00 - Wiki/Magic/Affinities/Body.md",
-      "00 - Wiki/Magic/Affinities/Earth.md",
-      "00 - Wiki/Magic/Affinities/Fire.md",
-      "00 - Wiki/Magic/Affinities/Mind.md",
-      "00 - Wiki/Magic/Affinities/Soul.md",
-      "00 - Wiki/Magic/Affinities/Water.md"
-    ],
     "01 - Stories": [
+      "01 - Stories/Roleplay",
       "01 - Stories/The Curse",
       "01 - Stories/The Journalist",
       "01 - Stories/Story Navigation.md"
     ],
+    "01 - Stories/Roleplay": [],
     "01 - Stories/The Curse": [
       "01 - Stories/The Curse/Notes.md"
     ],
@@ -77,140 +49,146 @@
     "02 - Timelines": [
       "02 - Timelines/00 - Example Timeline.md"
     ],
-    "03 - Notes": [
-      "03 - Notes/Locations",
-      "03 - Notes/Affinities (old).md",
-      "03 - Notes/Magic Notes.md",
-      "03 - Notes/Name vomit.md",
-      "03 - Notes/Sports Notes.md"
+    "03 - Magic": [
+      "03 - Magic/Affinities",
+      "03 - Magic/Magic.md"
     ],
-    "03 - Notes/Locations": [
-      "03 - Notes/Locations/Cirrane Notes.md",
-      "03 - Notes/Locations/Esterra Notes.md",
-      "03 - Notes/Locations/Other Locations.md"
+    "03 - Magic/Affinities": [
+      "03 - Magic/Affinities/Air.md",
+      "03 - Magic/Affinities/Body.md",
+      "03 - Magic/Affinities/Earth.md",
+      "03 - Magic/Affinities/Fire.md",
+      "03 - Magic/Affinities/Mind.md",
+      "03 - Magic/Affinities/Soul.md",
+      "03 - Magic/Affinities/Water.md"
     ],
-    "04 - Roleplay": [],
-    "05 - Resources": [
-      "05 - Resources/Bases",
-      "05 - Resources/Images",
-      "05 - Resources/Settings",
-      "05 - Resources/Templates",
-      "05 - Resources/Testing",
-      "05 - Resources/Tables.md"
+    "04 - History": [
+      "04 - History/The Esterran Rebellion.md",
+      "04 - History/The Old World.md",
+      "04 - History/The Remnants of Humanity.md"
     ],
-    "05 - Resources/Bases": [
-      "05 - Resources/Bases/characters.base",
-      "05 - Resources/Bases/groups.base",
-      "05 - Resources/Bases/lists.base"
+    "10 - Resources": [
+      "10 - Resources/Bases",
+      "10 - Resources/Images",
+      "10 - Resources/Settings",
+      "10 - Resources/Templates",
+      "10 - Resources/Testing",
+      "10 - Resources/Tables.md"
     ],
-    "05 - Resources/Images": [
-      "05 - Resources/Images/Banners",
-      "05 - Resources/Images/Galleries",
-      "05 - Resources/Images/Icons",
-      "05 - Resources/Images/Infographics"
+    "10 - Resources/Bases": [
+      "10 - Resources/Bases/characters.base",
+      "10 - Resources/Bases/groups.base",
+      "10 - Resources/Bases/lists.base"
     ],
-    "05 - Resources/Images/Banners": [
-      "05 - Resources/Images/Banners/air.png",
-      "05 - Resources/Images/Banners/body.png",
-      "05 - Resources/Images/Banners/cafebg.png",
-      "05 - Resources/Images/Banners/chigu_12_DnChpCMU4AAi2fu.jpg",
-      "05 - Resources/Images/Banners/cir-banner",
-      "05 - Resources/Images/Banners/cloudmountain.png",
-      "05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
-      "05 - Resources/Images/Banners/earth.png",
-      "05 - Resources/Images/Banners/fire.png",
-      "05 - Resources/Images/Banners/lingxiang1982_207090_1162215133_orig.jpg",
-      "05 - Resources/Images/Banners/mind.png",
-      "05 - Resources/Images/Banners/Pasted image 20251014175355.png",
-      "05 - Resources/Images/Banners/soul.png",
-      "05 - Resources/Images/Banners/thumb-1920-35819.jpg",
-      "05 - Resources/Images/Banners/water.jpg"
+    "10 - Resources/Images": [
+      "10 - Resources/Images/Banners",
+      "10 - Resources/Images/Galleries",
+      "10 - Resources/Images/Icons",
+      "10 - Resources/Images/Infographics"
     ],
-    "05 - Resources/Images/Galleries": [
-      "05 - Resources/Images/Galleries/Cirrane",
-      "05 - Resources/Images/Galleries/Esterra"
+    "10 - Resources/Images/Banners": [
+      "10 - Resources/Images/Banners/air.png",
+      "10 - Resources/Images/Banners/body.png",
+      "10 - Resources/Images/Banners/cafebg.png",
+      "10 - Resources/Images/Banners/chigu_12_DnChpCMU4AAi2fu.jpg",
+      "10 - Resources/Images/Banners/cir-banner",
+      "10 - Resources/Images/Banners/cloudmountain.png",
+      "10 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
+      "10 - Resources/Images/Banners/earth.png",
+      "10 - Resources/Images/Banners/fire.png",
+      "10 - Resources/Images/Banners/lingxiang1982_207090_1162215133_orig.jpg",
+      "10 - Resources/Images/Banners/mind.png",
+      "10 - Resources/Images/Banners/Pasted image 20251014175355.png",
+      "10 - Resources/Images/Banners/soul.png",
+      "10 - Resources/Images/Banners/thumb-1920-35819.jpg",
+      "10 - Resources/Images/Banners/water.jpg"
     ],
-    "05 - Resources/Images/Galleries/Cirrane": [
-      "05 - Resources/Images/Galleries/Cirrane/cirrane.png",
-      "05 - Resources/Images/Galleries/Cirrane/cirrane2.png",
-      "05 - Resources/Images/Galleries/Cirrane/mountainwater.png"
+    "10 - Resources/Images/Galleries": [
+      "10 - Resources/Images/Galleries/Cirrane",
+      "10 - Resources/Images/Galleries/Esterra"
     ],
-    "05 - Resources/Images/Galleries/Esterra": [
-      "05 - Resources/Images/Galleries/Esterra/4b.webp",
-      "05 - Resources/Images/Galleries/Esterra/5fdd66360044a.webp",
-      "05 - Resources/Images/Galleries/Esterra/960px-N%C3%B6rdlingenDanielBlickS%C3%BCden.webp",
-      "05 - Resources/Images/Galleries/Esterra/1200px-Hohokam_cliff_dwelling_%28Montezuma_Castle%29%2C_Arizona.webp",
-      "05 - Resources/Images/Galleries/Esterra/j8UgsJybugp3z2mcfjtcLe.webp",
-      "05 - Resources/Images/Galleries/Esterra/noerdlingen-sehenswuerdigkeiten-01.webp"
+    "10 - Resources/Images/Galleries/Cirrane": [
+      "10 - Resources/Images/Galleries/Cirrane/cirrane.png",
+      "10 - Resources/Images/Galleries/Cirrane/cirrane2.png",
+      "10 - Resources/Images/Galleries/Cirrane/mountainwater.png"
     ],
-    "05 - Resources/Images/Icons": [
-      "05 - Resources/Images/Icons/Affinties",
-      "05 - Resources/Images/Icons/Bonbon.png",
-      "05 - Resources/Images/Icons/cafeccinosmall.png",
-      "05 - Resources/Images/Icons/cafelogobig.png",
-      "05 - Resources/Images/Icons/celeste.png",
-      "05 - Resources/Images/Icons/Ched.png",
-      "05 - Resources/Images/Icons/Cherry.png",
-      "05 - Resources/Images/Icons/ClemS3.png",
-      "05 - Resources/Images/Icons/Corsair.png",
-      "05 - Resources/Images/Icons/Deacon.png",
-      "05 - Resources/Images/Icons/Fizz.png",
-      "05 - Resources/Images/Icons/Flicka.png",
-      "05 - Resources/Images/Icons/Ginger.png",
-      "05 - Resources/Images/Icons/Inko.png",
-      "05 - Resources/Images/Icons/Karashi.png",
-      "05 - Resources/Images/Icons/Maple.png",
-      "05 - Resources/Images/Icons/MrX.png",
-      "05 - Resources/Images/Icons/Mustard.png",
-      "05 - Resources/Images/Icons/Nilla.png",
-      "05 - Resources/Images/Icons/Papaya.png",
-      "05 - Resources/Images/Icons/Pita.png",
-      "05 - Resources/Images/Icons/Pom.png",
-      "05 - Resources/Images/Icons/Pop.png",
-      "05 - Resources/Images/Icons/Rudy.png",
-      "05 - Resources/Images/Icons/Spritzer.png",
-      "05 - Resources/Images/Icons/Taro.png",
-      "05 - Resources/Images/Icons/Tewkes.png",
-      "05 - Resources/Images/Icons/Weiss.png",
-      "05 - Resources/Images/Icons/wulfesh.png",
-      "05 - Resources/Images/Icons/Zola.png"
+    "10 - Resources/Images/Galleries/Esterra": [
+      "10 - Resources/Images/Galleries/Esterra/4b.webp",
+      "10 - Resources/Images/Galleries/Esterra/5fdd66360044a.webp",
+      "10 - Resources/Images/Galleries/Esterra/960px-N%C3%B6rdlingenDanielBlickS%C3%BCden.webp",
+      "10 - Resources/Images/Galleries/Esterra/1200px-Hohokam_cliff_dwelling_%28Montezuma_Castle%29%2C_Arizona.webp",
+      "10 - Resources/Images/Galleries/Esterra/j8UgsJybugp3z2mcfjtcLe.webp",
+      "10 - Resources/Images/Galleries/Esterra/noerdlingen-sehenswuerdigkeiten-01.webp"
     ],
-    "05 - Resources/Images/Icons/Affinties": [
-      "05 - Resources/Images/Icons/Affinties/water.png"
+    "10 - Resources/Images/Icons": [
+      "10 - Resources/Images/Icons/Affinties",
+      "10 - Resources/Images/Icons/Bonbon.png",
+      "10 - Resources/Images/Icons/cafeccinosmall.png",
+      "10 - Resources/Images/Icons/cafelogobig.png",
+      "10 - Resources/Images/Icons/celeste.png",
+      "10 - Resources/Images/Icons/Ched.png",
+      "10 - Resources/Images/Icons/Cherry.png",
+      "10 - Resources/Images/Icons/ClemS3.png",
+      "10 - Resources/Images/Icons/Corsair.png",
+      "10 - Resources/Images/Icons/Deacon.png",
+      "10 - Resources/Images/Icons/Fizz.png",
+      "10 - Resources/Images/Icons/Flicka.png",
+      "10 - Resources/Images/Icons/Ginger.png",
+      "10 - Resources/Images/Icons/Inko.png",
+      "10 - Resources/Images/Icons/Karashi.png",
+      "10 - Resources/Images/Icons/Maple.png",
+      "10 - Resources/Images/Icons/MrX.png",
+      "10 - Resources/Images/Icons/Mustard.png",
+      "10 - Resources/Images/Icons/Nilla.png",
+      "10 - Resources/Images/Icons/Papaya.png",
+      "10 - Resources/Images/Icons/Pita.png",
+      "10 - Resources/Images/Icons/Pom.png",
+      "10 - Resources/Images/Icons/Pop.png",
+      "10 - Resources/Images/Icons/Rudy.png",
+      "10 - Resources/Images/Icons/Spritzer.png",
+      "10 - Resources/Images/Icons/Taro.png",
+      "10 - Resources/Images/Icons/Tewkes.png",
+      "10 - Resources/Images/Icons/Weiss.png",
+      "10 - Resources/Images/Icons/wulfesh.png",
+      "10 - Resources/Images/Icons/Zola.png"
     ],
-    "05 - Resources/Images/Infographics": [
-      "05 - Resources/Images/Infographics/elementals.png",
-      "05 - Resources/Images/Infographics/trinity.png"
+    "10 - Resources/Images/Icons/Affinties": [
+      "10 - Resources/Images/Icons/Affinties/water.png"
     ],
-    "05 - Resources/Settings": [
-      "05 - Resources/Settings/style-settings.json"
+    "10 - Resources/Images/Infographics": [
+      "10 - Resources/Images/Infographics/elementals.png",
+      "10 - Resources/Images/Infographics/trinity.png"
     ],
-    "05 - Resources/Templates": [
-      "05 - Resources/Templates/affinity (wip).md",
-      "05 - Resources/Templates/character (wip).md",
-      "05 - Resources/Templates/group.md",
-      "05 - Resources/Templates/location.md"
+    "10 - Resources/Settings": [
+      "10 - Resources/Settings/style-settings.json"
     ],
-    "05 - Resources/Testing": [
-      "05 - Resources/Testing/archive",
-      "05 - Resources/Testing/Da Colors.md",
-      "05 - Resources/Testing/Test Zone.md",
-      "05 - Resources/Testing/testzone...2!.md",
-      "05 - Resources/Testing/What's This.md"
+    "10 - Resources/Templates": [
+      "10 - Resources/Templates/affinity (wip).md",
+      "10 - Resources/Templates/character (wip).md",
+      "10 - Resources/Templates/group.md",
+      "10 - Resources/Templates/location.md"
     ],
-    "05 - Resources/Testing/archive": [
-      "05 - Resources/Testing/archive/character (old).md",
-      "05 - Resources/Testing/archive/character-v2.md",
-      "05 - Resources/Testing/archive/character-v3.md",
-      "05 - Resources/Testing/archive/character-v4.md"
+    "10 - Resources/Testing": [
+      "10 - Resources/Testing/archive",
+      "10 - Resources/Testing/Da Colors.md",
+      "10 - Resources/Testing/Test Zone.md",
+      "10 - Resources/Testing/testzone...2!.md",
+      "10 - Resources/Testing/What's This.md"
     ],
-    "06 - Guides & To-Do": [
-      "06 - Guides & To-Do/00 - To Do.md",
-      "06 - Guides & To-Do/01 - How to Use.md",
-      "06 - Guides & To-Do/02 - Tagging System.md",
-      "06 - Guides & To-Do/98 - Styling.md",
-      "06 - Guides & To-Do/98.5 Cards.md",
-      "06 - Guides & To-Do/99 - Github Pages.md"
+    "10 - Resources/Testing/archive": [
+      "10 - Resources/Testing/archive/Affinities (old).md",
+      "10 - Resources/Testing/archive/character (old).md",
+      "10 - Resources/Testing/archive/character-v2.md",
+      "10 - Resources/Testing/archive/character-v3.md",
+      "10 - Resources/Testing/archive/character-v4.md"
+    ],
+    "11 - Guides & To-Do": [
+      "11 - Guides & To-Do/00 - To Do.md",
+      "11 - Guides & To-Do/01 - How to Use.md",
+      "11 - Guides & To-Do/02 - Tagging System.md",
+      "11 - Guides & To-Do/98 - Styling.md",
+      "11 - Guides & To-Do/98.5 Cards.md",
+      "11 - Guides & To-Do/99 - Github Pages.md"
     ],
     "docs": [
       "docs/00-wiki",
@@ -222,6 +200,7 @@
       "docs/index.html"
     ],
     "docs/00-wiki": [
+      "docs/00-wiki/the-gauntlet.html",
       "docs/00-wiki/characters",
       "docs/00-wiki/groups",
       "docs/00-wiki/history",
@@ -230,14 +209,22 @@
       "docs/00-wiki/characters.html",
       "docs/00-wiki/the-dragon's-gauntlet.html"
     ],
-    "docs/00-wiki/characters": [],
-    "docs/00-wiki/groups": [],
+    "docs/00-wiki/characters": [
+      "docs/00-wiki/characters/characters.html"
+    ],
+    "docs/00-wiki/groups": [
+      "docs/00-wiki/groups/keepers-of-the-lily.html",
+      "docs/00-wiki/groups/temple-of-lux.html"
+    ],
     "docs/00-wiki/history": [
       "docs/00-wiki/history/the-esterran-rebellion.html",
       "docs/00-wiki/history/the-old-world.html",
       "docs/00-wiki/history/the-remnants-of-humanity.html"
     ],
     "docs/00-wiki/locations": [
+      "docs/00-wiki/locations/cirrane.html",
+      "docs/00-wiki/locations/esterra.html",
+      "docs/00-wiki/locations/moraida.html",
       "docs/00-wiki/locations/locations.html"
     ],
     "docs/00-wiki/magic": [
@@ -245,6 +232,12 @@
       "docs/00-wiki/magic/magic.html"
     ],
     "docs/00-wiki/magic/affinities": [
+      "docs/00-wiki/magic/affinities/air.html",
+      "docs/00-wiki/magic/affinities/body.html",
+      "docs/00-wiki/magic/affinities/earth.html",
+      "docs/00-wiki/magic/affinities/mind.html",
+      "docs/00-wiki/magic/affinities/soul.html",
+      "docs/00-wiki/magic/affinities/water.html",
       "docs/00-wiki/magic/affinities/fire.html"
     ],
     "docs/01-stories": [
@@ -273,23 +266,28 @@
       "docs/02-timelines/00-example-timeline.html"
     ],
     "docs/03-notes": [
+      "docs/03-notes/name-vomit.html",
       "docs/03-notes/locations",
       "docs/03-notes/affinities-(old).html",
       "docs/03-notes/magic-notes.html",
       "docs/03-notes/sports-notes.html"
     ],
     "docs/03-notes/locations": [
+      "docs/03-notes/locations/cirrane-notes.html",
+      "docs/03-notes/locations/esterra-notes.html",
       "docs/03-notes/locations/cirrane.html",
       "docs/03-notes/locations/esterra.html",
       "docs/03-notes/locations/other-locations.html"
     ],
     "docs/05-resources": [
+      "docs/05-resources/tables.html",
       "docs/05-resources/bases",
       "docs/05-resources/images",
       "docs/05-resources/templates",
       "docs/05-resources/testing"
     ],
     "docs/05-resources/bases": [
+      "docs/05-resources/bases/lists.base",
       "docs/05-resources/bases/groups.base",
       "docs/05-resources/bases/groups.html"
     ],
@@ -299,12 +297,24 @@
       "docs/05-resources/images/icons",
       "docs/05-resources/images/infographics"
     ],
-    "docs/05-resources/images/banners": [],
+    "docs/05-resources/images/banners": [
+      "docs/05-resources/images/banners/air.png",
+      "docs/05-resources/images/banners/body.png",
+      "docs/05-resources/images/banners/earth.png",
+      "docs/05-resources/images/banners/fire.png",
+      "docs/05-resources/images/banners/mind.png",
+      "docs/05-resources/images/banners/pasted-image-20251014175355.png",
+      "docs/05-resources/images/banners/soul.png",
+      "docs/05-resources/images/banners/water.jpg"
+    ],
     "docs/05-resources/images/galleries": [
       "docs/05-resources/images/galleries/cirrane",
       "docs/05-resources/images/galleries/esterra"
     ],
     "docs/05-resources/images/galleries/cirrane": [
+      "docs/05-resources/images/galleries/cirrane/cirrane.png",
+      "docs/05-resources/images/galleries/cirrane/cirrane2.png",
+      "docs/05-resources/images/galleries/cirrane/mountainwater.png",
       "docs/05-resources/images/galleries/cirrane/cirrane.html",
       "docs/05-resources/images/galleries/cirrane/cirrane2.html",
       "docs/05-resources/images/galleries/cirrane/mountainwater.html"
@@ -316,14 +326,33 @@
       "docs/05-resources/images/galleries/esterra/noerdlingen-sehenswuerdigkeiten-01.webp"
     ],
     "docs/05-resources/images/icons": [
+      "docs/05-resources/images/icons/affinties",
+      "docs/05-resources/images/icons/celeste.png",
       "docs/05-resources/images/icons/cafelogobig.png"
     ],
+    "docs/05-resources/images/icons/affinties": [
+      "docs/05-resources/images/icons/affinties/water.png"
+    ],
     "docs/05-resources/images/infographics": [],
-    "docs/05-resources/templates": [],
+    "docs/05-resources/templates": [
+      "docs/05-resources/templates/affinity-(wip).html",
+      "docs/05-resources/templates/character-(wip).html",
+      "docs/05-resources/templates/group.html",
+      "docs/05-resources/templates/location.html"
+    ],
     "docs/05-resources/testing": [
+      "docs/05-resources/testing/da-colors.html",
+      "docs/05-resources/testing/test-zone.html",
+      "docs/05-resources/testing/testzone...2!.html",
+      "docs/05-resources/testing/what's-this.html",
       "docs/05-resources/testing/archive"
     ],
-    "docs/05-resources/testing/archive": [],
+    "docs/05-resources/testing/archive": [
+      "docs/05-resources/testing/archive/character-(old).html",
+      "docs/05-resources/testing/archive/character-v2.html",
+      "docs/05-resources/testing/archive/character-v3.html",
+      "docs/05-resources/testing/archive/character-v4.html"
+    ],
     "docs/site-lib": [
       "docs/site-lib/fonts",
       "docs/site-lib/html",
@@ -366,13 +395,38 @@
       "docs/site-lib/scripts/webpage.js"
     ],
     "docs/site-lib/styles": [
+      "docs/site-lib/styles/other-plugins.css",
       "docs/site-lib/styles/global-variable-styles.css",
       "docs/site-lib/styles/main-styles.css",
       "docs/site-lib/styles/obsidian.css",
       "docs/site-lib/styles/snippets.css",
       "docs/site-lib/styles/supported-plugins.css",
       "docs/site-lib/styles/theme.css"
-    ]
+    ],
+    "06 - Characters": [
+      "06 - Characters/Characters.md"
+    ],
+    "07 - Groups": [
+      "07 - Groups/Keepers of the Lily.md",
+      "07 - Groups/Temple of Lux.md"
+    ],
+    "08 - Locations": [
+      "08 - Locations/Cirrane.md",
+      "08 - Locations/Esterra.md",
+      "08 - Locations/Moraida.md"
+    ],
+    "09 - Notes": [
+      "09 - Notes/Locations",
+      "09 - Notes/Sports Notes.md",
+      "09 - Notes/Magic Notes.md",
+      "09 - Notes/Name vomit.md"
+    ],
+    "09 - Notes/Locations": [
+      "09 - Notes/Locations/Cirrane Notes.md",
+      "09 - Notes/Locations/Esterra Notes.md",
+      "09 - Notes/Locations/Other Locations.md"
+    ],
+    "05 - The Gauntlet": []
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting",

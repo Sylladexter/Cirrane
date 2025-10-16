@@ -15,11 +15,11 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "00 - Wiki/Characters",
+      "folder": "05 - Characters",
       "template": "05 - Resources/Templates/character.md"
     },
     {
-      "folder": "00 - Wiki/Groups",
+      "folder": "06 - Groups",
       "template": "05 - Resources/Templates/group.md"
     },
     {
@@ -27,7 +27,7 @@
       "template": ""
     },
     {
-      "folder": "00 - Wiki/Magic/Affinities",
+      "folder": "03 - Magic/Affinities",
       "template": "05 - Resources/Templates/affinity (wip).md"
     }
   ],
