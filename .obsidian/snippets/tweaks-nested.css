@@ -494,31 +494,30 @@ span[alt*="affinities"] {
       /* image covers */
       th {
         height: 150px;
-        max-width:50px;
-        &:nth-child(1) img {object-fit: cover;
+        width:50px;
         padding:0;
-      }
-        /* &:nth-child(2) {background: ;}
-        &:nth-child(3) {background: ;}
-        &:nth-child(4) {background: ;}
-        &:nth-child(5) {background: ;}
-        &:nth-child(6) {background: ;}
-        &:nth-child(7) {background: ;} */
-      }
+
+        img {object-fit: cover;}
+        }
        
+
+      tr{
+        display:flex;
+        width:100%;}
 
       tr:first-child {
         a {color: var(--text-normal);}
 
-      td {
-        &:nth-child(1) {background: var(--color-water);}
-        &:nth-child(2) {background: var(--color-fire);}
-        &:nth-child(3) {background: var(--color-air);}
-        &:nth-child(4) {background: var(--color-earth);}
-        &:nth-child(5) {background: var(--color-body);}
-        &:nth-child(6) {background: var(--color-mind);}
-        &:nth-child(7) {background: var(--color-soul);}
-      }
+        td {
+          
+          &:nth-child(1) {background: var(--color-water);}
+          &:nth-child(2) {background: var(--color-fire);}
+          &:nth-child(3) {background: var(--color-air);}
+          &:nth-child(4) {background: var(--color-earth);}
+          &:nth-child(5) {background: var(--color-body);}
+          &:nth-child(6) {background: var(--color-mind);}
+          &:nth-child(7) {background: var(--color-soul);}
+        }
     }
   }
 }
