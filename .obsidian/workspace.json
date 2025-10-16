@@ -37,8 +37,7 @@
               "title": "Magic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,10 +257,10 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "911f25f13ff39e79",
+  "active": "3f2e2b4c4af344fb",
   "lastOpenFiles": [
-    "05 - Resources/Tables.md",
     "00 - Wiki/Magic/Magic.md",
+    "05 - Resources/Tables.md",
     "05 - Resources/Images/Banners/air.png",
     "05 - Resources/Images/Banners/cafebg.png",
     "05 - Resources/Images/Banners/fire.png",

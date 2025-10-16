@@ -1,4 +1,4 @@
-|![[water.jpg]]|![[fire.png]]|![[air.png]]|           |          |          |          |
+|![[water.jpg]]|![[fire.png]]|![[air.png]]|    [[earth.png]]       |          |          |          |
 |:--------------:|:-------------:|:--------:|:---------:|:--------:|:--------:|:--------:|
 |   [[Water]]    |   [[Fire]]    | [[Air]]  | [[Earth]] | [[Body]] | [[Mind]] | [[Soul]] |
 |      ice       |               |electric|   flora   |   form   |          |   aura   |

@@ -489,7 +489,7 @@ span[alt*="affinities"] {
         padding:0;
         margin:0;
 
-      table {width:100%;}   
+      table {width:100%;table-layout: fixed;gap:.5em;}   
     
       /* image covers */
       th {
@@ -497,13 +497,11 @@ span[alt*="affinities"] {
         width:50px;
         padding:0;
 
-        img {object-fit: cover;}
+        img {
+          height:200px;
+          object-fit: cover;
         }
-       
-
-      tr{
-        display:flex;
-        width:100%;}
+        }
 
       tr:first-child {
         a {color: var(--text-normal);}
