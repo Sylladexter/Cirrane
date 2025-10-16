@@ -489,13 +489,14 @@ span[alt*="affinities"] {
         padding:0;
         margin:0;
 
-      table {width:100%;}    
-
+      table {width:100%;}   
+    
       /* image covers */
       th {
-        height: 200px;
-        &:nth-child(1) {background-image:url('app://obsidian.md/05 - Resources/Images/Banners/cafebg.png');
-        background-size:cover;
+        height: 150px;
+        max-width:50px;
+        &:nth-child(1) img {object-fit: cover;
+        padding:0;
       }
         /* &:nth-child(2) {background: ;}
         &:nth-child(3) {background: ;}

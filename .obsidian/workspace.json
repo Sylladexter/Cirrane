@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "Magic"
             }
+          },
+          {
+            "id": "911f25f13ff39e79",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "05 - Resources/Images/Banners/cafebg.png"
+              },
+              "icon": "lucide-image",
+              "title": "cafebg"
+            }
           }
         ]
       }
@@ -245,11 +257,14 @@
   },
   "active": "3f2e2b4c4af344fb",
   "lastOpenFiles": [
+    "05 - Resources/Tables.md",
+    "05 - Resources/Images/Banners/cafebg.png",
+    "05 - Resources/Images/Banners/water.jpg",
+    "05 - Resources/Images/water.jpg",
     "00 - Wiki/Magic/Magic.md",
     "00 - Wiki/The Gauntlet.md",
     "00 - Wiki/Characters.md",
     "00 - Wiki/Locations/Moraida.md",
-    "05 - Resources/Tables.md",
     "05 - Resources/Testing/What's This.md",
     "05 - Resources/Testing/Test Zone.md",
     "05 - Resources/Testing/Untitled",
@@ -257,7 +272,6 @@
     "00 - Wiki/Locations/Cirrane.md",
     "Index.md",
     "05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
-    "05 - Resources/Images/Banners/cafebg.png",
     "00 - Wiki/Locations/Region.md",
     "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Characters/Untitled.md",
@@ -278,7 +292,6 @@
     "00 - Wiki/Magic/Affinities/Body (WIP).md",
     "00 - Wiki/Magic/Affinities/Air (WIP).md",
     "00 - Wiki/Magic/Affinities/Fire.md",
-    "00 - Wiki/Magic/Affinities/Earth (wip).md",
     "00 - Wiki/Magic/Affinities/Untitled.base",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
@@ -289,8 +302,6 @@
     "05 - Resources/Images/Icons/cafeccinosmall.png",
     "docs/05-resources/images/icons/cafelogobig.png",
     "docs/site-lib/media/favicon.png",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "Untitled.canvas"
   ]
 }
