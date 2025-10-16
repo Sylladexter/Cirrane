@@ -5,9 +5,9 @@ cssclasses:
   - cards-cover
 ---
 
-> [!empty]
+> [!empty|hide no-border no-padding]
 > 
-> `class: card-img`
+>  `class: card-img`
 > - [![[10 - Resources/Images/Banners/water.jpg]]](Water)
 > 	- [[Water]]
 > - [![[10 - Resources/Images/Banners/fire.png]]](Fire)
@@ -22,3 +22,6 @@ cssclasses:
 > 	- [[Mind]]
 > - [![[10 - Resources/Images/Banners/soul.png]]](Soul)
 > 	- [[Soul]]
+
+^a37886
+

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Magic/Magic.md",
-                "mode": "source",
+                "file": "10 - Resources/Embed Utilities/Cards.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Cards"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Resources/Embed Utilities/Cards.md",
+                "file": "03 - Magic/Magic.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cards"
+              "title": "Magic"
             }
           }
         ],
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 - Resources/Embed Utilities/Cards.md"
+                "file": "03 - Magic/Magic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Cards"
+              "title": "File properties for Magic"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Resources/Embed Utilities/Cards.md",
+                "file": "03 - Magic/Magic.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cards"
+              "title": "Outline of Magic"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "1e57e22557bfe0ec",
   "lastOpenFiles": [
-    "03 - Magic/Magic.md",
     "10 - Resources/Embed Utilities/Cards.md",
+    "03 - Magic/Magic.md",
     "10 - Resources/Embed Utilities",
     "10 - Resources/Embed Utilities.md",
     "11 - Guides & To-Do/98 - Styling.md",

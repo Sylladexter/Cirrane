@@ -122,6 +122,7 @@ body {
 /* Utility Callout */
 .callout {
   &[data-callout-metadata*="hide"] {
+
     background: none!important;
     
     .callout-title {
@@ -134,9 +135,16 @@ body {
     }
   }
 
-  &[data-callout-metadata*="no-border"] .callout-content {
+  &[data-callout-metadata*="no-border"] {
     border: none!important;
+    .callout-content {
+      border: none!important; }
   }
+
+   &[data-callout-metadata*="no-padding"] {
+    padding:0;
+   }
+
 }
 
 /* Section Callout */
@@ -531,6 +539,8 @@ p.card-img {
     } 
   }
 }
+
+
 
 
 
