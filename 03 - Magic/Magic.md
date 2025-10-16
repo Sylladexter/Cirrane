@@ -40,6 +40,8 @@ cssclasses:
 
 ## Affinities
 
+[[Cards#]]
+
 `class: cc-affinity-table`
 | ![[10 - Resources/Images/Banners/water.jpg]] | ![[10 - Resources/Images/Banners/fire.png]] | ![[10 - Resources/Images/Banners/air.png]] | ![[10 - Resources/Images/Banners/earth.png]] | ![[10 - Resources/Images/Banners/body.png]] | ![[10 - Resources/Images/Banners/mind.png]] | ![[10 - Resources/Images/Banners/soul.png]] |
 |:--------------:|:-------------:|:------------:|:--------------:|:-------------:|:-------------:|:-------------:|

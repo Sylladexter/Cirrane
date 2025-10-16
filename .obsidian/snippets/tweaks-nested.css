@@ -448,21 +448,6 @@ p:has(> .l) {
   background: none!important;
 }
 
-
-
-
-
-/* .cm-comment {
-  color: var(--color-base-40);
-} */
-
-
-/* .color-title .inline-title {
-  color: var(--color-red);
-} */
-
-
-
 span[alt*="cc-embed"] {
     padding: 0!important;
     border:none;
@@ -515,5 +500,46 @@ span[alt*="cc-embed"] {
 }
 
   
+p.card-img {
 
+  + ul {
+      gap:0!important;
+      padding:0;
+
+      li {
+
+        padding: 0!important;
+        text-align:center;
+
+        &:nth-child(1) > ul {background: var(--color-water);}
+        &:nth-child(2) > ul {background: var(--color-fire);}
+        &:nth-child(3) > ul {background: var(--color-air);}
+        &:nth-child(4) > ul {background: var(--color-earth);}
+        &:nth-child(5) > ul {background: var(--color-body);}
+        &:nth-child(6) > ul {background: var(--color-mind);}
+        &:nth-child(7) > ul {background: var(--color-soul);}
+      }
+
+    a {
+      font-weight: 700;
+      color: white!important;
+    }
+
+    img {
+      height:200px;
+      object-fit:cover;
+    } 
+  }
+}
+
+
+
+/* .cm-comment {
+  color: var(--color-base-40);
+} */
+
+
+/* .color-title .inline-title {
+  color: var(--color-red);
+} */
 
