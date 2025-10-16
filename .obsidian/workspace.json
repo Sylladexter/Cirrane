@@ -236,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,6 +262,10 @@
   "lastOpenFiles": [
     "00 - Wiki/Magic/Magic.md",
     "05 - Resources/Tables.md",
+    "05 - Resources/Images/Banners/earth.png",
+    "05 - Resources/Images/Banners/body.png",
+    "05 - Resources/Images/Banners/mind.png",
+    "05 - Resources/Images/Banners/soul.png",
     "05 - Resources/Images/Banners/air.png",
     "05 - Resources/Images/Banners/cafebg.png",
     "05 - Resources/Images/Banners/fire.png",
@@ -276,7 +281,6 @@
     "05 - Resources/Testing/testzone...2!.md",
     "00 - Wiki/Locations/Cirrane.md",
     "Index.md",
-    "05 - Resources/Images/Banners/cover-Backgrounds-Anime-Landscape-Download.jpg",
     "00 - Wiki/Locations/Region.md",
     "00 - Wiki/Locations/Region (1).md",
     "00 - Wiki/Characters/Untitled.md",
@@ -291,9 +295,7 @@
     "03 - Notes/Locations/Esterra Notes.md",
     "00 - Wiki/Locations/Esterra.md",
     "00 - Wiki/Magic/Affinities/Water (wip).md",
-    "05 - Resources/Images/Icons/Affinties/water.png",
     "05 - Resources/Images/Icons/Affinties",
-    "05 - Resources/Images/Banners/Pasted image 20251014175355.png",
     "00 - Wiki/Magic/Affinities/Body (WIP).md",
     "00 - Wiki/Magic/Affinities/Air (WIP).md",
     "00 - Wiki/Magic/Affinities/Fire.md",
@@ -303,7 +305,6 @@
     "00 - Wiki/Magic/Affinities/Untitled 1.base",
     "05 - Resources/04 - Roleplay/desktop.ini",
     "docs/index.html",
-    "05 - Resources/Images/Icons/cafelogobig.png",
     "Untitled.canvas"
   ]
 }
