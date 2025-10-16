@@ -3,6 +3,7 @@ tags:
   - magic
   - affinities
   - worldbuilding
+  - table-lines
 cssclasses:
   - bold-accent
 ---
