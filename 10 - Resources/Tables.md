@@ -1,5 +1,5 @@
 
-[![[10 - Resources/Images/Icons/Affinties/water.png]]](Water.md)
+[![[10 - Resources/Images/Icons/Affinities/water.png]]](Water.md)
 
 
 `class: markdown-preview-view, is-readable-line-width, markdown-preview-size, list-cards`

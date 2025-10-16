@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76f9976672f5b3e6",
+        "id": "604bfbedf01cddc1",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2e2b4c4af344fb",
+            "id": "bed820954a860614",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "WIPs.base",
-                "viewName": "In Progress"
+                "file": "11 - Guides & To-Do/98.5 Cards.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "WIPs"
+              "icon": "lucide-file",
+              "title": "98.5 Cards"
             }
           }
         ]
@@ -73,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,10 +96,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIPs.base"
+                "file": "11 - Guides & To-Do/98.5 Cards.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for WIPs"
+              "title": "File properties for 98.5 Cards"
             }
           },
           {
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPs.base",
+                "file": "11 - Guides & To-Do/98.5 Cards.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WIPs"
+              "title": "Outline of 98.5 Cards"
             }
           },
           {
@@ -187,19 +188,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "78883c3022a9ecfa",
-            "type": "leaf",
-            "state": {
-              "type": "peerdraft-share-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "29fb11ad167bf4b0",
@@ -253,10 +244,16 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "cbf04f7969bc3c11",
+  "active": "bed820954a860614",
   "lastOpenFiles": [
+    "11 - Guides & To-Do/98 - Styling.md",
+    "11 - Guides & To-Do/02 - Tagging System.md",
+    "11 - Guides & To-Do/98.5 Cards.md",
     "Index.md",
     "11 - Guides & To-Do/01 - How to Use.md",
+    "11 - Guides & To-Do/00 - To Do.md",
+    "WIPs.base",
+    "00 - Wiki/Moraida.md",
     "09 - Notes/Sports Notes.md",
     "05 - The Gauntlet",
     "09 - Notes/Locations/Other Locations.md",
@@ -270,7 +267,6 @@
     "10 - Resources/Templates/affinity (wip).md",
     "03 - Magic/Magic.md",
     "01 - Stories/The Journalist/Script & Scenes/Script.md",
-    "WIPs.base",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/05-resources/images/galleries/cirrane/mountainwater.png",
@@ -296,11 +292,6 @@
     "docs/03-notes/locations/cirrane-notes.html",
     "10 - Resources/Testing/archive/character-v4.md",
     "10 - Resources/Testing/archive/character-v3.md",
-    "10 - Resources/Testing/archive/character-v2.md",
-    "02 - Timelines/00 - Example Timeline.md",
-    "04 - History/The Remnants of Humanity.md",
-    "10 - Resources/Testing/archive/character (old).md",
-    "10 - Resources/Testing/Da Colors.md",
     "Untitled.canvas"
   ]
 }
