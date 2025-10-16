@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.hasTag("character")
+views:
+  - type: cards
+    name: major
+    order:
+      - file.name

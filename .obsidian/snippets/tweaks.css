@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 /* Use nest your css to convert nested before loading
 https://nestyourcss.com/ */
 
@@ -18,30 +20,129 @@ https://nestyourcss.com/ */
 }
 
 /* ***************************************
-  Utils
+  Global
 **************************************** */
-
-/* *******************
-  Color 
-******************** */
-
-/* comments */
-.cm-comment {
-    color: var(--color-base-40);
+body p {
+    font-weight: var(--font-light);
 }
 
-/*  */
-.color-title .inline-title {
-    color: var(--color-red);
+/* -------------------
+  Headings + Hr
+-------------------- */
+:is(h1, h2, h3, .inline-title) {
+    text-transform: uppercase;
+    margin-bottom: .7em;
 }
 
-/* *******************
-  Zero out
-******************** */
+:is(h1, h2, h3, .inline-title)::before {
+    content: "❙ ";
+    color: var(--text-accent);
+}
 
-/* *******************
+/* Checks for sibling */
+:is(.el-h1, .el-h2, .el-h3, .el-h4, .el-h5):has(+ .el-h6) :is(h1, h2, h3, h4, h5) {
+    margin-bottom: 0;
+}
+
+:is(.el-h1, .el-h2, .el-h3, .el-h4, .el-h5)  + .el-p p {
+    margin: .1em auto;
+}
+
+h6 {
+    margin: .3em auto .7em;
+    text-transform: uppercase;
+}
+
+.inline-title {
+    font-size: var(--font-ui-large);
+}
+
+.inline-title::before {
+    content: '✦ ';
+}
+
+hr {
+    margin-top: 0;
+}
+
+/* -------------------
+  Color
+-------------------- */
+body {
+    --color-water: #55cdf1;
+    --color-fire: #e75858;
+    --color-air: #c3c2b5;
+    --color-earth: #93b35b;
+    --color-body: #dd7e6b;
+    --color-mind: #a64d79;
+    --color-soul: #674ea7;
+}
+
+.lable, .l {
+    color: var(--text-accent);
+}
+
+.accent {
+    --color-accent: var(--text-accent);
+}
+
+.accent.red {
+    --text-accent: var(--color-red);
+}
+
+.accent.orange {
+    --text-accent: var(--color-orange);
+}
+
+.accent.yellow {
+    --text-accent: var(--color-yellow);
+}
+
+.accent.green {
+    --text-accent: var(--color-green);
+}
+
+.accent.blue {
+    --text-accent: var(--color-blue);
+}
+
+.accent.purple {
+    --text-accent: var(--color-purple);
+}
+
+.accent.water {
+    --text-accent: var(--color-water);
+}
+
+.accent.fire {
+    --text-accent: var(--color-fire);
+}
+
+.accent.air {
+    --text-accent: var(--color-air);
+}
+
+.accent.earth {
+    --text-accent: var(--color-earth);
+}
+
+.accent.body {
+    --text-accent: var(--color-body);
+}
+
+.accent.mind {
+    --text-accent: var(--color-mind);
+}
+
+.accent.soul {
+    --text-accent: var(--color-soul);
+}
+
+/* -------------------
   Callouts
-******************** */
+-------------------- */
+
+/* Utility Callout */
 .callout[data-callout-metadata*="hide"] {
     background: none!important;
 }
@@ -59,6 +160,16 @@ https://nestyourcss.com/ */
     border: none!important;
 }
 
+/* Section Callout */
+.callout[data-callout="section"] {
+
+    background: var(--bg3);
+}
+
+.callout[data-callout="section"] .callout-title {
+    display: none;
+}
+
 /* Show inline dv variables as normal text */
 .dataview[data-dv-key="summary"] {
     color: var(--text-normal);
@@ -66,25 +177,26 @@ https://nestyourcss.com/ */
     text-decoration: none;
 }
 
+/* -------------------
+  Zero Out
+-------------------- */
+
 /* ***************************************
   Affinities
 **************************************** */
-.affinities {
-    /* removes padding */
+.affinities .callout[data-callout="col"] .callout-content {
+    padding: 0;
 }
 
 .affinities .columnParent:has(.callout[data-callout="affinity"]) {
     padding-left: 0;
-}
-
-.affinities {
-
-    /* affinity */
+    align-items: space-between;
 }
 
 .affinities .callout[data-callout="affinity"] {
     background: none;
     border: none;
+    padding: 0;
 }
 
 .affinities .callout[data-callout="affinity"] .callout-content {
@@ -95,9 +207,22 @@ https://nestyourcss.com/ */
     display: none;
 }
 
+.affinities .callout[data-callout="affinity"] p {
+    margin: 0;
+}
+
 .affinities .callout[data-callout="affinity"] .v {
     color: var(--text-muted);
     text-align: right;
+    margin: 0;
+}
+
+.affinities strong {
+    color: var(--text-accent);
+}
+
+.affinities blockquote p {
+    color: var(--text-normal);
 }
 
 /* ***************************************
@@ -152,6 +277,14 @@ https://nestyourcss.com/ */
 /* ***************************************
   Infobox/Labels Tweaks
 **************************************** */
+.callout[data-callout="infobox"] h1 {
+    font-weight: var(--font-light);
+}
+
+.callout[data-callout="infobox"] h1::before {
+    content: none;
+}
+
 p:has(> .l) {
     /* Evenly space elements */
     display: flex;
@@ -159,22 +292,22 @@ p:has(> .l) {
     font-size: .9em;
 }
 
-p:has(> .l) > span {
+p:has(> .l)  > span {
     margin: .2em 0;
 }
 
-p:has(> .l) > .l {
+p:has(> .l)  > .l {
     display: inline-block;
-    width: 50%; /* force two per row */
+    width: 35%; /* force two per row */
     margin: 0;
 
     /* Value align right */
 }
 
-p:has(> .l) > .l + * {
+p:has(> .l)  > .l  + * {
     color: var(--text-muted);
     display: inline-block;
-    width: 50%;
+    width: 65%;
     text-align: right;
 }
 
@@ -182,14 +315,9 @@ p:has(> .l) > .l + * {
   Character Pages
 **************************************** */
 
-/* Title */
 .chara .inline-title {
-    color: var(--color-red);
-}
-
-.chara {
-
-    /* Blockquote */
+    max-width: calc(100% - var(--ic-width));
+    text-align: center;
 }
 
 .chara .callout[data-callout="blockquote"] {
@@ -208,12 +336,6 @@ p:has(> .l) > .l + * {
     color: var(--text-accent);
 }
 
-.chara {
-
-* *******************
-    Relationships
-  ******************** */
-}
 
 .chara .callout[data-callout="col"] {
     margin: 0 auto;
@@ -261,7 +383,7 @@ p:has(> .l) > .l + * {
 /* ****************************************
   Bases
 **************************************** */
-.bases-embed[alt~="no-toolbar"] > .bases-view, .bases-embed[alt~="no-toolbar"] .bases-tr {
+.bases-embed[alt~="no-toolbar"]  > .bases-view, .bases-embed[alt~="no-toolbar"] .bases-tr {
     border: none!important;
     box-shadow: none!important;
 }
@@ -298,4 +420,73 @@ p:has(> .l) > .l + * {
 /* No background */
 .home .callout[data-callout-metadata="cc-nav"] {
     background: none!important;
+}
+
+/* .cm-comment {
+  color: var(--color-base-40);
+} */
+
+/* .color-title .inline-title {
+  color: var(--color-red);
+} */
+span[alt*="cc-embed"] {
+    padding: 0!important;
+    border: none;
+}
+
+span[alt*="cc-embed"] .markdown-preview-view, span[alt*="cc-embed"] .markdown-preview-section {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+span[alt*="cc-embed"] .markdown-embed-link {
+    display: none;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table th {
+    height: 150px;
+    width: 50px;
+    padding: 0;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table th img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child a {
+    color: var(--text-normal);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(1) {
+    background: var(--color-water);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(2) {
+    background: var(--color-fire);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(3) {
+    background: var(--color-air);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(4) {
+    background: var(--color-earth);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(5) {
+    background: var(--color-body);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(6) {
+    background: var(--color-mind);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table tr:first-child td:nth-child(7) {
+    background: var(--color-soul);
 }

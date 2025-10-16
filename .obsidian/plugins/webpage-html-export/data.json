@@ -220,8 +220,28 @@
     "siteName": "Cirrane",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [],
-    "includeStyleCssIds": [],
+    "includePluginCss": [
+      "markdown-timeline",
+      "dataview",
+      "obsidian-columns",
+      "home-tab",
+      "tabs",
+      "obsidian-image-gallery",
+      "pexels-banner",
+      "manual-sorting",
+      "explorer-hider"
+    ],
+    "includeStyleCssIds": [
+      "markdown-timeline",
+      "dataview",
+      "obsidian-columns",
+      "home-tab",
+      "tabs",
+      "obsidian-image-gallery",
+      "pexels-banner",
+      "manual-sorting",
+      "explorer-hider"
+    ],
     "autoDisposeWebpages": true
   },
   "logLevel": "warning",
