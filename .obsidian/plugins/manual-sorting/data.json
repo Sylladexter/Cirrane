@@ -1,6 +1,7 @@
 {
   "customFileOrder": {
     "/": [
+      "WIPs.base",
       "00 - Wiki",
       "01 - Stories",
       "02 - Timelines",
@@ -43,13 +44,13 @@
       "00 - Wiki/Magic/Magic.md"
     ],
     "00 - Wiki/Magic/Affinities": [
-      "00 - Wiki/Magic/Affinities/Air (WIP).md",
-      "00 - Wiki/Magic/Affinities/Body (WIP).md",
-      "00 - Wiki/Magic/Affinities/Earth (wip).md",
+      "00 - Wiki/Magic/Affinities/Air.md",
+      "00 - Wiki/Magic/Affinities/Body.md",
+      "00 - Wiki/Magic/Affinities/Earth.md",
       "00 - Wiki/Magic/Affinities/Fire.md",
-      "00 - Wiki/Magic/Affinities/Mind (wip).md",
-      "00 - Wiki/Magic/Affinities/Soul (wip).md",
-      "00 - Wiki/Magic/Affinities/Water (wip).md"
+      "00 - Wiki/Magic/Affinities/Mind.md",
+      "00 - Wiki/Magic/Affinities/Soul.md",
+      "00 - Wiki/Magic/Affinities/Water.md"
     ],
     "01 - Stories": [
       "01 - Stories/The Curse",

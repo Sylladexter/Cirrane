@@ -4,6 +4,7 @@ cssclasses:
   - affinities
   - accent
   - air
+  - status/in-progress
 ---
 
 ---

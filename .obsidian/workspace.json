@@ -11,30 +11,13 @@
             "id": "3f2e2b4c4af344fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "05 - Resources/Tables.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "WIPs.base",
+                "viewName": "In Progress"
               },
-              "icon": "lucide-file",
-              "title": "Tables"
-            }
-          },
-          {
-            "id": "911f25f13ff39e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Wiki/Magic/Magic.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic"
+              "icon": "lucide-table",
+              "title": "WIPs"
             }
           }
         ]
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:status/in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,10 +94,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05 - Resources/Templates/character.md"
+                "file": "WIPs.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for character"
+              "title": "File properties for WIPs"
             }
           },
           {
@@ -204,8 +187,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "29fb11ad167bf4b0",
@@ -260,8 +242,19 @@
   },
   "active": "3f2e2b4c4af344fb",
   "lastOpenFiles": [
-    "00 - Wiki/Magic/Magic.md",
+    "00 - Wiki/Magic/Affinities/Air.md",
+    "WIPs.base",
+    "00 - Wiki/Magic/Affinities/Body.md",
+    "00 - Wiki/Magic/Affinities/Earth.md",
+    "00 - Wiki/Magic/Affinities/Fire.md",
+    "00 - Wiki/Magic/Affinities/Water.md",
     "05 - Resources/Tables.md",
+    "00 - Wiki/Magic/Affinities/Untitled.base",
+    "00 - Wiki/Magic/Affinities/Untitled 1.base",
+    "00 - Wiki/Magic/Affinities/Soul.md",
+    "00 - Wiki/Magic/Affinities/Mind.md",
+    "06 - Guides & To-Do/02 - Tagging System.md",
+    "00 - Wiki/Magic/Magic.md",
     "05 - Resources/Images/Banners/earth.png",
     "05 - Resources/Images/Banners/body.png",
     "05 - Resources/Images/Banners/mind.png",
@@ -289,22 +282,11 @@
     "05 - Resources/Templates/character (wip).md",
     "05 - Resources/Testing/Da Colors.md",
     "Cirrane 1.md",
-    "Cirrane.md",
     "Tags",
-    "06 - Guides & To-Do/99 - Github Pages.md",
-    "03 - Notes/Locations/Esterra Notes.md",
-    "00 - Wiki/Locations/Esterra.md",
-    "00 - Wiki/Magic/Affinities/Water (wip).md",
     "05 - Resources/Images/Icons/Affinties",
-    "00 - Wiki/Magic/Affinities/Body (WIP).md",
-    "00 - Wiki/Magic/Affinities/Air (WIP).md",
-    "00 - Wiki/Magic/Affinities/Fire.md",
-    "00 - Wiki/Magic/Affinities/Untitled.base",
     "00 - Wiki/Magic/Affinities/Untitled (1).base",
     "00 - Wiki/Magic/Affinities/Untitled 1 (1).base",
-    "00 - Wiki/Magic/Affinities/Untitled 1.base",
     "05 - Resources/04 - Roleplay/desktop.ini",
-    "docs/index.html",
     "Untitled.canvas"
   ]
 }

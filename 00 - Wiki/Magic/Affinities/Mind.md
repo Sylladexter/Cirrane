@@ -4,6 +4,8 @@ cssclasses:
   - affinities
   - accent
   - mind
+tags:
+  - status/in-progress
 ---
 
 ---

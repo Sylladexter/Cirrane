@@ -53,52 +53,10 @@
         }
       ],
       [
-        "00 - Wiki/Magic/Affinities/Air (WIP).md",
-        {
-          "shareId": "889fe392-d300-4c59-bfba-9c4e79a37a93",
-          "persistenceId": "07a359c9-38eb-4b63-b035-e2a7de0a27ac"
-        }
-      ],
-      [
-        "00 - Wiki/Magic/Affinities/Earth (wip).md",
-        {
-          "shareId": "5a35cb38-a808-47e3-80c3-260f5fa19b8c",
-          "persistenceId": "bcc8b85f-4b96-4638-9ee6-973309ccbd59"
-        }
-      ],
-      [
-        "00 - Wiki/Magic/Affinities/Body (WIP).md",
-        {
-          "shareId": "49e82e23-62e8-4054-9b17-6b4004f4e655",
-          "persistenceId": "38f0ad87-be5c-4c8b-91fd-e6482163c129"
-        }
-      ],
-      [
         "00 - Wiki/Magic/Affinities/Fire.md",
         {
           "shareId": "9e838afe-98ff-4ea2-a587-9eba4b83df1f",
           "persistenceId": "0edc6f74-f5ea-47ee-a0c5-2eb2065c127c"
-        }
-      ],
-      [
-        "00 - Wiki/Magic/Affinities/Mind (wip).md",
-        {
-          "shareId": "03a732aa-6b04-4a55-985a-19f4b80420b0",
-          "persistenceId": "0b85c7f0-fd18-406b-a9a4-f4cda35846fd"
-        }
-      ],
-      [
-        "00 - Wiki/Magic/Affinities/Soul (wip).md",
-        {
-          "shareId": "eb133cb2-8604-4b68-b5ad-ad745c4bb450",
-          "persistenceId": "c6429614-6a60-4a81-afdd-3cfd3e08aebd"
-        }
-      ],
-      [
-        "00 - Wiki/Magic/Affinities/Water (wip).md",
-        {
-          "shareId": "953cbf48-9928-4a68-b8dc-c6c757d92528",
-          "persistenceId": "a4f394b3-5003-466c-880d-0b2a304e1217"
         }
       ],
       [
@@ -386,6 +344,48 @@
         {
           "shareId": "669c50c8-9671-4ef2-9e3f-11a2b372ca8c",
           "persistenceId": "688946fb-2587-4faa-aa11-bc70b993752d"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Air.md",
+        {
+          "shareId": "889fe392-d300-4c59-bfba-9c4e79a37a93",
+          "persistenceId": "07a359c9-38eb-4b63-b035-e2a7de0a27ac"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Body.md",
+        {
+          "shareId": "49e82e23-62e8-4054-9b17-6b4004f4e655",
+          "persistenceId": "38f0ad87-be5c-4c8b-91fd-e6482163c129"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Earth.md",
+        {
+          "shareId": "5a35cb38-a808-47e3-80c3-260f5fa19b8c",
+          "persistenceId": "bcc8b85f-4b96-4638-9ee6-973309ccbd59"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Water.md",
+        {
+          "shareId": "953cbf48-9928-4a68-b8dc-c6c757d92528",
+          "persistenceId": "a4f394b3-5003-466c-880d-0b2a304e1217"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Soul.md",
+        {
+          "shareId": "eb133cb2-8604-4b68-b5ad-ad745c4bb450",
+          "persistenceId": "c6429614-6a60-4a81-afdd-3cfd3e08aebd"
+        }
+      ],
+      [
+        "00 - Wiki/Magic/Affinities/Mind.md",
+        {
+          "shareId": "03a732aa-6b04-4a55-985a-19f4b80420b0",
+          "persistenceId": "0b85c7f0-fd18-406b-a9a4-f4cda35846fd"
         }
       ]
     ],

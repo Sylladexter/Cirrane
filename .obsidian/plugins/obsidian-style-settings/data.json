@@ -123,5 +123,6 @@
   "minimal-style@@blockquote-border-thickness": 1,
   "minimal-style@@blockquote-font-style": "normal",
   "minimal-style@@heading-spacing": "1em",
-  "minimal-style@@p-spacing": "1.3rem"
+  "minimal-style@@p-spacing": "1.3rem",
+  "minimal-style@@zoom-off": true
 }

@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "05 - Resources/Tables.md",
-      "timestamp": 1760619730378
+      "filepath": "Untitled.base",
+      "timestamp": 1760622959593
     },
     {
-      "filepath": "00 - Wiki/Magic/Magic.md",
-      "timestamp": 1760619722817
+      "filepath": "00 - Wiki/Magic/Affinities/Air.md",
+      "timestamp": 1760622914590
     },
     {
-      "filepath": "05 - Resources/Images/Banners/cafebg.png",
-      "timestamp": 1760583885808
+      "filepath": "00 - Wiki/Magic/Affinities/Body.md",
+      "timestamp": 1760622911805
+    },
+    {
+      "filepath": "00 - Wiki/Magic/Affinities/Earth.md",
+      "timestamp": 1760622909589
+    },
+    {
+      "filepath": "00 - Wiki/Magic/Affinities/Fire.md",
+      "timestamp": 1760622907447
     }
   ],
   "bookmarkedFileStore": [],

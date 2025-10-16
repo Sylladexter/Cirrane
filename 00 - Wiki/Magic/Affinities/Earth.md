@@ -4,6 +4,8 @@ cssclasses:
   - affinities
   - accent
   - earth
+tags:
+  - status/in-progress
 ---
 
 ---
