@@ -5,6 +5,10 @@ cssclasses:
   - home
   - wide
 html-title: Cirrane
+pixel-banner-flag-color: blue
+banner-height: 200
+content-start: 296
+banner-fade: 30
 ---
 ```search-bar
 

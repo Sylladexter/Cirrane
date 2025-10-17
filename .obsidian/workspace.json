@@ -13,11 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03 - Magic/Affinities/Body.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Body"
+            }
+          },
+          {
+            "id": "3d5d2f3248e5acd7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Index.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Index"
             }
@@ -34,7 +51,8 @@
               "title": "Colored Sidebar Items Modified"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,6 +64,7 @@
       {
         "id": "3a50d9d7461c5a46",
         "type": "tabs",
+        "dimension": 71.7548076923077,
         "children": [
           {
             "id": "cfa399347ca414ce",
@@ -66,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:status/in-progress",
+                "query": "tag:#status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +104,28 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "42f8992215a01522",
+        "type": "tabs",
+        "dimension": 28.245192307692307,
+        "children": [
+          {
+            "id": "f88bd4f20acdd73f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -177,21 +218,6 @@
             }
           },
           {
-            "id": "f88bd4f20acdd73f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "dfeb9af13359c0cf",
             "type": "leaf",
             "state": {
@@ -201,7 +227,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "29fb11ad167bf4b0",
@@ -251,18 +278,20 @@
       "obsidian-git:Open Git source control": false,
       "explorer-hider:Disable hiding": false,
       "callout-manager:Insert Callout": true,
-      "peerdraft:Show my Peerdraft Shares": true
+      "peerdraft:Show my Peerdraft Shares": true,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "bed820954a860614",
+  "active": "3d5d2f3248e5acd7",
   "lastOpenFiles": [
+    "03 - Magic/Affinities/Body.md",
+    "Index.md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
     "11 - Resources/Embed Utilities",
     "10 - Resources/Embed Utilities.md",
     "10 - Guides & To-Do/98 - Styling.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
-    "Index.md",
     "10 - Guides & To-Do/01 - How to Use.md",
     "10 - Guides & To-Do/00 - To Do.md",
     "WIPs.base",
