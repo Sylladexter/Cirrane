@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -250,7 +250,6 @@
       "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
       "explorer-hider:Disable hiding": false,
-      "pexels-banner:🚩 Pixel Banner Menu": true,
       "callout-manager:Insert Callout": true,
       "peerdraft:Show my Peerdraft Shares": true
     }
