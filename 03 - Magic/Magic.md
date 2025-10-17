@@ -41,7 +41,7 @@ cssclasses:
 ## Affinities
 
 `class: cc-affinity-table`
-| ![[99 - Resources/Images/Banners/water.jpg]] | ![[99 - Resources/Images/Banners/fire.png]] | ![[99 - Resources/Images/Banners/air.png]] | ![[99 - Resources/Images/Banners/earth.png]] | ![[99 - Resources/Images/Banners/body.png]] | ![[99 - Resources/Images/Banners/mind.png]] | ![[99 - Resources/Images/Banners/soul.png]] |
+| ![[11 - Resources/Images/Banners/water.jpg]] | ![[11 - Resources/Images/Banners/fire.png]] | ![[11 - Resources/Images/Banners/air.png]] | ![[11 - Resources/Images/Banners/earth.png]] | ![[11 - Resources/Images/Banners/body.png]] | ![[11 - Resources/Images/Banners/mind.png]] | ![[11 - Resources/Images/Banners/soul.png]] |
 |:--------------:|:-------------:|:------------:|:--------------:|:-------------:|:-------------:|:-------------:|
 |   [[Water]]    |   [[Fire]]    |   [[Air]]    |   [[Earth]]    |   [[Body]]    |   [[Mind]]    |   [[Soul]]    |
 |      ice       |               |   electric   |     flora      |     form      |               |     aura      |

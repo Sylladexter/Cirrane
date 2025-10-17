@@ -3,7 +3,7 @@ test: habibibat
 ---
 > [!infobox|left]
 > # Name
-> ![[99 - Resources/Images/Icons/celeste.png|cover hsmall]]
+> ![[11 - Resources/Images/Icons/celeste.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |

@@ -54,11 +54,11 @@
   "09 - Notes/Locations": "LiMapPin",
   "05 - The Gauntlet": "LiTrophy",
   "10 - Guides & To-Do": "LiHelp",
-  "99 - Resources": "LiNewspaper",
-  "99 - Resources/Bases": "LiComputer",
-  "99 - Resources/Embed Utilities": "LiFileCode",
-  "99 - Resources/Images": "LiImage",
-  "99 - Resources/Settings": "LiSettings2",
-  "99 - Resources/Templates": "LiLayoutTemplate",
-  "99 - Resources/Testing": "LiExperiment"
+  "11 - Resources": "LiNewspaper",
+  "11 - Resources/Bases": "LiComputer",
+  "11 - Resources/Embed Utilities": "LiFileCode",
+  "11 - Resources/Images": "LiImage",
+  "11 - Resources/Settings": "LiSettings2",
+  "11 - Resources/Templates": "LiLayoutTemplate",
+  "11 - Resources/Testing": "LiExperiment"
 }
