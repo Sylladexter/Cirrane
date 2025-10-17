@@ -26,9 +26,9 @@ flexGrow=1
 ```col-md
 flexGrow=1
 ===
-# To Do
+### To Do
 
-![[00 - To Do]]
+![[00 - To Do|cc-embed]]
 
 ```
 ````
