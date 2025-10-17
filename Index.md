@@ -3,12 +3,12 @@ banner: "![[cover-Backgrounds-Anime-Landscape-Download.jpg]]"
 cssclasses:
   - hide-title
   - home
-  - wide
+  - max
 html-title: Cirrane
 pixel-banner-flag-color: blue
 banner-height: 200
 content-start: 296
-banner-fade: 30
+banner-fade: 40
 ---
 ```search-bar
 
@@ -31,6 +31,9 @@ flexGrow=1
 ```col-md
 flexGrow=1
 ===
-# Column 1
+# To Do
+
+![[00 - To Do]]
+
 ```
 ````
