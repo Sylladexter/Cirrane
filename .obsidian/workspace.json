@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -203,6 +203,21 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9f1cc30f8803ca26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 4
@@ -255,8 +270,7 @@
       "obsidian-git:Open Git source control": false,
       "explorer-hider:Disable hiding": false,
       "callout-manager:Insert Callout": true,
-      "peerdraft:Show my Peerdraft Shares": true,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "peerdraft:Show my Peerdraft Shares": true
     }
   },
   "active": "3d5d2f3248e5acd7",

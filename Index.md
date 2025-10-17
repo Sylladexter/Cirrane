@@ -1,14 +1,9 @@
 ---
-banner: "![[cover-Backgrounds-Anime-Landscape-Download.jpg]]"
 cssclasses:
   - hide-title
   - home
   - max
 html-title: Cirrane
-pixel-banner-flag-color: blue
-banner-height: 200
-content-start: 296
-banner-fade: 40
 ---
 ```search-bar
 
