@@ -4,7 +4,7 @@
 
 > [!infobox]
 > # Name
-> ![[10 - Resources/Images/Icons/celeste.png|cover hsmall]]
+> ![[99 - Resources/Images/Icons/celeste.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
@@ -62,4 +62,4 @@ FROM "00 - Wiki/Characters"
 FLATTEN character
 ```
 ok but is this good
-![[10 - Resources/Bases/lists.base]]
+![[99 - Resources/Bases/lists.base]]

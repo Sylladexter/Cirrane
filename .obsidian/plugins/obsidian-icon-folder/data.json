@@ -46,13 +46,6 @@
   "01 - Stories/The Curse": "LiSkull",
   "03 - Magic": "LiStars",
   "04 - History": "LiBookMarked",
-  "10 - Resources": "LiNewspaper",
-  "10 - Resources/Bases": "LiComputer",
-  "10 - Resources/Images": "LiImage",
-  "10 - Resources/Settings": "LiSettings2",
-  "10 - Resources/Templates": "LiLayoutTemplate",
-  "10 - Resources/Testing": "LiExperiment",
-  "11 - Guides & To-Do": "LiHelp",
   "01 - Stories/Roleplay": "LiBookMarked",
   "06 - Characters": "LiUsers",
   "07 - Groups": "LiHouse",
@@ -60,5 +53,12 @@
   "09 - Notes": "LiNotebookPen",
   "09 - Notes/Locations": "LiMapPin",
   "05 - The Gauntlet": "LiTrophy",
-  "10 - Resources/Embed Utilities": "LiFileCode"
+  "10 - Guides & To-Do": "LiHelp",
+  "99 - Resources": "LiNewspaper",
+  "99 - Resources/Bases": "LiComputer",
+  "99 - Resources/Embed Utilities": "LiFileCode",
+  "99 - Resources/Images": "LiImage",
+  "99 - Resources/Settings": "LiSettings2",
+  "99 - Resources/Templates": "LiLayoutTemplate",
+  "99 - Resources/Testing": "LiExperiment"
 }

@@ -129,6 +129,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 ### Stories
 
-![[10 - Resources/Bases/groups.base#stories-chara|no-toolbar]]
+![[99 - Resources/Bases/groups.base#stories-chara|no-toolbar]]
 
 - [ ] test

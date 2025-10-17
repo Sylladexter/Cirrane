@@ -14,7 +14,7 @@ tags:
 > 
 >> [!col-md]
 >>> [!affinity]
->>> ![[10 - Resources/Images/Icons/cafelogobig.png]]
+>>> ![[99 - Resources/Images/Icons/cafelogobig.png]]
 >>> <span class="l">Rarity</span> <span class="v">Uncommon</span>
 >>> <span class="l">Deity</span> <span class="v">Mnemosyne</span>
 >>> <span class="l">Vessel</span> <span class="v">[[Torreya]] [^1] </span>

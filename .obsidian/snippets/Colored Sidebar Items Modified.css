@@ -16,8 +16,10 @@
     --rainbow-07: hsl(calc(var(--base-hue) + var(--hue-step) * 7), var(--base-saturation), var(--base-lightness)); /* 07 color */
     --rainbow-08: hsl(calc(var(--base-hue) + var(--hue-step) * 8), var(--base-saturation), var(--base-lightness)); /* 08 color */
     --rainbow-09: hsl(calc(var(--base-hue) + var(--hue-step) * 9), var(--base-saturation), var(--base-lightness)); /* 09 color */
+    --rainbow-10: hsl(calc(var(--base-hue) + var(--hue-step) * 10), var(--base-saturation), var(--base-lightness)); /* 09 color */
+    --rainbow-11: hsl(calc(var(--base-hue) + var(--hue-step) * 11), var(--base-saturation), var(--base-lightness)); /* 09 color */
+    --rainbow-12: hsl(calc(var(--base-hue) + var(--hue-step) * 12), var(--base-saturation), var(--base-lightness)); /* 09 color */
 
-  
     /* ================================ Named Colors ================================ */
     --red: #e22c3c;                
     --red-orange: #e9404b;         
@@ -160,6 +162,21 @@ these to suit your own folder structure and vault theme!
 
 .nav-folder-title[data-path^="09"] {
     --default-folder-color: var(--rainbow-09);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="10"] {
+    --default-folder-color: var(--rainbow-10);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="11"] {
+    --default-folder-color: var(--rainbow-11);
+    color: var(--default-folder-color);
+}
+
+.nav-folder-title[data-path^="12"] {
+    --default-folder-color: var(--rainbow-12);
     color: var(--default-folder-color);
 }
 

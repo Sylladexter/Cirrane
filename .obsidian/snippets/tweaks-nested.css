@@ -507,10 +507,10 @@ span[alt*="cc-embed"] {
   }
 }
 
-  
-p.card-img {
 
-  + ul {
+.card-img {
+
+   ul {
       gap:0!important;
       padding:0;
 
@@ -541,7 +541,11 @@ p.card-img {
 }
 
 
+/* Custom Listcards */
 
+.cc-list-card {
+  
+}
 
 
 /* .cm-comment {
