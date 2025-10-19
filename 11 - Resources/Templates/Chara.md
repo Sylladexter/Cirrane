@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - max
+  - hide-title
 ---
 `class:intro`
 ````col
@@ -11,7 +12,7 @@ flexGrow=.5
 ![[cafelogobig.png]]
 
 # `=this.file.name`
-Occupation
+###### Occupation
 
 ---
 - Thing 
