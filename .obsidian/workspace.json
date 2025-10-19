@@ -10,6 +10,7 @@
           {
             "id": "604bfbedf01cddc1",
             "type": "tabs",
+            "dimension": 77.14285714285715,
             "children": [
               {
                 "id": "3d5d2f3248e5acd7",
@@ -76,6 +77,7 @@
           {
             "id": "ed5f9fe3e35c7672",
             "type": "tabs",
+            "dimension": 22.857142857142858,
             "children": [
               {
                 "id": "7a2a4f5498cfdc39",
@@ -89,7 +91,8 @@
                   "title": "tweaks-nested"
                 }
               }
-            ]
+            ],
+            "stacked": true
           }
         ],
         "direction": "horizontal"
@@ -314,7 +317,7 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "7a2a4f5498cfdc39",
+  "active": "40df5bd15a805ebf",
   "lastOpenFiles": [
     "11 - Resources/Templates/Chara.md",
     "10 - Guides & To-Do/98 - Styling.md",

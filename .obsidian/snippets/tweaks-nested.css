@@ -605,17 +605,30 @@ div[cc-classes="intro"] .columnChild:first-child {
 }
 
 .tab-panel-container {
-    border:none;
+    border:none!important;
+
+  .content-container,
+  .columnParent {
+    padding:0;
+  }
+
+  .content-container {
+    box-shadow:none;
+  }
 }
 
 .tab-container {
     margin:1em auto!important;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    min-width: 100%;
 
-  &:before {
-    border: 1px solid var(--ui1)
-    width: 30%;
+  &:before, 
+  &:after {
+    content: "";
+    border: 1px solid var(--ui1);
+    width: 20%;
+    margin: auto 1em;
   }
 
     
@@ -635,4 +648,6 @@ div[cc-classes="intro"] .columnChild:first-child {
       
     }
 }
+
+
 
