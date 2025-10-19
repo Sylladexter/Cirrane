@@ -4,13 +4,9 @@ cssclasses:
   - hide-title
 ---
 `class:intro`
-~~~tabs
-tab: Intro
-
-
-
+~~~~tabs
+--- Story
 ````col
-
 ```col-md
 flexGrow=.5
 ===
@@ -18,8 +14,7 @@ flexGrow=.5
 
 # `=this.file.name`
 ###### Occupation
-
----
+***
 - Thing 
 - Value
 - Thing
@@ -28,18 +23,21 @@ flexGrow=.5
 - Value
 - Thing
 - Value
-
 ```
+
 ```col-md
 flexGrow=3
 ===
-
-
+WOW
 ```
+
 ````
 
+--- Traits
+Content
 
-~~~
+--- Relationships
+~~~~
 
 
 
