@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "11 - Resources/Templates/Untitled.md",
-      "timestamp": 1760886262194
+      "filepath": "11 - Resources/Templates/Chara.md",
+      "timestamp": 1760888796278
+    },
+    {
+      "filepath": "10 - Guides & To-Do/98 - Styling.md",
+      "timestamp": 1760888772073
+    },
+    {
+      "filepath": "Index.md",
+      "timestamp": 1760888762979
+    },
+    {
+      "filepath": "03 - Magic/Affinities/Body.md",
+      "timestamp": 1760888761151
     },
     {
       "filepath": "11 - Resources/Templates/affinity (wip).md",
       "timestamp": 1760886246242
-    },
-    {
-      "filepath": "Index.md",
-      "timestamp": 1760803716106
     }
   ],
   "bookmarkedFileStore": [],

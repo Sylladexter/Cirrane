@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bed820954a860614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Magic/Affinities/Body.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Body"
-            }
-          },
-          {
             "id": "3d5d2f3248e5acd7",
             "type": "leaf",
             "pinned": true,
@@ -57,8 +42,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 - Resources/Templates/Chara.md",
+                "file": "10 - Guides & To-Do/98 - Styling.md",
                 "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "98 - Styling"
+            }
+          },
+          {
+            "id": "40df5bd15a805ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 - Resources/Templates/Chara.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -288,17 +288,17 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "67c4933c9b530ef3",
+  "active": "40df5bd15a805ebf",
   "lastOpenFiles": [
-    "11 - Resources/Templates/affinity (wip).md",
+    "10 - Guides & To-Do/98 - Styling.md",
     "11 - Resources/Templates/Chara.md",
     "Index.md",
     "03 - Magic/Affinities/Body.md",
+    "11 - Resources/Templates/affinity (wip).md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
     "11 - Resources/Embed Utilities",
     "10 - Resources/Embed Utilities.md",
-    "10 - Guides & To-Do/98 - Styling.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
     "10 - Guides & To-Do/01 - How to Use.md",
     "10 - Guides & To-Do/00 - To Do.md",
