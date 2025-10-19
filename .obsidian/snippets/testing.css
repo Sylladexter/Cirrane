@@ -1,0 +1,33 @@
+.callout[data-callout="affinitys-test"] {
+    background: rgba(var(--callout-color), 10%);
+    max-width: 100%;
+    padding:0;
+    margin:0 auto;
+    border: none;
+
+    .callout-title {
+        display: none;
+    }
+
+    .callout-content img {
+        width: 100px!important;
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .callout-content p {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        align-items: flex-start;
+    }
+
+    .callout-content span:not(:first-child) {
+        flex-basis: 50%;
+        &:nth-of-type(even) {color: skyblue;}
+        &:nth-of-type(odd) {text-align:right}
+    }
+
+}
