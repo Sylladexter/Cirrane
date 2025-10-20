@@ -28,6 +28,7 @@ tags:
 >> --- 
 
 ## Personality
+---
 
 ## Abilities 
 ---

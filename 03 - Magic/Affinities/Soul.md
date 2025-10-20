@@ -17,7 +17,7 @@ tags:
 > ![[cafelogobig.png]]
 > <span class="l">Rarity</span> <span class="v">Rare</span>
 > <span class="l">Deity</span> <span class="v">Kamali</span>
-> <span class="l">Vessel</span> <span class="v">Mailani / Alta</span>
+> <span class="l">Vessel</span> <span class="v">Mailina / Alta</span>
 ```
 
 ```col-md
@@ -32,6 +32,7 @@ If mind is the logical aspect, then soul is the emotional side. Soul represents 
 ````
 
 ## Personality
+---
 
 ## Abilities 
 ---

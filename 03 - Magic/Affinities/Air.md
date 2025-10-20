@@ -31,6 +31,8 @@ Air is a cool breeze on a warm summer day. It’s the heat rising from a bonfire
 ````
 
 ## Personality
+---
+
 
 ## Abilities 
 ---

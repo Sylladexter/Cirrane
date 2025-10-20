@@ -32,6 +32,7 @@ Water, being so tied to life on the planet itself, is often associated with heal
 ````
 
 ## Personality
+---
 
 ## Abilities 
 ---

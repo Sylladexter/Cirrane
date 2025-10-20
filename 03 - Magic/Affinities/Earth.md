@@ -32,6 +32,7 @@ Earth affinities are said to be the most in tune with nature given that their el
 ````
 
 ## Personality
+---
 
 ## Abilities 
 ---

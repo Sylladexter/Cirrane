@@ -32,6 +32,8 @@ The body is ruled by instinct. It does whatever feels right in the moment and al
 ````
 
 ## Personality
+---
+
 
 ## Abilities 
 ---

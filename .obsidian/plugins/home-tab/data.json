@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "03 - Magic/Affinities/Air.md",
-      "timestamp": 1761003355414
+      "filepath": "03 - Magic/Affinities/Soul.md",
+      "timestamp": 1761004161938
+    },
+    {
+      "filepath": "03 - Magic/Affinities/Water.md",
+      "timestamp": 1761004156346
+    },
+    {
+      "filepath": "03 - Magic/Affinities/Mind.md",
+      "timestamp": 1761004140405
     },
     {
       "filepath": "03 - Magic/Affinities/Fire.md",
-      "timestamp": 1761003305354
-    },
-    {
-      "filepath": "09 - Notes/Magic Notes.md",
-      "timestamp": 1761003260363
+      "timestamp": 1761004138982
     },
     {
       "filepath": "03 - Magic/Affinities/Earth.md",
-      "timestamp": 1761001091648
-    },
-    {
-      "filepath": "11 - Resources/Templates/affinity.md",
-      "timestamp": 1761000983477
+      "timestamp": 1761004133589
     }
   ],
   "bookmarkedFileStore": [],
