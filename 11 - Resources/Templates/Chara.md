@@ -15,6 +15,8 @@ flexGrow=.5
 # `=this.file.name`
 ###### Occupation
 ***
+<br>
+
 - Thing 
 - Value
 - Thing
@@ -30,7 +32,9 @@ flexGrow=3
 ===
 
 ***
-Adjectives Adjectives Adjectives
+"A quote of sorts"
+> [!blockquote|hide no-border] 
+> adjective **•** adjective **•** adjective
 
 > [!blank|hide no-border]
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus bibendum turpis, sit amet tempor purus placerat in. Mauris tempus sodales orci, nec aliquam quam tincidunt eu. Aenean lacinia venenatis eros. Integer feugiat efficitur nibh non finibus. Praesent quis nisl auctor, lobortis diam vel, interdum lorem. Aenean dui elit, iaculis vel finibus a, semper non augue. Nulla est libero, ornare at felis eget, egestas ullamcorper metus. Vestibulum lacinia erat ante, vitae lacinia orci feugiat in.
