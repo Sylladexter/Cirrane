@@ -6,8 +6,6 @@ https://nestyourcss.com/
 */
 
 
-
-
 /****************************************
   Deployed
 *****************************************/ 
@@ -557,51 +555,52 @@ span[alt*="cc-embed"] {
   color: var(--color-red);
 } */
 
-div[cc-classes="intro"] .columnChild:first-child {
-    text-align: center;
-    background: var(--ui1);
-    padding: 1.5em;
-    min-width: 20%;
+div[cc-classes="intro"] .columnChild{
+  text-align: center;
+  background: var(--ui1);
+  padding: 1.5em;
+  border-radius: .5em;
+  
+  
+  &:first-child  {
+  :is(h1,p,ul,li) {margin:0}
+  min-width: 25%;
 
-    :is(h1,p,ul,li) {
-        margin:0
-    }
-
-    img {border-radius:100%;
+  img {
+    border-radius:100%;
     margin-bottom: 1em;}
 
-    h1 {
-        &:before {display:none;}
-        font-size: var(--h3-size);
+  h1 {
+      &:before {display:none;}
+      font-size: var(--h3-size);
+  }
+
+  h6 {
+    text-transform: none;
+  }
+  
+  ul {
+     list-style-type: none;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content:space-between;
+     
+  }
+
+  li {
+      display:inline-block;
+      flex-basis: 50%;
+  
+      &:nth-child(odd) {
+           color: var(--text-accent);
+       }
+  
+      &:nth-child(even) {
+          color: var(--text-muted);
+          text-align: right;
+      }
     }
-
-    h6 {
-      text-transform: none;
-    }
-    
-     ul {
-         list-style-type: none;
-         display: flex;
-         flex-wrap: wrap;
-         justify-content:space-between;
-         
-     }
-
-    li {
-        display:inline-block;
-        flex-basis: 50%;
-
-        &:nth-child(odd) {
-             color: var(--text-accent);
-         }
-
-        &:nth-child(even) {
-            color: var(--text-muted);
-            text-align: right;
-        }
-    }
-    
-    
+  }  
 }
 
 .tab-panel-container {
