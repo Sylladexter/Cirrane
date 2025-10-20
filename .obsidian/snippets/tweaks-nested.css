@@ -541,11 +541,6 @@ span[alt*="cc-embed"] {
 
 /* Custom Listcards */
 
-.cc-list-card {
-  
-}
-
-
 /* .cm-comment {
   color: var(--color-base-40);
 } */
@@ -656,8 +651,11 @@ div[cc-classes="cc-infobox"] {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  width: 200px;
+  width: 300px!important;
   padding: 1.5em;
   border-radius: .5em;
-
+  margin: 0!important;
+  margin-inline-start: 0;
+  background: var(--bg2);
+  float: right;
 }

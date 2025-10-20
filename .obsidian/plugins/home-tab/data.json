@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "11 - Resources/Testing/What's This.md",
-      "timestamp": 1760965519920
+      "filepath": "11 - Resources/Templates/Chara.md",
+      "timestamp": 1760966788037
     },
     {
-      "filepath": "11 - Resources/Templates/Chara.md",
-      "timestamp": 1760965510869
+      "filepath": "11 - Resources/Testing/What's This.md",
+      "timestamp": 1760966085331
+    },
+    {
+      "filepath": "11 - Resources/Templates/character (wip).md",
+      "timestamp": 1760966043305
     },
     {
       "filepath": "Index.md",
@@ -38,15 +42,11 @@
     {
       "filepath": "10 - Guides & To-Do/98 - Styling.md",
       "timestamp": 1760888772073
-    },
-    {
-      "filepath": "03 - Magic/Affinities/Body.md",
-      "timestamp": 1760888761151
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
-  "replaceNewTabs": true,
+  "replaceNewTabs": false,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false,
