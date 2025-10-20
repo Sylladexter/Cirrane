@@ -36,12 +36,26 @@ Air is a cool breeze on a warm summer day. It’s the heat rising from a bonfire
 ---
 
 ### Tier 1
-
-**Tier**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+- Atmospheric Adaptation
+	- The power to instantaneously adjust to any given atmospheric environment. 
+- Sound Manipulation
+	- The power to manipulate sound. 
+- Air Manipulation
+	- The power to manipulate air.
+	-  BEGINNER LEVEL - At the beginner level of air manipulation, users can generate and control air with basic proficiency. They can create a small gust of wind, manipulate their shape and size, and control air temperature. Users can develop windstorms and produce simple air-based attacks. They can control the temperature of the air. However, their control over the air may be somewhat limited, and they may struggle to maintain perfect control over the air's movements and effects.  
 
 ### Tier 2
-
+- Air Walking
+	- The power to walk on air.
+- Air Manipulation
+	- The power to manipulate air.
+	- INTERMEDIATE LEVEL - As users get to the medium level of air manipulation, their abilities become more refined and versatile. They can generate larger (highly destructive) windstorms and tornadoes and manipulate them with greater control. Users gain the ability to produce more complex air-based attacks, such as airballs, streams of air, or aerokinetic constructs. They can create defensive barriers of air and control the spread of air over a wider area. Additionally, users can enhance the intensity and heat of the wind, allowing them to inflict more damage and exert greater influence over their surroundings. 
+- Electricity Generation
+	- The power to generate electricity.
+- Electric Channeling
+	- The power to channel electricity and use it for a variety of purposes. 
+- Electricity Resistance
+	- The power to be highly resistant to electricity. 
 
 ### Tier 3
 
@@ -54,7 +68,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Branches
 ---
-
+Electricity
+- 
 ## Pavana
 ######  The Four Winds, The Storm God, God of Fortune
 ----
