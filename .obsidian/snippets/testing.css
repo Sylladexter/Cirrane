@@ -31,3 +31,27 @@
     }
 
 }
+
+.callout[data-callout-metadata*="chara"] {
+    background: rgba(var(--callout-color), 10%);
+    max-width: 100%;
+    padding:0;
+    margin:0 auto;
+    border: none;
+
+    .callout[data-callout="intro"] {
+        width: 150px;
+    }
+    .callout[data-callout="intro"] .callout-content {
+
+        p {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        align-items: flex-start;
+            
+        }
+        
+    }
+}

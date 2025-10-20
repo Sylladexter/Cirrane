@@ -650,3 +650,14 @@ div[cc-classes="intro"] .columnChild{
 
 
 
+
+div[cc-classes="cc-infobox"] {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  padding: 1.5em;
+  border-radius: .5em;
+
+}

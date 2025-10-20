@@ -1,1 +1,1 @@
-{{pizza|callout:("type", "title", foldState)}}
+`class:cc-infobox`

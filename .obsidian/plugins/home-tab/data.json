@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "11 - Resources/Testing/What's This.md",
+      "timestamp": 1760965519920
+    },
+    {
       "filepath": "11 - Resources/Templates/Chara.md",
-      "timestamp": 1760963450696
+      "timestamp": 1760965510869
     },
     {
       "filepath": "Index.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "03 - Magic/Affinities/Body.md",
       "timestamp": 1760888761151
-    },
-    {
-      "filepath": "11 - Resources/Templates/affinity (wip).md",
-      "timestamp": 1760886246242
     }
   ],
   "bookmarkedFileStore": [],
