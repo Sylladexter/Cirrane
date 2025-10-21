@@ -119,5 +119,8 @@ Electricity
 
 
 ### Known Abilities
+ - Atmosphere Manipulation
+	 - Ability to create, destroy, shape, and manipulate atmospheres.
+	 - Atmosphere creation, destruction, adaptation, and freezing. Gas manipulation. Mirage Manipulation. Weather Manipulation.
  - Perfect Storm
 	 - When the 4 elemental gods combine their power they are granted this ability capable of destroying all life on earth. A very powerful user could unleash a storm containing all kinds of natural disasters, including earthquakes, hurricanes, tornado, volcanic eruptions, blizzards etc. causing immense destruction and chaos. Such a storm would be impossible to stop once it started.

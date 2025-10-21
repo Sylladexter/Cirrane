@@ -64,3 +64,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Vyscera
 ######  The Powerful, The Mighty Healer
 ----
+### Personality
+
+
+
+### Relationship with Vessel
+
+
+
+### Known Abilities

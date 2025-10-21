@@ -63,3 +63,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Kamali
 ######  Mother of Souls, Life-Bringer
 ----
+### Personality
+
+
+
+### Relationship with Vessel
+
+
+
+### Known Abilities

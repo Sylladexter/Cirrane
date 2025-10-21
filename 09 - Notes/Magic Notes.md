@@ -147,6 +147,9 @@ Magic is made up of 3 component:
 	* [Tornado Creation](https://powerlisting.fandom.com/wiki/Tornado_Creation) - The power to create tornadoes and whirlwinds. 
 	* [Thunderstorm Creation](https://powerlisting.fandom.com/wiki/Thunderstorm_Creation) - The power to create a thunderstorm
 * God  
+	* [Atmosphere Manipulation](https://powerlisting.fandom.com/wiki/Atmosphere_Manipulation)
+		 - Ability to create, destroy, shape, and manipulate atmospheres.
+		 - Atmosphere creation, destruction, adaptation, and freezing. Gas manipulation. Mirage Manipulation. Weather Manipulation.
 * Unlisted
 
 
