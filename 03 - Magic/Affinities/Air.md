@@ -32,7 +32,9 @@ Air is a cool breeze on a warm summer day. It’s the heat rising from a bonfire
 
 ## Personality
 ---
+Air is an element that is always on the move. It goes wherever it pleases and can't be stopped. Air affinities are believed to embody these traits. They are known for being agile, fast, and light on their feet. Said to be flighty, air affinities follow their whims and do as they desire. 
 
+People born under this affinity are known for their luck. The wind always blows in their favor. 
 
 ## Abilities 
 ---
