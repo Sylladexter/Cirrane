@@ -34,7 +34,9 @@ Air is a cool breeze on a warm summer day. It’s the heat rising from a bonfire
 ---
 Air is an element that is always on the move. It goes wherever it pleases and can't be stopped. Air affinities are believed to embody these traits. They are known for being agile, fast, and light on their feet. Said to be flighty, air affinities follow their whims and do as they desire. 
 
-People born under this affinity are known for their luck. The wind always blows in their favor. 
+Take care when forming relationships with air affinities to not get swept up in their current. They can be kind and gentle like a breeze or harsh and biting like the strongest gales. Air affinities do not mince their words and often say things that cut deep whether they mean it or not. Much like their god, Pavana, air affinities are known for holding grudges and acting out of spite. They can be petty and childish when situations demand it, but are generally known for keeping a cool head.
+
+People born under this affinity are known for their luck. 
 
 ## Abilities 
 ---
