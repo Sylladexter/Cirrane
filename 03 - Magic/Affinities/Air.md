@@ -106,7 +106,18 @@ People born under this affinity are known for their luck.
 ## Branches
 ---
 Electricity
-- 
+- The ability to harness and control electricity. Any air affinity who hones their abilities enough to become a tier 2 will be granted this ability. Those who go down this branch study the element and learn to wield it will be able to achieve phenomenal feats. 
 ## Pavana
 ######  The Four Winds, The Storm God, God of Fortune
 ----
+### Personality
+
+
+
+### Relationship with Vessel
+
+
+
+### Known Abilities
+ - Perfect Storm
+	 - When the 4 elemental gods combine their power they are granted this ability capable of destroying all life on earth. A very powerful user could unleash a storm containing all kinds of natural disasters, including earthquakes, hurricanes, tornado, volcanic eruptions, blizzards etc. causing immense destruction and chaos. Such a storm would be impossible to stop once it started.

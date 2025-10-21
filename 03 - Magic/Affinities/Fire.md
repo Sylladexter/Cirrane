@@ -124,4 +124,5 @@ Vessels of Pele must take caution for even the largest start in the sky will eve
 ### Known Abilities
 - Absolute Burning
 	-  The power to burn absolutely anything. 
-
+- Perfect Storm
+	- When the 4 elemental gods combine their power they are granted this ability capable of destroying all life on earth. A very powerful user could unleash a storm containing all kinds of natural disasters, including earthquakes, hurricanes, tornado, volcanic eruptions, blizzards etc. causing immense destruction and chaos. Such a storm would be impossible to stop once it started.
