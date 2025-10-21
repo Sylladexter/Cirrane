@@ -119,8 +119,13 @@ Pavana once loved his vessels as his children. He gifted them with cool breeze w
 
 His vessels were as free as he was and traveled the world as they saw fit. They were largely nomadic in nature but settled down in a valley where the wind never stopped. 
 
+Human nature harbors a deep duality reminiscent of the elements themselves. Where there is kinds and generosity, there is also greed and hatred. Humanity builds each other up and tears each other down for selfish reasons, and as Pavan's vessels settled in the valley, others eventually came to take the land  for themselves. 
 
+What was meant to be a time of celebration soon fell to bloodshed and when the dust finally settled, Pavana's precious vessels were no more. They were the first to fall in a great war that would take all of the Elemental gods' vessels, and lead to what eventually became known as The Great Reset. 
 
+Pavana never forgave humanity for what they did that day. The vessels he takes on now are for one goal and one goal only; to make humanity suffer as he has. Where once vessels were gentle and peaceful, now they are rage storms that blow away everything in their wake. Pavana takes on only the strongest of air affinities to act as his vessels. 
+
+He expects them to follow his very whims and bend to his own selfish desire for revenge. Vessels of Pavana are not to be taken lightly.
 
 ### Known Abilities
  - Atmosphere Manipulation
