@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9394249ef29446fc",
+            "id": "6a02ac14b55f234b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 - Resources/Templates/affinity.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "affinity"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "e13dc4193cdf49d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Magic/Affinities/Air.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Air"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,8 +259,10 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "9394249ef29446fc",
+  "active": "e13dc4193cdf49d1",
   "lastOpenFiles": [
+    "Index.md",
+    "11 - Resources/Templates/affinity.md",
     "11 - Resources/Testing/Highlighting?.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",
@@ -253,10 +270,8 @@
     "11 - Resources/Testing/Da Colors.md",
     "11 - Resources/Templates/character (wip).md",
     "11 - Resources/Templates/chara.md",
-    "Index.md",
     "10 - Guides & To-Do/98 - Styling.md",
     "03 - Magic/Affinities/Body.md",
-    "11 - Resources/Templates/affinity.md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
     "11 - Resources/Embed Utilities",
