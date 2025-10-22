@@ -690,3 +690,8 @@ div[cc-classes="cc-infobox"] {
         display:none
     }
 }
+
+.callout[data-callout-metadata*="scroll"]{
+  max-height: 70vh;
+  overflow: scroll;
+}

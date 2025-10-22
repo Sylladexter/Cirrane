@@ -10,6 +10,7 @@
           {
             "id": "6a02ac14b55f234b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": true,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Index"
             }
@@ -37,8 +39,7 @@
               "title": "00.5 - Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,11 +260,11 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "e13dc4193cdf49d1",
+  "active": "6a02ac14b55f234b",
   "lastOpenFiles": [
+    "10 - Guides & To-Do/00.5 - Tasks.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
     "10 - Guides & To-Do/01 - How to Use.md",
-    "10 - Guides & To-Do/00.5 - Tasks.md",
     "11 - Resources/Templates/chara.md",
     "07 - Groups/Temple of Lux.md",
     "03 - Magic/Affinities/Air.md",
