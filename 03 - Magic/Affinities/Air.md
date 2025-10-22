@@ -111,8 +111,9 @@ Electricity
 ######  The Four Winds, The Storm God, God of Fortune
 ----
 ### Personality
+Fickle in nature, Pavana follows his whims and goes where he pleases. He is known as the God of Fortune but only gives it out to those who have earned his favor. Pavana revels in chaos and has been known to wipe out entire towns just because he was bored. 
 
-
+He has a well known feud with Pele that extends even to their vessels, though when their interests align, they can be a force to be reckoned with. 
 
 ### Relationship with Vessel
 Pavana once loved his vessels as his children. He gifted them with cool breeze when the summer sun beat down on them. Their sails were never without wind and it always guided them in the right directions. In turn, his vessels honors him with grand festivals in his name and found ways to harness wind as energy. When fortune favored him it was his name muttered in thanks. 
