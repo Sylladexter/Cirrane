@@ -21,16 +21,37 @@ html-title: Cirrane
 ```col-md
 flexGrow=1
 ===
-### In Progress
-![[WIPs.base]]
+### Pages
+
+> [!note]
+> - [ ] Affinities
+> 	- [ ] [[Water]]
+> 	- [ ] [[Fire]]
+> 	- [ ] [[Air]]
+> 	- [ ] [[Earth]]
+> 	- [ ] [[Body]]
+> 	- [ ] [[Mind]]
+> 	- [ ] [[Soul]]
+> 
+
+   
 ```
 ```col-md
 flexGrow=1
 ===
-### To Do
+### Test
+> [!warning|hide]
 
-> [!todo]
-> ![[00 - To Do]]
+
+```
+```col-md
+flexGrow=1
+===
+### Test
+> [!important|hide]
+> - [ ] checklist?
 
 ```
 ````
+
+
