@@ -113,6 +113,8 @@ Electricity
 ### Personality
 Fickle in nature, Pavana follows his whims and goes where he pleases. He is known as the God of Fortune but only gives it out to those who have earned his favor. Pavana revels in chaos and has been known to wipe out entire towns just because he was bored. 
 
+Pavana tends to be flippant about many things, but is extremely petty to his core. He hold grudges like there is no tomorrow and still stop at nothing to right perceived slights against him.
+
 He has a well known feud with Pele that extends even to their vessels, though when their interests align, they can be a force to be reckoned with. 
 
 ### Relationship with Vessel
