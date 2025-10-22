@@ -455,6 +455,7 @@ p:has(> .l) {
 }
 
 span[alt*="cc-embed"] {
+  
     padding: 0!important;
     border:none;
     

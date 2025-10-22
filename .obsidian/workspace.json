@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "e13dc4193cdf49d1",
+            "id": "979a2df1e3d135fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Guides & To-Do/00.5 - Tasks.md",
+                "file": "10 - Guides & To-Do/00 - To Do.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00.5 - Tasks"
+              "title": "00 - To Do"
             }
           }
         ]
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"|",
+                "query": "blockquote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,35 +262,35 @@
   },
   "active": "6a02ac14b55f234b",
   "lastOpenFiles": [
+    "10 - Guides & To-Do/00 - To Do.md",
+    "Index.md",
+    "11 - Resources/Templates/character (wip).md",
+    "11 - Resources/Templates/chara.md",
+    "10 - Guides & To-Do/01 - How to Use.md",
+    "00 - Wiki/Moraida.md",
+    "08 - Locations/Cirrane.md",
     "10 - Guides & To-Do/00.5 - Tasks.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
-    "10 - Guides & To-Do/01 - How to Use.md",
-    "11 - Resources/Templates/chara.md",
     "07 - Groups/Temple of Lux.md",
     "03 - Magic/Affinities/Air.md",
     "03 - Magic/Affinities/Fire.md",
-    "Index.md",
     "11 - Resources/Templates/affinity.md",
     "11 - Resources/Testing/Highlighting?.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",
     "11 - Resources/Testing/Test Zone.md",
     "11 - Resources/Testing/Da Colors.md",
-    "11 - Resources/Templates/character (wip).md",
     "10 - Guides & To-Do/98 - Styling.md",
     "03 - Magic/Affinities/Body.md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
     "11 - Resources/Embed Utilities",
     "10 - Resources/Embed Utilities.md",
-    "10 - Guides & To-Do/00 - To Do.md",
     "WIPs.base",
-    "00 - Wiki/Moraida.md",
     "09 - Notes/Sports Notes.md",
     "05 - The Gauntlet",
     "09 - Notes/Locations/Other Locations.md",
     "09 - Notes/Locations/Cirrane Notes.md",
-    "09 - Notes/Locations/Esterra Notes.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/05-resources/images/galleries/cirrane/mountainwater.png",

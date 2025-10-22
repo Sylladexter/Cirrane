@@ -3,6 +3,7 @@ cssclasses:
   - hide-title
   - home
   - max
+  - embed-strict
 html-title: Cirrane
 ---
 ```search-bar
@@ -28,7 +29,8 @@ flexGrow=1
 ===
 ### To Do
 
-![[00 - To Do|cc-embed scroll]]
+> [!todo]
+> ![[00 - To Do]]
 
 ```
 ````
