@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Groups/Temple of Lux.md",
-                "mode": "source",
-                "source": false,
+                "file": "10 - Guides & To-Do/00.5 - Tasks.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Temple of Lux"
+              "title": "00.5 - Tasks"
             }
           }
         ],
@@ -261,6 +261,11 @@
   },
   "active": "e13dc4193cdf49d1",
   "lastOpenFiles": [
+    "10 - Guides & To-Do/02 - Tagging System.md",
+    "10 - Guides & To-Do/01 - How to Use.md",
+    "10 - Guides & To-Do/00.5 - Tasks.md",
+    "11 - Resources/Templates/chara.md",
+    "07 - Groups/Temple of Lux.md",
     "03 - Magic/Affinities/Air.md",
     "03 - Magic/Affinities/Fire.md",
     "Index.md",
@@ -271,15 +276,12 @@
     "11 - Resources/Testing/Test Zone.md",
     "11 - Resources/Testing/Da Colors.md",
     "11 - Resources/Templates/character (wip).md",
-    "11 - Resources/Templates/chara.md",
     "10 - Guides & To-Do/98 - Styling.md",
     "03 - Magic/Affinities/Body.md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
     "11 - Resources/Embed Utilities",
     "10 - Resources/Embed Utilities.md",
-    "10 - Guides & To-Do/02 - Tagging System.md",
-    "10 - Guides & To-Do/01 - How to Use.md",
     "10 - Guides & To-Do/00 - To Do.md",
     "WIPs.base",
     "00 - Wiki/Moraida.md",
@@ -288,8 +290,6 @@
     "09 - Notes/Locations/Other Locations.md",
     "09 - Notes/Locations/Cirrane Notes.md",
     "09 - Notes/Locations/Esterra Notes.md",
-    "09 - Notes/Magic Notes.md",
-    "09 - Notes/Name vomit.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/05-resources/images/galleries/cirrane/mountainwater.png",
