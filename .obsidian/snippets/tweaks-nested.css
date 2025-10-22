@@ -427,6 +427,32 @@ p:has(> .l) {
   Hide + Utils
 ******************************************/ 
 
+.home .columnChild .callout {
+
+    min-height: 300px;
+    display: flex;
+    
+    .callout-content {
+    max-height: 300px;
+    overflow: scroll;
+    justify-self: center;
+    }
+    .contains-task-list {
+        margin:0;
+        font-size: var(--font-small);
+    }
+}
+
+
+
+.home .columnChild h3 {
+    text-align: center;
+
+    &:before {
+        display:none;
+    }
+}
+
 /* display none */
 .hide-title .inline-title,
 .bases-embed[alt~="no-toolbar"] > .bases-header,
@@ -449,12 +475,16 @@ p:has(> .l) {
   margin: 0!important;
 }
 
+
+
 /* No background*/
 .home .callout[data-callout-metadata="cc-nav"] {
   background: none!important;
 }
 
 span[alt*="cc-embed"] {
+
+
   
     padding: 0!important;
     border:none;
@@ -471,6 +501,9 @@ span[alt*="cc-embed"] {
     }
 }
     
+
+
+
 
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer .cc-affinity-table {
   table {
