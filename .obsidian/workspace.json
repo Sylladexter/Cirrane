@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 - Resources/Testing/Highlighting?.md",
+                "file": "11 - Resources/Testing/Styling Tests.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Highlighting?"
+              "title": "Styling Tests"
             }
           }
         ],
@@ -291,7 +291,7 @@
     "03 - Magic/Affinities/Air.md",
     "03 - Magic/Affinities/Fire.md",
     "11 - Resources/Templates/affinity.md",
-    "11 - Resources/Testing/Highlighting?.md",
+    "11 - Resources/Testing/Styling Tests.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",
     "11 - Resources/Testing/Test Zone.md",
