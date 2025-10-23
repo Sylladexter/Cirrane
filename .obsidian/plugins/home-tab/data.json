@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "07 - Groups/Temple of Lux.md",
-      "timestamp": 1761178939981
-    },
-    {
-      "filepath": "11 - Resources/Templates/affinity.md",
-      "timestamp": 1761178807780
-    },
-    {
-      "filepath": "00 - Wiki/Characters.md",
-      "timestamp": 1761174522619
-    },
-    {
       "filepath": "Index.md",
-      "timestamp": 1761174519194
+      "timestamp": 1761251917363
+    },
+    {
+      "filepath": "11 - Resources/Testing/Styling Tests.md",
+      "timestamp": 1761164142050
     },
     {
       "filepath": "10 - Guides & To-Do/00 - To Do.md",
-      "timestamp": 1761174517571
+      "timestamp": 1761163180872
+    },
+    {
+      "filepath": "11 - Resources/Templates/character (wip).md",
+      "timestamp": 1761161919257
+    },
+    {
+      "filepath": "11 - Resources/Templates/chara.md",
+      "timestamp": 1761157924179
     }
   ],
   "bookmarkedFileStore": [],
