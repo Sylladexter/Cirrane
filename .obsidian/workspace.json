@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Groups/Temple of Lux.md",
+                "file": "11 - Resources/Testing/Styling Tests.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Temple of Lux"
+              "title": "Styling Tests"
             }
           }
         ],
@@ -188,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -221,8 +221,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -244,7 +244,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -252,17 +251,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
+      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "webpage-html-export:Export as HTML": false,
+      "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
       "explorer-hider:Disable hiding": false,
-      "callout-manager:Insert Callout": true,
-      "peerdraft:Show my Peerdraft Shares": true
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
   "active": "be3e76abe68f7f26",
   "lastOpenFiles": [
+    "07 - Groups/Temple of Lux.md",
     "00 - Wiki/The Gauntlet.md",
     "11 - Resources/Templates/affinity.md",
     "10 - Guides & To-Do/00 - To Do.md",
@@ -276,7 +277,6 @@
     "08 - Locations/Cirrane.md",
     "10 - Guides & To-Do/00.5 - Tasks.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
-    "07 - Groups/Temple of Lux.md",
     "03 - Magic/Affinities/Fire.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",

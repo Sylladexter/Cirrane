@@ -6,4 +6,4 @@
 
 > [!yeah|hide]
 > this one has the hide attribute
-> it hides all parts of the 
+> it hides all parts of the calllout
