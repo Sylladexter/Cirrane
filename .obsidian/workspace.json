@@ -25,36 +25,22 @@
             }
           },
           {
-            "id": "979a2df1e3d135fe",
+            "id": "be3e76abe68f7f26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Guides & To-Do/00 - To Do.md",
+                "file": "07 - Groups/Temple of Lux.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00 - To Do"
-            }
-          },
-          {
-            "id": "2c026860c8adc05f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - Resources/Testing/Styling Tests.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Styling Tests"
+              "title": "Temple of Lux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,11 +261,14 @@
       "peerdraft:Show my Peerdraft Shares": true
     }
   },
-  "active": "6a02ac14b55f234b",
+  "active": "be3e76abe68f7f26",
   "lastOpenFiles": [
-    "11 - Resources/Testing/Styling Tests.md",
-    "Index.md",
+    "00 - Wiki/The Gauntlet.md",
+    "11 - Resources/Templates/affinity.md",
     "10 - Guides & To-Do/00 - To Do.md",
+    "03 - Magic/Affinities/Air.md",
+    "Index.md",
+    "11 - Resources/Testing/Styling Tests.md",
     "11 - Resources/Templates/character (wip).md",
     "11 - Resources/Templates/chara.md",
     "10 - Guides & To-Do/01 - How to Use.md",
@@ -288,9 +277,7 @@
     "10 - Guides & To-Do/00.5 - Tasks.md",
     "10 - Guides & To-Do/02 - Tagging System.md",
     "07 - Groups/Temple of Lux.md",
-    "03 - Magic/Affinities/Air.md",
     "03 - Magic/Affinities/Fire.md",
-    "11 - Resources/Templates/affinity.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",
     "11 - Resources/Testing/Test Zone.md",
@@ -305,7 +292,6 @@
     "09 - Notes/Sports Notes.md",
     "05 - The Gauntlet",
     "09 - Notes/Locations/Other Locations.md",
-    "09 - Notes/Locations/Cirrane Notes.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/05-resources/images/galleries/cirrane/mountainwater.png",
