@@ -6,4 +6,5 @@
 
 > [!yeah|hide]
 > this one has the hide attribute
-> it hides all parts of the calllout
+> it hides all parts of the callout
+> if any styling remains, there a specificity thing at play...
