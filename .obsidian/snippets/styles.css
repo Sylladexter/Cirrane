@@ -90,8 +90,6 @@
   ✦ Callouts 
 =================================================*/
 .callout[data-callout-metadata*=hide] {
-  padding: 0;
-  margin: 0;
   background: none;
   border: none;
   box-shadow: none;
@@ -109,10 +107,16 @@
   margin: 0;
 }
 
+.callout[data-callout-metadata*=border-none] {
+  border: none;
+}
+
 .callout[data-callout-metadata*=bg-none] {
   background: none;
 }
 
-.callout[data-callout-metadata*=bg] {
+.callout[data-callout-metadata*=bg-secondary] {
   background: var(--bg-secondary);
 }
+
+/*# sourceMappingURL=styles.css.map */

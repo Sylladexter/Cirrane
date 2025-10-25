@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "11 - Resources/Testing/Styling Tests.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -263,13 +263,16 @@
   },
   "active": "be3e76abe68f7f26",
   "lastOpenFiles": [
+    "11 - Resources/Testing/Test Zone.md",
+    "11 - Resources/Testing/Da Colors.md",
+    "10 - Guides & To-Do/98 - Styling.md",
+    "11 - Resources/Testing/Styling Tests.md",
+    "Index.md",
     "07 - Groups/Temple of Lux.md",
     "00 - Wiki/The Gauntlet.md",
     "11 - Resources/Templates/affinity.md",
     "10 - Guides & To-Do/00 - To Do.md",
     "03 - Magic/Affinities/Air.md",
-    "Index.md",
-    "11 - Resources/Testing/Styling Tests.md",
     "11 - Resources/Templates/character (wip).md",
     "11 - Resources/Templates/chara.md",
     "10 - Guides & To-Do/01 - How to Use.md",
@@ -280,9 +283,6 @@
     "03 - Magic/Affinities/Fire.md",
     "11 - Resources/Testing/What's This.md",
     "11 - Resources/Testing/testzone...2!.md",
-    "11 - Resources/Testing/Test Zone.md",
-    "11 - Resources/Testing/Da Colors.md",
-    "10 - Guides & To-Do/98 - Styling.md",
     "03 - Magic/Affinities/Body.md",
     "11 - Resources/Embed Utilities/Cards.md",
     "03 - Magic/Magic.md",
