@@ -1,57 +1,118 @@
-.callout[data-callout="affinitys-test"] {
-    background: rgba(var(--callout-color), 10%);
-    max-width: 100%;
-    padding:0;
-    margin:0 auto;
-    border: none;
-
-    .callout-title {
-        display: none;
-    }
-
-    .callout-content img {
-        width: 100px!important;
-        display: block;
-        margin: 0 auto;
-        
-    }
-
-    .callout-content p {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content:space-between;
-        align-items: flex-start;
-    }
-
-    .callout-content span:not(:first-child) {
-        flex-basis: 50%;
-        &:nth-of-type(even) {color: skyblue;}
-        &:nth-of-type(odd) {text-align:right}
-    }
-
+@charset "UTF-8";
+/* if im correct these comments should be here for style settings! */
+/*================================================ 
+  ✦ Colors 
+=================================================*/
+:root {
+  --clr-water: #55cdf1;
+  --clr-fire: #e75858;
+  --clr-air: #c3c2b5;
+  --clr-earth: #93b35b;
+  --clr-body: #dd7e6b;
+  --clr-mind: #a64d79;
+  --clr-soul: #674ea7;
+  --clr-red: #f95353;
+  --clr-orange: #ff885d;
+  --clr-yellow: #ffd154;
+  --clr-lime: #b2e241;
+  --clr-green: #38cf5d;
+  --clr-mint: #6efbdf;
+  --clr-teal: #0fadb9;
+  --clr-blue: #1dbef0;
+  --clr-indigo: #7624fa;
+  --clr-purple: #b94bf9;
+  --clr-pink: #ff79ce;
+  --clr-mulberry: #e94084;
 }
 
-.callout[data-callout-metadata*="chara"] {
-    background: rgba(var(--callout-color), 10%);
-    max-width: 100%;
-    padding:0;
-    margin:0 auto;
-    border: none;
-
-    .callout[data-callout="intro"] {
-        width: 150px;
-    }
-    .callout[data-callout="intro"] .callout-content {
-
-        p {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content:space-between;
-        align-items: flex-start;
-            
-        }
-        
-    }
+.accent {
+  --color-accent: var(--text-accent);
 }
+.accent.water {
+  --text-accent: var(--clr-water);
+}
+.accent.fire {
+  --text-accent: var(--clr-fire);
+}
+.accent.air {
+  --text-accent: var(--clr-air);
+}
+.accent.earth {
+  --text-accent: var(--clr-earth);
+}
+.accent.body {
+  --text-accent: var(--clr-body);
+}
+.accent.mind {
+  --text-accent: var(--clr-mind);
+}
+.accent.soul {
+  --text-accent: var(--clr-soul);
+}
+.accent.red {
+  --text-accent: var(--clr-red);
+}
+.accent.orange {
+  --text-accent: var(--clr-orange);
+}
+.accent.yellow {
+  --text-accent: var(--clr-yellow);
+}
+.accent.lime {
+  --text-accent: var(--clr-lime);
+}
+.accent.green {
+  --text-accent: var(--clr-green);
+}
+.accent.mint {
+  --text-accent: var(--clr-mint);
+}
+.accent.teal {
+  --text-accent: var(--clr-teal);
+}
+.accent.blue {
+  --text-accent: var(--clr-blue);
+}
+.accent.indigo {
+  --text-accent: var(--clr-indigo);
+}
+.accent.purple {
+  --text-accent: var(--clr-purple);
+}
+.accent.pink {
+  --text-accent: var(--clr-pink);
+}
+.accent.mulberry {
+  --text-accent: var(--clr-mulberry);
+}
+
+/*================================================ 
+  ✦ Callouts 
+=================================================*/
+.callout[data-callout-metadata*=hide] {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+.callout[data-callout-metadata*=hide] .callout-title {
+  display: none;
+}
+
+.callout[data-callout-metadata*=p-0] {
+  padding: 0;
+}
+
+.callout[data-callout-metadata*=pm-0] {
+  padding: 0;
+  margin: 0;
+}
+
+.callout[data-callout-metadata*=bg-none] {
+  background: none;
+}
+
+.callout[data-callout-metadata*=bg] {
+  background: var(--bg-secondary);
+}
+
+/*# sourceMappingURL=testing.css.map */
